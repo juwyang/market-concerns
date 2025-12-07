@@ -1,0 +1,79 @@
+name: Daily Market Briefing
+
+on:
+  schedule:
+    - cron: '0 5 * * *' 
+  workflow_dispatch:
+    inputs:
+      date:
+        description: 'Date (YYYYMMDD)'
+        required: false
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.9'
+
+      - name: Install dependencies
+        run: |
+          pip install -r requirements.txt
+
+      - name: Calculate Date
+        id: date
+        run: |
+          if [ "${{ github.event.inputs.date }}" != "" ]; then
+            echo "TARGET_DATE=${{ github.event.inputs.date }}" >> $GITHUB_ENV
+          else
+            # Get yesterday's date
+            echo "TARGET_DATE=$(date -d "yesterday" +%Y%m%d)" >> $GITHUB_ENV
+          fi
+
+      - name: Run Pipeline
+        env:
+          DEEPSEEK_API_KEY: ${{ secrets.DEEPSEEK_API_KEY }}
+        run: |
+          echo "Running for date: $TARGET_DATE"
+          
+          # Step 1: Collect News
+          python U1.py --date $TARGET_DATE
+          
+          # Step 2: Generate Briefing
+          # Note: U2.py expects the JSON file from U1.py
+          python U2.py --date $TARGET_DATE --model deepseek-reasoner
+          
+          # Step 3: Convert to HTML
+          python U3.py --date $TARGET_DATE
+
+      - name: Commit and Push Data & Reports
+        run: |
+          git config --global user.name 'GitHub Action'
+          git config --global user.email 'action@github.com'
+          
+          # Add generated files
+          git add data/news-dataset/*.json
+          git add data/news-briefing/*.txt
+          git add data/reports/*.html
+          
+          git commit -m "Add market data and report for $TARGET_DATE" || echo "No changes to commit"
+          git push
+
+      - name: Generate Index
+        run: |
+          python generate_index.py
+
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./data/reports
+          publish_branch: gh-pages
