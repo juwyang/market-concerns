@@ -1,0 +1,132 @@
+News Briefing for: 2025-12-09
+Generated at: 2025-12-10 05:20:51
+LLM Used: DeepSeek (deepseek-reasoner)
+Source JSON: 20251209_barchart_all-commodities_news.json
+Cost info: Prompt tokens: 4417, Completion tokens: 1989, Total tokens: 6406
+Model Processing Time: 64.93 seconds
+
+---
+
+### Daily Financial Briefing: 20251209
+
+#### **Energy**
+1.  **Crude Oil & Gasoline**
+    - **Price Movement:** Declined. January WTI crude oil closed down -0.63 (-1.07%). January RBOB gasoline closed down -0.0084 (-0.47%). Prices added to Monday's losses.
+    - **Key Drivers:** Fears of a global oil glut.
+    - **Reverse Factors:** Not mentioned in the provided articles.
+    - **Classification:** `Short-term influencer - DOWN`
+
+2.  **Natural Gas**
+    - **Price Movement:** Declined sharply. January Nymex natural gas closed down -0.338 (-6.88%), sinking to a 1-week low.
+    - **Key Drivers:** Forecasts of warmer US weather reducing heating demand.
+    - **Reverse Factors:** Not mentioned in the provided articles.
+    - **Classification:** `Short-term influencer - DOWN`
+
+#### **Grains**
+1.  **Wheat**
+    - **Price Movement:** Mixed across exchanges (Chicago SRW, KC HRW, Spring wheat).
+    - **Key Drivers:** Market digesting a USDA report that increased world production estimates.
+    - **Reverse Factors:** Not mentioned in the provided articles.
+    - **Classification:** `Short-term influencer - DOWN`
+
+2.  **Soybeans**
+    - **Price Movement:** Declined. Posted losses of 6 to 8 cents in nearby contracts.
+    - **Key Drivers:** Minimal updates in the USDA report provided no supportive news.
+    - **Reverse Factors:** Not mentioned in the provided articles.
+    - **Classification:** `Short-term influencer - DOWN`
+
+3.  **Corn**
+    - **Price Movement:** Rose. Posted gains of 4 to 5 cents across most contracts.
+    - **Key Drivers:** A bullish USDA report that cut ending stocks.
+    - **Reverse Factors:** Not mentioned in the provided articles.
+    - **Classification:** `Long-term influencer - UP`
+
+#### **Livestock**
+1.  **Lean Hogs**
+    - **Price Movement:** Mixed. Nearby December contract was up, while others were down.
+    - **Key Drivers:** Not specifically cited for the mixed action in closing articles.
+    - **Reverse Factors:** Not mentioned in the provided articles.
+    - **Classification:** `Unclear`
+
+2.  **Live Cattle**
+    - **Price Movement:** Mixed. Nearby December was down, while other contracts were higher.
+    - **Key Drivers:** Not specifically cited for the mixed action in closing articles. Articles noted cash trade and deliveries.
+    - **Reverse Factors:** Not mentioned in the provided articles.
+    - **Classification:** `Unclear`
+
+#### **Metals**
+*No specific metals markets were covered in the provided articles.*
+
+#### **Softs**
+1.  **Cotton**
+    - **Price Movement:** Rose. Closed with gains of 10 to 19 points.
+    - **Key Drivers:** Market held up despite a mildly bearish USDA report that raised US production estimates.
+    - **Reverse Factors:** One article speculates it could be a good time to buy, but this is not a direct reverse factor for the day's move.
+    - **Classification:** `Short-term influencer - UP`
+
+2.  **Sugar**
+    - **Price Movement:** Declined. March NY world sugar #11 closed down -0.15 (-1.01%), tumbling to 3-week lows.
+    - **Key Drivers:** Weakness in the Brazilian Real.
+    - **Reverse Factors:** Not mentioned in the provided articles.
+    - **Classification:** `Short-term influencer - DOWN`
+
+3.  **Cocoa**
+    - **Price Movement:** Rose sharply. March ICE NY cocoa closed up +181 (+3.17%), extending a rally to 3.5-week highs.
+    - **Key Drivers:** A reduced forecast for the global surplus and its inclusion in a major commodity index.
+    - **Reverse Factors:** Not mentioned in the provided articles.
+    - **Classification:** `Long-term influencer - UP`
+
+4.  **Coffee**
+    - **Price Movement:** Rose. March arabica coffee closed up +2.55 (+0.70%).
+    - **Key Drivers:** Lackluster, below-normal precipitation in Brazil.
+    - **Reverse Factors:** Not mentioned in the provided articles.
+    - **Classification:** `Short-term influencer - UP`
+
+#### **Currencies & Stocks**
+1.  **US Dollar**
+    - **Price Movement:** Rose. The dollar index (DXY00) was up by +0.11% / +0.20%.
+    - **Key Drivers:** Better-than-expected October JOLTS jobs report; short covering ahead of the 2-day FOMC meeting.
+    - **Reverse Factors:** The outcome of the FOMC meeting could alter momentum.
+    - **Classification:** `Short-term influencer - UP`
+
+2.  **WEC Energy Stock**
+    - **Price Movement:** Outperformed the Utilities industry over the past year.
+    - **Key Drivers:** Not specified for daily movement. Analysts are cautiously optimistic.
+    - **Reverse Factors:** Not mentioned in the provided articles.
+    - **Classification:** `Unclear`
+
+---
+
+### **Summary & Key Themes**
+- **USDA Report Impact:** The monthly USDA report was a key market driver, with corn rallying on bullish stocks data, while wheat and soybeans faced pressure from increased production or lack of supportive news.
+- **Weather & Currency Sensitivity:** Soft commodities and energy were highly sensitive to short-term factors: weather (nat-gas, coffee), currency moves (sugar), and index flows (cocoa).
+- **Pre-FOMC Caution:** Financial markets showed positioning ahead of the Federal Reserve's policy meeting conclusion.
+
+### **Risks Highlighted**
+1. Weather forecasts turning warmer, posing a downside risk to natural gas and potentially other weather-sensitive commodities.
+2. Global supply dynamics, specifically fears of an oil glut and changing agricultural surplus forecasts (cocoa).
+3. Currency fluctuations, particularly the Brazilian Real's impact on dollar-denominated commodities like sugar.
+
+### **Watch Next**
+1. The outcome of the 2-day FOMC meeting concluding on Wednesday.
+2. Further USDA reports and updates, particularly for grains and cotton.
+3. Weather developments in key agricultural regions like Brazil.
+
+---
+
+### **Price Movement Classification Table**
+| Product          | Classification          | Reason                      |
+|------------------|-------------------------|-----------------------------|
+| Crude Oil        | Short-term influencer - DOWN | Global oil glut fears       |
+| Natural Gas      | Short-term influencer - DOWN | Warmer US weather forecasts |
+| Wheat            | Short-term influencer - DOWN | USDA raised world production|
+| Soybeans         | Short-term influencer - DOWN | Minimal supportive USDA news|
+| Corn             | Long-term influencer - UP    | USDA cut ending stocks      |
+| Lean Hogs        | Unclear                 | Mixed trade, no clear driver|
+| Live Cattle      | Unclear                 | Mixed trade, no clear driver|
+| Cotton           | Short-term influencer - UP   | Held up despite bearish USDA|
+| Sugar            | Short-term influencer - DOWN | Weak Brazilian Real         |
+| Cocoa            | Long-term influencer - UP    | Reduced global surplus      |
+| Coffee           | Short-term influencer - UP   | Lackluster Brazil rains     |
+| US Dollar        | Short-term influencer - UP   | Strong jobs data, FOMC prep |
+| WEC Energy Stock | Unclear                 | Past outperformance cited   |
