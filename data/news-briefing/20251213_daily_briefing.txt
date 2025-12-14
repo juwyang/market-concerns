@@ -1,0 +1,50 @@
+News Briefing for: 2025-12-13
+Generated at: 2025-12-14 05:18:45
+LLM Used: DeepSeek (deepseek-reasoner)
+Source JSON: 20251213_barchart_all-commodities_news.json
+Cost info: Prompt tokens: 1222, Completion tokens: 622, Total tokens: 1844
+Model Processing Time: 22.28 seconds
+
+---
+
+### Daily Financial Briefing: 20251213
+
+#### **Energy**
+*(No related information found in the provided articles.)*
+
+#### **Grains**
+*(No related information found in the provided articles.)*
+
+#### **Livestock**
+*(No related information found in the provided articles.)*
+
+#### **Metals**
+1.  **Silver**
+    - **Price Movement:** Prices are suggested to be near a peak following a "lights-out rally" and "record-setting run."
+    - **Key Drivers:** Analysis of the gold-silver ratio as a technical signal indicating the rally may have run its course.
+    - **Reverse Factors:** Potential for profit-taking after the strong rally, or a reversion of the gold-silver ratio.
+    - **Classification:** `Short-term influencer - DOWN`
+
+#### **Softs**
+*(No related information found in the provided articles.)*
+
+#### **Currencies & Stocks**
+*(No related information found in the provided articles.)*
+
+---
+
+### **Summary & Key Themes**
+- Technical analysis of the gold-silver ratio is being used to assess the sustainability of silver's recent record-breaking rally.
+
+### **Risks Highlighted**
+1. The risk that the rally in silver prices may be ending, based on technical signals.
+
+### **Watch Next**
+1. The movement of the gold-silver ratio for signals on future silver price direction.
+
+---
+
+### **Price Movement Classification Table**
+| Product          | Classification          | Reason                      |
+|------------------|-------------------------|-----------------------------|
+| Silver           | Short-term influencer - DOWN | Technical signal from gold-silver ratio |
