@@ -1,0 +1,138 @@
+News Briefing for: 2025-12-31
+Generated at: 2026-01-01 05:26:55
+LLM Used: DeepSeek (deepseek-reasoner)
+Source JSON: 20251231_barchart_all-commodities_news.json
+Cost info: Prompt tokens: 3707, Completion tokens: 3300, Total tokens: 7007
+Model Processing Time: 102.80 seconds
+
+---
+
+### Daily Financial Briefing: 20251231
+
+#### **Energy**
+1.  **Crude Oil & Gasoline**
+    - **Price Movement:** Declined moderately. February WTI crude oil closed down -0.53 (-0.91%), and February RBOB gasoline closed down -0.0180 (-1.04%). Prices gave up an early advance.
+    - **Key Drivers:** Abundant supplies, a stronger US dollar, and a bearish EIA inventory report.
+    - **Reverse Factors:** Early gains were erased. A continued strong dollar could further pressure demand.
+    - **Classification:** Short-term influencer - DOWN
+
+2.  **Natural Gas**
+    - **Price Movement:** Plunged significantly. February Nymex natural gas closed down -0.286 (-7.20%) to a 2-month low.
+    - **Key Drivers:** Ample supplies, warmer-than-expected US temperatures, and a weekly storage report that showed a smaller-than-expected draw.
+    - **Reverse Factors:** The sharp sell-off was driven by immediate supply and weather data.
+    - **Classification:** Short-term influencer - DOWN
+
+#### **Grains**
+1.  **Cotton**
+    - **Price Movement:** Closed weaker with losses of 2 to 5 points across most contracts.
+    - **Key Drivers:** Weak demand is cited as a key factor hurting prices, though a potential turnaround is noted.
+    - **Reverse Factors:** Further price strength could present a selling opportunity.
+    - **Classification:** Short-term influencer - DOWN
+
+2.  **Wheat**
+    - **Price Movement:** Closed lower. Chicago SRW futures were 3 to 4 cents lower, and KC HRW futures were 7 to 8 cents lower.
+    - **Key Drivers:** The articles state the complex was weaker but do not specify a primary driver for the session.
+    - **Reverse Factors:** None explicitly mentioned in the provided text.
+    - **Classification:** Unclear
+
+3.  **Soybeans**
+    - **Price Movement:** Collapsed, with contracts down 13 to 16 cents at the close.
+    - **Key Drivers:** The articles note the market fell to pressure but do not cite a specific fundamental driver.
+    - **Reverse Factors:** There were 1,062 deliveries issued against January beans on First Notice Day (FND).
+    - **Classification:** Unclear
+
+4.  **Corn**
+    - **Price Movement:** Slipped fractionally lower to close the year.
+    - **Key Drivers:** Steady to slightly lower trade, with the national average cash price down another 1.5 cents.
+    - **Reverse Factors:** The market showed slight gains earlier in the session before closing lower.
+    - **Classification:** Short-term influencer - DOWN
+
+#### **Livestock**
+1.  **Lean Hogs**
+    - **Price Movement:** Slipped lower, with losses of a nickel to 35 cents.
+    - **Key Drivers:** USDA’s national base hog price was reported down 19 cents from the prior day.
+    - **Reverse Factors:** The market had posted strong gains on Tuesday with indications of new buying interest.
+    - **Classification:** Short-term influencer - DOWN
+
+2.  **Live Cattle**
+    - **Price Movement:** Gained strength, with futures up 82 cents to $1.22.
+    - **Key Drivers:** Not explicitly stated in the provided text beyond closing the year with strength.
+    - **Reverse Factors:** Cash trade has been light this week, with not enough volume to establish a clear trend.
+    - **Classification:** Short-term influencer - UP
+
+#### **Metals**
+1.  **Precious Metals**
+    - **Price Movement:** Plunged in year-end trading.
+    - **Key Drivers:** A rally in the US dollar and rising T-note yields.
+    - **Reverse Factors:** The articles note a "wild ride" is expected to continue, suggesting high volatility.
+    - **Classification:** Short-term influencer - DOWN
+
+#### **Softs**
+1.  **Sugar**
+    - **Price Movement:** Climbed sharply. March NY world sugar #11 closed up +0.17 (+1.15%).
+    - **Key Drivers:** Year-end short covering, with prices recovering from 1-week lows.
+    - **Reverse Factors:** The rally is attributed to technical positioning (short covering) rather than a change in fundamentals.
+    - **Classification:** Short-term influencer - UP
+
+2.  **Cocoa**
+    - **Price Movement:** Settled slightly higher. March ICE NY cocoa closed up +2 (+0.03%).
+    - **Key Drivers:** Consolidation below Monday's 2-week highs.
+    - **Reverse Factors:** Prices are consolidating gains from a previous rally, indicating a pause.
+    - **Classification:** Short-term influencer - UP
+
+3.  **Coffee**
+    - **Price Movement:** Mixed; March arabica coffee closed down -0.41%, while robusta closed slightly up +0.10%.
+    - **Key Drivers:** Arabica gave up early gains as the US dollar rallied. Underlying support comes from global crop concerns.
+    - **Reverse Factors:** The conflicting price action (arabica down, robusta up) and the offsetting impact of dollar strength make the primary driver unclear for the day.
+    - **Classification:** Unclear
+
+#### **Currencies & Stocks**
+1.  **US Dollar Index**
+    - **Price Movement:** Finished higher, rallying 0.07% to 0.25% to a 1-week high.
+    - **Key Drivers:** Positive US labor news (unemployment claims fell unexpectedly) and higher T-note yields.
+    - **Reverse Factors:** The rally was a reaction to specific, recent economic data.
+    - **Classification:** Short-term influencer - UP
+
+2.  **Mining Stocks**
+    - **Price Movement:** Highlighted for positive outlook in 2026.
+    - **Key Drivers:** Jefferies is betting big on the sector for 2026, citing strong fundamentals in top-rated companies.
+    - **Reverse Factors:** The analysis is forward-looking for the next year, not based on today's price action.
+    - **Classification:** Long-term influencer - UP
+
+---
+
+### **Summary & Key Themes**
+- Broad commodity weakness marked the final trading day of 2025, particularly in energy (crude, nat-gas) and grains (soybeans, wheat).
+- The strengthening US Dollar, driven by positive labor data and higher yields, acted as a headwind for dollar-denominated assets like crude oil and precious metals.
+- Livestock markets were mixed, with cattle finishing strong but hogs slipping.
+- Soft commodities (sugar, cocoa) showed resilience, supported by technical factors and underlying supply concerns.
+
+### **Risks Highlighted**
+1. Oversupply conditions in energy markets, notably crude oil and natural gas, continue to pressure prices.
+2. Warm US weather forecasts pose a downside risk to natural gas demand and pricing.
+3. High volatility is expected to persist in metals markets.
+
+### **Watch Next**
+1. Market closure on Thursday, January 1st, for New Year's Day.
+2. Post-holiday market reaction and any new fundamental data or reports.
+3. Weather patterns, as they directly impact natural gas demand and agricultural growing conditions.
+
+---
+
+### **Price Movement Classification Table**
+| Product          | Classification          | Reason                      |
+|------------------|-------------------------|-----------------------------|
+| Crude Oil        | Short-term influencer - DOWN | Abundant supplies, dollar strength |
+| Natural Gas      | Short-term influencer - DOWN | Ample supply, warm temps    |
+| Cotton           | Short-term influencer - DOWN | Weak demand                 |
+| Wheat            | Unclear                 | General market weakness     |
+| Soybeans         | Unclear                 | Price collapse, no clear driver |
+| Corn             | Short-term influencer - DOWN | Fractional loss, cash price down |
+| Lean Hogs        | Short-term influencer - DOWN | Lower cash price            |
+| Live Cattle      | Short-term influencer - UP   | Session strength            |
+| Precious Metals  | Short-term influencer - DOWN | Dollar rally, higher yields |
+| Sugar            | Short-term influencer - UP   | Year-end short covering     |
+| Cocoa            | Short-term influencer - UP   | Consolidation of gains      |
+| Coffee           | Unclear                 | Mixed trade, dollar impact  |
+| US Dollar        | Short-term influencer - UP   | Positive labor data         |
+| Mining Stocks    | Long-term influencer - UP    | Strong 2026 fundamentals    |
