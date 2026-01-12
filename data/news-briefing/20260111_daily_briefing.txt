@@ -1,0 +1,37 @@
+News Briefing for: 2026-01-11
+Generated at: 2026-01-12 05:28:18
+LLM Used: DeepSeek (deepseek-reasoner)
+Source JSON: 20260111_barchart_all-commodities_news.json
+Cost info: Prompt tokens: 1195, Completion tokens: 551, Total tokens: 1746
+Model Processing Time: 20.11 seconds
+
+---
+
+### Daily Financial Briefing: 20260111
+
+#### **Energy**
+1.  **Crude Oil**
+    - **Price Movement:** The article does not specify a price direction or change for the day. It highlights an ongoing debate about the market's fundamental direction.
+    - **Key Drivers:** Debate over whether crude oil markets are becoming more fundamentally bearish or possibly bullish following events in early 2026.
+    - **Reverse Factors:** The market view could shift based on the outcome of the debate; a consensus forming on either a bullish or bearish outlook would reverse the current state of uncertainty.
+    - **Classification:** `Unclear`
+
+*(No information was provided in the articles for the following categories: Grains, Livestock, Metals, Softs, Currencies & Stocks.)*
+
+---
+
+### **Summary & Key Themes**
+- Uncertainty dominates the crude oil market as analysts debate whether recent events point to a bearish or bullish fundamental shift.
+
+### **Risks Highlighted**
+1. Risk of misinterpreting early 2026 market events, leading to incorrect positioning for a bullish or bearish trend.
+
+### **Watch Next**
+1. The outcome of the debate on crude oil's fundamental direction (bullish vs. bearish).
+
+---
+
+### **Price Movement Classification Table**
+| Product   | Classification | Reason                |
+|-----------|----------------|-----------------------|
+| Crude Oil | Unclear        | Debate on fundamentals |
