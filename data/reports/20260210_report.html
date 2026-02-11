@@ -1,0 +1,599 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Daily Financial Briefing - 2026-02-10</title>
+    <style>
+        /* --- General & Reset --- */
+        :root {
+            --bg-color: #f0f2f5;
+            --card-bg: #ffffff;
+            --text-color: #333333;
+            --header-color: #1a2c4e;
+            --border-color: #e0e0e0;
+            --green-color: #28a745;
+            --red-color: #dc3545;
+            --gray-color: #6c757d;
+            --green-bg: #e9f7ec;
+            --red-bg: #fdebec;
+            --gray-bg: #f8f9fa;
+        }
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+            margin: 0;
+            background-color: var(--bg-color);
+            color: var(--text-color);
+            line-height: 1.6;
+        }
+        * {
+            box-sizing: border-box;
+        }
+
+        /* --- Layout --- */
+        .dashboard-container {
+            display: flex;
+            flex-wrap: wrap;
+            padding: 20px;
+            gap: 20px;
+        }
+        .column {
+            display: flex;
+            flex-direction: column;
+            gap: 20px;
+        }
+        .column-left { flex: 1 1 300px; }
+        .column-main { flex: 2 1 500px; }
+        .column-right { flex: 1 1 300px; }
+
+        /* --- Cards --- */
+        .card {
+            background-color: var(--card-bg);
+            border-radius: 8px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+            padding: 20px;
+            border: 1px solid var(--border-color);
+        }
+        .card h2 {
+            margin-top: 0;
+            color: var(--header-color);
+            font-size: 1.2rem;
+            border-bottom: 1px solid var(--border-color);
+            padding-bottom: 10px;
+            margin-bottom: 15px;
+        }
+
+        /* --- Left Column: Market Snapshot --- */
+        .summary-table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+        .summary-table th, .summary-table td {
+            text-align: left;
+            padding: 10px 8px;
+            border-bottom: 1px solid var(--border-color);
+            font-size: 0.9rem;
+        }
+        .summary-table th {
+            font-weight: 600;
+        }
+        .summary-table tr:last-child td {
+            border-bottom: none;
+        }
+        .status-badge {
+            padding: 4px 10px;
+            border-radius: 12px;
+            font-weight: 700;
+            font-size: 0.8rem;
+            color: var(--card-bg);
+            text-transform: uppercase;
+        }
+
+        /* --- Main Column: Commodity Details --- */
+        .main-header {
+            text-align: center;
+            margin-bottom: 20px;
+        }
+        .main-header h1 {
+            color: var(--header-color);
+            margin: 0;
+        }
+        .main-header p {
+            color: var(--gray-color);
+            font-size: 1.1rem;
+            margin-top: 5px;
+        }
+        .category-header {
+            text-transform: uppercase;
+            color: var(--gray-color);
+            letter-spacing: 1px;
+            margin-top: 20px;
+            margin-bottom: 10px;
+            font-size: 1rem;
+        }
+        .commodity-card .card-header h3 {
+            margin: 0;
+            font-size: 1.15rem;
+            color: var(--header-color);
+        }
+        .price-info {
+            display: flex;
+            align-items: baseline;
+            gap: 15px;
+            margin: 15px 0;
+        }
+        .price-movement {
+            font-size: 1.5rem;
+            font-weight: 700;
+        }
+        .price-detail {
+            font-size: 0.95rem;
+            color: var(--gray-color);
+        }
+        .arrow-up::before { content: '▲'; font-size: 0.6em; }
+        .arrow-down::before { content: '▼'; font-size: 0.6em; }
+        .drivers-section h4 {
+            margin-bottom: 5px;
+            margin-top: 15px;
+            font-size: 0.9rem;
+            color: var(--header-color);
+        }
+        .drivers-section ul {
+            margin: 0;
+            padding-left: 20px;
+            font-size: 0.9rem;
+        }
+        .classification-badge {
+            margin-top: 15px;
+            padding: 5px 12px;
+            border-radius: 5px;
+            display: inline-block;
+            font-size: 0.8rem;
+            font-weight: 500;
+            color: var(--text-color);
+        }
+
+        /* --- Right Column: Summaries --- */
+        .right-column-list {
+            padding-left: 20px;
+            margin: 0;
+            font-size: 0.9rem;
+        }
+        .right-column-list li {
+            margin-bottom: 10px;
+        }
+
+        /* --- Color Utilities --- */
+        .bg-green { background-color: var(--green-color); }
+        .bg-red { background-color: var(--red-color); }
+        .bg-gray { background-color: var(--gray-color); }
+        .color-green { color: var(--green-color); }
+        .color-red { color: var(--red-color); }
+        .classification-badge.bg-green { background-color: var(--green-bg); color: var(--green-color); border: 1px solid var(--green-color); }
+        .classification-badge.bg-red { background-color: var(--red-bg); color: var(--red-color); border: 1px solid var(--red-color); }
+        .classification-badge.bg-gray { background-color: var(--gray-bg); color: var(--gray-color); border: 1px solid #ccc; }
+        
+        /* --- Responsive Design --- */
+        @media (max-width: 1024px) {
+            .column-left, .column-right { flex: 1 1 100%; order: 3; }
+            .column-main { flex: 2 1 100%; order: 1; }
+            .main-header { order: 0; width: 100%; }
+        }
+        @media (max-width: 768px) {
+            .dashboard-container {
+                flex-direction: column;
+                padding: 10px;
+                gap: 10px;
+            }
+            .column {
+                gap: 10px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="dashboard-container">
+        <!-- ======================= LEFT COLUMN ======================== -->
+        <aside class="column column-left">
+            <div class="card">
+                <h2>Market Snapshot</h2>
+                <table class="summary-table">
+                    <thead>
+                        <tr>
+                            <th>Product</th>
+                            <th>Movement</th>
+                            <th>Reason</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        
+                        <tr>
+                            <td>Crude Oil & Gasoline</td>
+                            <td><span class="status-badge bg-red">DOWN</span></td>
+                            <td>Weak demand data</td>
+                        </tr>
+                        <tr>
+                            <td>Natural Gas</td>
+                            <td><span class="status-badge bg-red">DOWN</span></td>
+                            <td>Above-normal temperatures</td>
+                        </tr>
+                        <tr>
+                            <td>Corn</td>
+                            <td><span class="status-badge bg-green">UP</span></td>
+                            <td>USDA trimmed carryout</td>
+                        </tr>
+                        <tr>
+                            <td>Soybeans</td>
+                            <td><span class="status-badge bg-green">UP</span></td>
+                            <td>Resumed market strength</td>
+                        </tr>
+                        <tr>
+                            <td>Wheat</td>
+                            <td><span class="status-badge bg-gray">UNCLEAR</span></td>
+                            <td>Mixed market trade</td>
+                        </tr>
+                        <tr>
+                            <td>Live Cattle</td>
+                            <td><span class="status-badge bg-red">DOWN</span></td>
+                            <td>Quiet cash trade</td>
+                        </tr>
+                        <tr>
+                            <td>Lean Hogs</td>
+                            <td><span class="status-badge bg-red">DOWN</span></td>
+                            <td>Weak cash market</td>
+                        </tr>
+                        <tr>
+                            <td>Gold</td>
+                            <td><span class="status-badge bg-red">DOWN</span></td>
+                            <td>Hawkish Fed comments</td>
+                        </tr>
+                        <tr>
+                            <td>Cotton</td>
+                            <td><span class="status-badge bg-gray">UNCLEAR</span></td>
+                            <td>Mixed, erased gains</td>
+                        </tr>
+                        <tr>
+                            <td>Sugar</td>
+                            <td><span class="status-badge bg-red">DOWN</span></td>
+                            <td>Ample global supply</td>
+                        </tr>
+                        <tr>
+                            <td>Cocoa</td>
+                            <td><span class="status-badge bg-red">DOWN</span></td>
+                            <td>Robust supplies, weak demand</td>
+                        </tr>
+                        <tr>
+                            <td>Coffee</td>
+                            <td><span class="status-badge bg-red">DOWN</span></td>
+                            <td>Bumper Brazil crop outlook</td>
+                        </tr>
+                        <tr>
+                            <td>US Dollar Index</td>
+                            <td><span class="status-badge bg-green">UP</span></td>
+                            <td>Hawkish Fed comments</td>
+                        </tr>
+                        <tr>
+                            <td>Utility Stocks</td>
+                            <td><span class="status-badge bg-gray">UNCLEAR</span></td>
+                            <td>Analyst optimism noted</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+        </aside>
+
+        <!-- ======================= MIDDLE COLUMN ======================== -->
+        <main class="column column-main">
+            <header class="main-header">
+                <h1>Daily Financial Briefing</h1>
+                <p>Date: 2026-02-10</p>
+            </header>
+            <section><h2 class="category-header">ENERGY</h2>
+                <div class="card commodity-card">
+                    <div class="card-header">
+                        <h3>Crude Oil & Gasoline (WTI, RBOB)</h3>
+                    </div>
+                    
+            <div class="price-info">
+                <div class="price-movement color-red">-0.62%</div>
+                <div class="price-detail">Declined moderately. March WTI crude closed down -0.62% to $64.20, and March RBOB gasoline closed down -1.32%.</div>
+            </div>
+        
+                    <div class="drivers-section">
+                        <h4>Key Drivers</h4>
+                        <ul><li>Energy demand concerns following weaker-than-expected US retail sales data.</li></ul>
+                        <h4>Reverse Factors</h4>
+                        <ul><li>Positive shifts in demand outlook or geopolitical supply disruptions.</li></ul>
+                    </div>
+                    <div class="classification-badge bg-red">
+                        `Short-term influencer - DOWN`
+                    </div>
+                </div>
+                <div class="card commodity-card">
+                    <div class="card-header">
+                        <h3>Natural Gas</h3>
+                    </div>
+                    
+            <div class="price-info">
+                <div class="price-movement color-red">-0.73%</div>
+                <div class="price-detail">Declined for a third session, closing down -0.73% and hitting a 4-week low.</div>
+            </div>
+        
+                    <div class="drivers-section">
+                        <h4>Key Drivers</h4>
+                        <ul><li>Forecasts of above-average temperatures across the US reducing heating demand. The approach of the shoulder season is also seen as a negative seasonal factor.</li></ul>
+                        <h4>Reverse Factors</h4>
+                        <ul><li>A shift to colder-than-expected weather forecasts or unexpected supply outages.</li></ul>
+                    </div>
+                    <div class="classification-badge bg-red">
+                        `Short-term influencer - DOWN`
+                    </div>
+                </div></section><section><h2 class="category-header">GRAINS</h2>
+                <div class="card commodity-card">
+                    <div class="card-header">
+                        <h3>Corn</h3>
+                    </div>
+                    
+            <div class="price-info">
+                <div class="price-movement color-green"></div>
+                <div class="price-detail">Closed firmer, with front-month contracts up 1 to 2 cents.</div>
+            </div>
+        
+                    <div class="drivers-section">
+                        <h4>Key Drivers</h4>
+                        <ul><li>The USDA's February Supply and Demand report trimmed carryout estimates.</li></ul>
+                        <h4>Reverse Factors</h4>
+                        <ul><li>Future adjustments in USDA estimates or changes in planting/crop condition expectations.</li></ul>
+                    </div>
+                    <div class="classification-badge bg-green">
+                        `Short-term influencer - UP`
+                    </div>
+                </div>
+                <div class="card commodity-card">
+                    <div class="card-header">
+                        <h3>Soybeans</h3>
+                    </div>
+                    
+            <div class="price-info">
+                <div class="price-movement color-green"></div>
+                <div class="price-detail">Rose significantly, with front-month contracts closing 11 to 13 cents higher.</div>
+            </div>
+        
+                    <div class="drivers-section">
+                        <h4>Key Drivers</h4>
+                        <ul><li>Market strength resumed, with supportive cash prices. Trading was also higher ahead of the USDA report.</li></ul>
+                        <h4>Reverse Factors</h4>
+                        <ul><li>Bearish surprises in future USDA reports or a slowdown in demand.</li></ul>
+                    </div>
+                    <div class="classification-badge bg-green">
+                        `Short-term influencer - UP`
+                    </div>
+                </div>
+                <div class="card commodity-card">
+                    <div class="card-header">
+                        <h3>Wheat</h3>
+                    </div>
+                    
+            <div class="price-info">
+                <div class="price-movement color-grey"></div>
+                <div class="price-detail">Trade was mixed across the three markets. Chicago SRW was fractionally lower, KC HRW saw 1-3 cent gains, and MPLS spring wheat was mixed.</div>
+            </div>
+        
+                    <div class="drivers-section">
+                        <h4>Key Drivers</h4>
+                        <ul><li>Varied market-specific dynamics, with some technical "Turnaround Tuesday" action noted.</li></ul>
+                        <h4>Reverse Factors</h4>
+                        <ul><li>Clear directional catalysts from global supply news or demand shifts.</li></ul>
+                    </div>
+                    <div class="classification-badge bg-gray">
+                        `Unclear`
+                    </div>
+                </div></section><section><h2 class="category-header">LIVESTOCK</h2>
+                <div class="card commodity-card">
+                    <div class="card-header">
+                        <h3>Cattle (Live)</h3>
+                    </div>
+                    
+            <div class="price-info">
+                <div class="price-movement color-red"></div>
+                <div class="price-detail">Declined moderately, down 20 to 80 cents across most contracts.</div>
+            </div>
+        
+                    <div class="drivers-section">
+                        <h4>Key Drivers</h4>
+                        <ul><li>Quiet cash trade activity following last week's prices.</li></ul>
+                        <h4>Reverse Factors</h4>
+                        <ul><li>Resumption of active cash trade at higher prices.</li></ul>
+                    </div>
+                    <div class="classification-badge bg-red">
+                        `Short-term influencer - DOWN`
+                    </div>
+                </div>
+                <div class="card commodity-card">
+                    <div class="card-header">
+                        <h3>Hogs (Lean)</h3>
+                    </div>
+                    
+            <div class="price-info">
+                <div class="price-movement color-red"></div>
+                <div class="price-detail">Posted weakness, with contracts closing 25 cents to $1.25 lower. The CME Lean Hog Index was 11 cents lower.</div>
+            </div>
+        
+                    <div class="drivers-section">
+                        <h4>Key Drivers</h4>
+                        <ul><li>General market weakness and lower cash prices (USDA national base hog price at $87.74).</li></ul>
+                        <h4>Reverse Factors</h4>
+                        <ul><li>Improvement in cash market demand or tightening supplies.</li></ul>
+                    </div>
+                    <div class="classification-badge bg-red">
+                        `Short-term influencer - DOWN`
+                    </div>
+                </div></section><section><h2 class="category-header">METALS</h2>
+                <div class="card commodity-card">
+                    <div class="card-header">
+                        <h3>Gold</h3>
+                    </div>
+                    
+            <div class="price-info">
+                <div class="price-movement color-red"></div>
+                <div class="price-detail">Fell as the US dollar recovered.</div>
+            </div>
+        
+                    <div class="drivers-section">
+                        <h4>Key Drivers</h4>
+                        <ul><li>Hawkish comments from Federal Reserve officials, specifically from the Cleveland Fed President.</li></ul>
+                        <h4>Reverse Factors</h4>
+                        <ul><li>A shift to more dovish Fed commentary or renewed economic uncertainty.</li></ul>
+                    </div>
+                    <div class="classification-badge bg-red">
+                        `Short-term influencer - DOWN`
+                    </div>
+                </div></section><section><h2 class="category-header">SOFTS</h2>
+                <div class="card commodity-card">
+                    <div class="card-header">
+                        <h3>Cotton</h3>
+                    </div>
+                    
+            <div class="price-info">
+                <div class="price-movement color-grey"></div>
+                <div class="price-detail">Nearly unchanged, closing within 5 points of the prior close after falling from early session highs.</div>
+            </div>
+        
+                    <div class="drivers-section">
+                        <h4>Key Drivers</h4>
+                        <ul><li>Mixed sentiment, unable to hold early gains.</li></ul>
+                        <h4>Reverse Factors</h4>
+                        <ul><li>A sustained move in related markets like crude oil or a clear demand signal.</li></ul>
+                    </div>
+                    <div class="classification-badge bg-gray">
+                        `Unclear`
+                    </div>
+                </div>
+                <div class="card commodity-card">
+                    <div class="card-header">
+                        <h3>Sugar</h3>
+                    </div>
+                    
+            <div class="price-info">
+                <div class="price-movement color-red">-1.60%</div>
+                <div class="price-detail">Retreated, with March NY world sugar down -1.60% and London white sugar falling to a 5-year low.</div>
+            </div>
+        
+                    <div class="drivers-section">
+                        <h4>Key Drivers</h4>
+                        <ul><li>Ample global sugar supplies, with the world described as "awash in sugar."</li></ul>
+                        <h4>Reverse Factors</h4>
+                        <ul><li>Significant supply disruptions in major producing regions.</li></ul>
+                    </div>
+                    <div class="classification-badge bg-red">
+                        `Long-term influencer - DOWN`
+                    </div>
+                </div>
+                <div class="card commodity-card">
+                    <div class="card-header">
+                        <h3>Cocoa</h3>
+                    </div>
+                    
+            <div class="price-info">
+                <div class="price-movement color-red">-7.24%</div>
+                <div class="price-detail">Plummeted sharply, with March NY cocoa down -7.24% to a 2.25-year low.</div>
+            </div>
+        
+                    <div class="drivers-section">
+                        <h4>Key Drivers</h4>
+                        <ul><li>Robust global supplies building while demand wanes.</li></ul>
+                        <h4>Reverse Factors</h4>
+                        <ul><li>Supply shocks in West Africa or a rebound in demand.</li></ul>
+                    </div>
+                    <div class="classification-badge bg-red">
+                        `Long-term influencer - DOWN`
+                    </div>
+                </div>
+                <div class="card commodity-card">
+                    <div class="card-header">
+                        <h3>Coffee</h3>
+                    </div>
+                    
+            <div class="price-info">
+                <div class="price-movement color-red">-1.88%</div>
+                <div class="price-detail">Slumped, with March arabica down -1.88% and robusta down -2.37%.</div>
+            </div>
+        
+                    <div class="drivers-section">
+                        <h4>Key Drivers</h4>
+                        <ul><li>The outlook for a bumper coffee crop in Brazil due to improved weather and increased precipitation.</li></ul>
+                        <h4>Reverse Factors</h4>
+                        <ul><li>Adverse weather damaging the Brazilian crop.</li></ul>
+                    </div>
+                    <div class="classification-badge bg-red">
+                        `Long-term influencer - DOWN`
+                    </div>
+                </div></section><section><h2 class="category-header">CURRENCIES & STOCKS</h2>
+                <div class="card commodity-card">
+                    <div class="card-header">
+                        <h3>US Dollar Index</h3>
+                    </div>
+                    
+            <div class="price-info">
+                <div class="price-movement color-green">0.01%</div>
+                <div class="price-detail">Recovered modestly, finishing up 0.01% after hitting a 1-week low earlier in the day.</div>
+            </div>
+        
+                    <div class="drivers-section">
+                        <h4>Key Drivers</h4>
+                        <ul><li>Hawkish Federal Reserve comments outweighed earlier pressure from weaker-than-expected US economic reports (Q4 employment cost index).</li></ul>
+                        <h4>Reverse Factors</h4>
+                        <ul><li>Further weak economic data leading to expectations of a dovish Fed pivot.</li></ul>
+                    </div>
+                    <div class="classification-badge bg-green">
+                        `Short-term influencer - UP`
+                    </div>
+                </div>
+                <div class="card commodity-card">
+                    <div class="card-header">
+                        <h3>Stocks (Alliant Energy, FirstEnergy)</h3>
+                    </div>
+                    
+            <div class="price-info">
+                <div class="price-movement color-grey"></div>
+                <div class="price-detail">Not specified for the day. Articles note past performance and analyst sentiment.</div>
+            </div>
+        
+                    <div class="drivers-section">
+                        <h4>Key Drivers</h4>
+                        <ul><li>Analysts are moderately optimistic about both stocks' prospects.</li></ul>
+                        <h4>Reverse Factors</h4>
+                        <ul><li>Company-specific news or broader market downturns.</li></ul>
+                    </div>
+                    <div class="classification-badge bg-gray">
+                        `Unclear`
+                    </div>
+                </div></section>
+        </main>
+
+        <!-- ======================= RIGHT COLUMN ======================== -->
+        <aside class="column column-right">
+            <div class="card">
+                <h2><i class="fa-solid fa-lightbulb"></i>Key Themes</h2>
+                <ul class="right-column-list theme-list">
+                    <li>**Broad Softs Weakness:** Sugar, cocoa, and coffee prices fell sharply due to ample or improving global supply prospects.</li><li>**Grains Find Support:** Corn and soybeans closed higher, with the USDA report providing a supportive catalyst for corn.</li><li>**Energy Demand Concerns:** Crude oil and natural gas prices fell on worries about demand and warm weather, respectively.</li><li>**Livestock Pressure:** Cattle and hog markets weakened amid quiet cash trade and lower index values.</li><li>**Dollar Firms on Fed Talk:** The US dollar recovered from early losses following hawkish commentary from Fed officials.</li>
+                </ul>
+            </div>
+            <div class="card">
+                <h2><i class="fa-solid fa-triangle-exclamation"></i>Risks Highlighted</h2>
+                <ul class="right-column-list risk-list">
+                    <li>Persistently high global supplies of soft commodities like sugar and cocoa weighing on prices.</li><li>Energy demand uncertainty posing a risk to crude oil prices.</li><li>The approach of the shoulder season for natural gas, which seasonally favors lower prices.</li><li>Federal Reserve policy remaining a key driver for the dollar and gold markets.</li>
+                </ul>
+            </div>
+            <div class="card">
+                <h2><i class="fa-solid fa-binoculars"></i>Watch Next</h2>
+                <ul class="right-column-list watch-list">
+                    <li>Further USDA report interpretations and their impact on grain markets.</li><li>Weather developments in Brazil for the coffee crop and in the US for natural gas demand.</li><li>Upcoming US economic data and Federal Reserve speaker commentary for dollar direction.</li>
+                </ul>
+            </div>
+        </aside>
+    </div>
+</body>
+</html>
+        
