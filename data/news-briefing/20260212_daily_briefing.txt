@@ -1,0 +1,131 @@
+News Briefing for: 2026-02-12
+Generated at: 2026-02-13 05:59:08
+LLM Used: DeepSeek (deepseek-reasoner)
+Source JSON: 20260212_barchart_all-commodities_news.json
+Cost info: Prompt tokens: 3708, Completion tokens: 2409, Total tokens: 6117
+Model Processing Time: 83.90 seconds
+
+---
+
+### Daily Financial Briefing: 20260212
+
+#### **Energy**
+1.  **Crude Oil & Gasoline**
+    - **Price Movement:** Declined significantly. WTI crude closed down -1.79 (-2.77%) at $62.91 per barrel, and RBOB gasoline closed down -3.18%.
+    - **Key Drivers:** Risk-off sentiment in broader asset markets; easing US-Iran tensions reducing the geopolitical risk premium.
+    - **Reverse Factors:** Geopolitical risks in the Middle East had previously pushed prices higher by over $10/barrel from mid-December lows, indicating underlying supportive factors that could resurface.
+    - **Classification:** `Short-term influencer - DOWN`
+
+2.  **Natural Gas**
+    - **Price Movement:** Rose moderately. March Nymex natural gas closed up +1.41%.
+    - **Key Drivers:** An above-average decline in weekly US natural gas inventories reported by the EIA, indicating tighter supplies.
+    - **Reverse Factors:** Inventory changes are a weekly data point; price direction can reverse with the next storage report.
+    - **Classification:** `Short-term influencer - UP`
+
+#### **Grains**
+1.  **Wheat**
+    - **Price Movement:** Rose significantly across all exchanges (Chicago, KC). Chicago SRW futures closed 13 to 15 1/4 cents higher.
+    - **Key Drivers:** General strength in the grain complex, providing spillover support.
+    - **Reverse Factors:** The rally was broad-based and not tied to a specific new catalyst, making it potentially vulnerable to profit-taking.
+    - **Classification:** `Short-term influencer - UP`
+
+2.  **Soybeans**
+    - **Price Movement:** Rose significantly. Front months closed up 11 to 13 1/4 cents. The national average cash price was up 13 1/4 cents.
+    - **Key Drivers:** Spillover strength from the broader grain rally.
+    - **Reverse Factors:** Similar to wheat, lacking a singular, fresh fundamental driver.
+    - **Classification:** `Short-term influencer - UP`
+
+3.  **Corn**
+    - **Price Movement:** Rose moderately. Futures closed up 3 to 5 1/2 cents. The national average cash price was up 3 3/4 cents.
+    - **Key Drivers:** Spillover support from rallies in wheat and soybeans.
+    - **Reverse Factors:** Reliant on continued strength in other grains.
+    - **Classification:** `Short-term influencer - UP`
+
+#### **Livestock**
+1.  **Lean Hogs**
+    - **Price Movement:** Declined significantly. Futures closed down $1.75 to $2.02. The national base hog price was down $1.22 to $86.95.
+    - **Key Drivers:** Continuation of a weekly downtrend; general selling pressure.
+    - **Reverse Factors:** No specific reversal factors mentioned; quiet cash trade suggests a lack of clear direction.
+    - **Classification:** `Short-term influencer - DOWN`
+
+2.  **Live Cattle**
+    - **Price Movement:** Mixed to slightly lower. Nearby February contract was up 15 cents, while other contracts were down 30 to 50 cents. Cash trade remained quiet.
+    - **Key Drivers:** Limited activity in the cash market.
+    - **Reverse Factors:** An online auction saw some light sales, which could provide a floor if cash trade picks up.
+    - **Classification:** `Unclear`
+
+#### **Softs**
+1.  **Cotton**
+    - **Price Movement:** Rose slightly. Front-month futures gained 25 to 30 points.
+    - **Key Drivers:** Not explicitly stated in the provided summary text.
+    - **Reverse Factors:** The summary does not provide a driver or counter-factor.
+    - **Classification:** `Unclear`
+
+2.  **Sugar**
+    - **Price Movement:** Declined, extending a 5-month plunge. NY world sugar #11 closed down -0.65%, hitting a 5.25-year low.
+    - **Key Drivers:** Expanding global stockpiles and abundant supplies.
+    - **Reverse Factors:** The persistent, multi-month nature of the decline suggests a strong structural oversupply, which would take time to reverse.
+    - **Classification:** `Long-term influencer - DOWN`
+
+3.  **Cocoa**
+    - **Price Movement:** Declined sharply, extending a six-week plunge. NY cocoa closed down -3.46%, hitting a 2-year low.
+    - **Key Drivers:** Ample supplies and weak demand.
+    - **Reverse Factors:** The sustained downtrend points to a fundamental imbalance between supply and demand.
+    - **Classification:** `Long-term influencer - DOWN`
+
+4.  **Coffee**
+    - **Price Movement:** Rose sharply. Arabica coffee closed up +1.65% and robusta up +2.02%.
+    - **Key Drivers:** A rally in the Brazilian Real (BRL), which spurred short-covering by traders.
+    - **Reverse Factors:** The movement is tied to currency fluctuations, which can be volatile and reverse quickly.
+    - **Classification:** `Short-term influencer - UP`
+
+#### **Currencies & Stocks**
+1.  **US Dollar Index**
+    - **Price Movement:** Rose slightly, up +0.12% to $96.92 after recovering from early losses.
+    - **Key Drivers:** Risk-off sentiment and a sell-off in equity markets spurred liquidity demand for the dollar.
+    - **Reverse Factors:** Earlier in the day, the dollar slipped alongside lower T-note yields.
+    - **Classification:** `Short-term influencer - UP`
+
+2.  **Equities (General Market)**
+    - **Price Movement:** Tumbled, indicating a risk-off session.
+    - **Key Drivers:** Not specified in the provided summaries, but cited as a factor driving dollar strength and crude oil weakness.
+    - **Reverse Factors:** The provided articles do not specify what might reverse the equity sell-off.
+    - **Classification:** `Short-term influencer - DOWN`
+
+---
+
+### **Summary & Key Themes**
+- **Risk-Off Dominates:** A clear risk-off sentiment prevailed, driving equity markets lower, boosting the US dollar as a safe-haven, and weighing on crude oil.
+- **Grain Complex Rally:** Despite the broader risk-off tone, wheat, soybeans, and corn posted solid gains, supported by spillover buying within the sector.
+- **Softs Diverge:** Coffee rallied on currency-driven short-covering, while sugar and cocoa plunged further due to persistent oversupply and weak demand.
+- **Livestock Under Pressure:** Hog futures extended losses, and cattle futures were mixed in quiet trade.
+
+### **Risks Highlighted**
+1. Geopolitical tensions in the Middle East affecting energy prices.
+2. Persistent oversupply and weak demand leading to multi-month plunges in soft commodities like sugar and cocoa.
+3. Broader market risk-off sentiment impacting correlated assets like crude oil and the dollar.
+
+### **Watch Next**
+1. Weekly EIA natural gas storage reports for continued inventory trends.
+2. Weekly USDA Export Sales data for grains.
+3. Activity in the cash cattle and hog markets for direction in livestock futures.
+4. The Thursday Fed Cattle Exchange online auction results.
+
+---
+
+### **Price Movement Classification Table**
+| Product          | Classification          | Reason                      |
+|------------------|-------------------------|-----------------------------|
+| Crude Oil        | Short-term influencer - DOWN | Risk-off sentiment        |
+| Natural Gas      | Short-term influencer - UP   | Tighter US inventories    |
+| Wheat            | Short-term influencer - UP   | Spillover grain strength  |
+| Soybeans         | Short-term influencer - UP   | Spillover grain strength  |
+| Corn             | Short-term influencer - UP   | Spillover grain strength  |
+| Lean Hogs        | Short-term influencer - DOWN | Continuing weekly losses  |
+| Live Cattle      | Unclear                 | Mixed, quiet cash trade   |
+| Cotton           | Unclear                 | Driver not specified      |
+| Sugar            | Long-term influencer - DOWN | Expanding global stockpiles |
+| Cocoa            | Long-term influencer - DOWN | Ample supply, weak demand |
+| Coffee           | Short-term influencer - UP   | BRL strength, short-covering |
+| US Dollar Index  | Short-term influencer - UP   | Safe-haven demand (risk-off) |
+| Equities         | Short-term influencer - DOWN | Risk-off market sentiment |
