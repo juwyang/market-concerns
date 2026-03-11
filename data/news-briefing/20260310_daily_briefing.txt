@@ -1,0 +1,130 @@
+News Briefing for: 2026-03-10
+Generated at: 2026-03-11 05:47:23
+LLM Used: DeepSeek (deepseek-reasoner)
+Source JSON: 20260310_barchart_all-commodities_news.json
+Cost info: Prompt tokens: 4015, Completion tokens: 2182, Total tokens: 6197
+Model Processing Time: 51.69 seconds
+
+---
+
+### Daily Financial Briefing: 20260310
+
+#### **Energy**
+1.  **Crude Oil (WTI & RBOB Gasoline)**
+    - **Price Movement:** Plunged significantly. April WTI crude oil closed down -11.32 (-11.94%) at $83.45, and April RBOB gasoline closed down -5.99%.
+    - **Key Drivers:** Hopes for a quick end to the war in Iran. Also cited were expectations of a G-7 oil stockpile release. The US began escorting vessels through the Strait of Hormuz.
+    - **Reverse Factors:** The Strait of Hormuz situation continues to pose a significant risk to supply and is spiking oil volatility. Prices had rallied to a 3.75-year high just the day prior.
+    - **Classification:** `Short-term influencer - DOWN`
+2.  **Natural Gas**
+    - **Price Movement:** Fell moderately. April Nymex natural gas closed down -3.21%, adding to Monday's decline.
+    - **Key Drivers:** Hopes for a near-term end to the war in Iran, leading to profit-taking after last week's +11.44% rally.
+    - **Reverse Factors:** The recent rally was significant, and geopolitical tensions in the region remain a key price driver.
+    - **Classification:** `Short-term influencer - DOWN`
+
+#### **Grains**
+1.  **Soybeans**
+    - **Price Movement:** Rose moderately, closing with 5 to 7 cent gains across most contracts.
+    - **Key Drivers:** A USDA report that showed very few changes. The national average cash price rose 5 3/4 cents.
+    - **Reverse Factors:** Earlier session weakness was linked to losses in crude oil. A separate article questions if soybean oil prices have peaked, suggesting potential selling pressure.
+    - **Classification:** `Short-term influencer - UP`
+2.  **Corn**
+    - **Price Movement:** Declined slightly, closing with 1 to 3 cent losses after clawing back from deeper lows.
+    - **Key Drivers:** Pressure from the sharp plunge in crude oil prices. A USDA report showed no surprises.
+    - **Reverse Factors:** The market showed resilience by bouncing off overnight lows.
+    - **Classification:** `Short-term influencer - DOWN`
+3.  **Wheat (SRW, HRW, Spring)**
+    - **Price Movement:** Posted losses. Chicago SRW was 12-13 cents lower, KC HRW down 11 cents, and MPLS spring wheat also lower.
+    - **Key Drivers:** Not explicitly stated beyond general selling pressure.
+    - **Reverse Factors:** None mentioned in the provided articles.
+    - **Classification:** `Unclear`
+
+#### **Livestock**
+1.  **Live Cattle**
+    - **Price Movement:** Rose significantly, closing $2.20 to $2.80 higher (front months up $2.30-$2.60).
+    - **Key Drivers:** Described as a "Turnaround Tuesday" bounce, potentially linked to equities clawing back gains. Cash trade was quiet.
+    - **Reverse Factors:** Reported cash trade was weaker, with dressed prices at $372, down from $380 last week.
+    - **Classification:** `Short-term influencer - UP`
+2.  **Lean Hogs**
+    - **Price Movement:** Rallied, closing 75 cents to $1.25 higher.
+    - **Key Drivers:** The USDA national base hog price was reported up 82 cents at $92.77.
+    - **Reverse Factors:** None mentioned in the provided articles.
+    - **Classification:** `Short-term influencer - UP`
+
+#### **Metals**
+1.  **Rare Earth Metals / Aluminum Innovation**
+    - **Price Movement:** No specific daily price movement given.
+    - **Key Drivers:** A research discovery (new form of aluminum from King’s College London) is highlighted as a potential long-term disruptor that could make rare earth metals obsolete.
+    - **Reverse Factors:** The technology is presented as a future threat, not a current market mover.
+    - **Classification:** `Long-term influencer - DOWN` (for rare earth metals, based on the described future threat)
+
+#### **Softs**
+1.  **Cotton**
+    - **Price Movement:** Rallied, closing 55 to 68 points higher.
+    - **Key Drivers:** Not explicitly stated for the day's move. A separate article notes a reversal pattern formed in February that could lead to a recovery.
+    - **Reverse Factors:** The market had reached a new continuous contract low in early February.
+    - **Classification:** `Unclear`
+2.  **Cocoa**
+    - **Price Movement:** Rose sharply. May ICE NY cocoa closed up +4.80%, extending a 1.5-week rally.
+    - **Key Drivers:** Reports of large export purchases. Continued short-covering and shipping threats were also cited.
+    - **Reverse Factors:** The rally is described as a "short-covering rally," which can be prone to reversals.
+    - **Classification:** `Short-term influencer - UP`
+3.  **Sugar**
+    - **Price Movement:** Fell. May NY world sugar closed down -1.44%.
+    - **Key Drivers:** The plunge in crude oil prices.
+    - **Reverse Factors:** Linkage to energy prices means a rebound in oil could provide support.
+    - **Classification:** `Short-term influencer - DOWN`
+4.  **Coffee (Arabica & Robusta)**
+    - **Price Movement:** Declined slightly. May arabica closed down -0.37%, and robusta down -2.09%.
+    - **Key Drivers:** Long liquidation pressure after a 1.5-week rally.
+    - **Reverse Factors:** The recent rally preceding the drop.
+    - **Classification:** `Short-term influencer - DOWN`
+
+#### **Currencies & Stocks**
+1.  **US Dollar Index (DXY)**
+    - **Price Movement:** Closed little changed / traded mildly lower, recovering from an earlier downside move.
+    - **Key Drivers:** Downward pressure from the sharp decline in oil prices (viewed as dovish for Fed policy). Underlying support from safe-haven demand amid Middle East tensions limited losses.
+    - **Reverse Factors:** The interplay between dovish oil price signals and geopolitical safe-haven flows.
+    - **Classification:** `Unclear`
+2.  **Energy Stocks**
+    - **Price Movement:** Not specified.
+    - **Key Drivers:** Increased volatility and risk in the Strait of Hormuz are directing attention to the sector. Analysis suggests the real opportunity may be further down the supply chain, not just producers.
+    - **Reverse Factors:** The sharp drop in the underlying commodity (oil) price.
+    - **Classification:** `Unclear`
+
+---
+
+### **Summary & Key Themes**
+- **Oil's Dramatic Reversal:** Crude oil prices collapsed over -11% on hopes for a quick end to the Iran war and potential G-7 stockpile releases, completely reversing the prior day's multi-year highs.
+- **Geopolitics vs. Fundamentals:** Market movements were dominated by short-term geopolitical news (Iran war hopes, Strait of Hormuz escorts) overwhelming other factors, including USDA reports.
+- **Broad Commodity Impact:** The plunge in oil had a clear ripple effect, pressuring corn, sugar, and natural gas, while being cited as a factor in dollar trading.
+- **Soft Commodity Divergence:** While sugar and coffee fell, cocoa extended a powerful rally on specific supply news, and cotton also moved higher.
+
+### **Risks Highlighted**
+1.  Strait of Hormuz shipping disruptions remain a critical risk to oil supply and price volatility.
+2.  The potential for a sharp reversal in markets that moved heavily on short-term war sentiment (e.g., oil, nat-gas).
+3.  Technological disruption in the metals sector, with new aluminum research posing a long-term threat to rare earth metal demand.
+
+### **Watch Next**
+1.  Developments regarding the timeline for ending the Iran war.
+2.  Potential announcement or details of a G-7 coordinated oil stockpile release.
+3.  Further cash market activity in the cattle sector after a quiet start to the week.
+
+---
+
+### **Price Movement Classification Table**
+| Product | Classification | Reason |
+| :--- | :--- | :--- |
+| Crude Oil | `Short-term influencer - DOWN` | Hopes for Iran war end |
+| Natural Gas | `Short-term influencer - DOWN` | Hopes for Iran war end |
+| Soybeans | `Short-term influencer - UP` | USDA report (no changes) |
+| Corn | `Short-term influencer - DOWN` | Pressure from oil plunge |
+| Wheat | `Unclear` | General selling pressure |
+| Live Cattle | `Short-term influencer - UP` | "Turnaround Tuesday" bounce |
+| Lean Hogs | `Short-term influencer - UP` | Higher cash price |
+| Rare Earth Metals | `Long-term influencer - DOWN` | New aluminum tech threat |
+| Cotton | `Unclear` | Pattern suggests recovery |
+| Cocoa | `Short-term influencer - UP` | Large export purchases |
+| Sugar | `Short-term influencer - DOWN` | Plunge in oil prices |
+| Coffee | `Short-term influencer - DOWN` | Long liquidation after rally |
+| US Dollar | `Unclear` | Oil drop vs. safe-haven flows |
+| Energy Stocks | `Unclear` | Strait of Hormuz volatility |
