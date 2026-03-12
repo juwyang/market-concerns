@@ -1,0 +1,147 @@
+News Briefing for: 2026-03-11
+Generated at: 2026-03-12 05:50:47
+LLM Used: DeepSeek (deepseek-reasoner)
+Source JSON: 20260311_barchart_all-commodities_news.json
+Cost info: Prompt tokens: 4977, Completion tokens: 3040, Total tokens: 8017
+Model Processing Time: 70.79 seconds
+
+---
+
+### Daily Financial Briefing: 20260311
+
+#### **Energy**
+1.  **Crude Oil (WTI) & RBOB Gasoline**
+    - **Price Movement:** Rose significantly. April WTI crude oil closed up +$3.80 (+4.55%) and April RBOB gasoline closed up +$0.1480 (+5.61%).
+    - **Key Drivers:** Rally in sympathy with ongoing U.S.-Iran conflict (war) which continues to unfold.
+    - **Reverse Factors:** The International Energy Agency (IEA) announced a coordinated stockpile release, which could cap price gains.
+    - **Classification:** `Short-term influencer - UP`
+
+2.  **Natural Gas**
+    - **Price Movement:** Rose significantly. April Nymex natural gas closed up +$0.189 (+6.26%).
+    - **Key Drivers:** Rallied in sympathy with crude oil prices and European gas prices as the Iran war drags on.
+    - **Reverse Factors:** The rally is tied to the progression of a specific geopolitical conflict; any de-escalation could reverse gains.
+    - **Classification:** `Short-term influencer - UP`
+
+#### **Grains**
+1.  **Corn**
+    - **Price Movement:** Rallied. Futures closed with 8 to 9 cent gains in the front months.
+    - **Key Drivers:** Not explicitly stated in closing summary articles. One opinion piece speculates that speculator and institutional monies are moving into grain markets.
+    - **Reverse Factors:** No specific counter-trend factors mentioned for the day's trade.
+    - **Classification:** `Unclear`
+
+2.  **Soybeans**
+    - **Price Movement:** Posted double digit gains. Futures saw gains of 12 to 14 cents in the front months.
+    - **Key Drivers:** Not explicitly stated in closing summary articles.
+    - **Reverse Factors:** No specific counter-trend factors mentioned for the day's trade.
+    - **Classification:** `Unclear`
+
+3.  **Wheat**
+    - **Price Movement:** Closed higher. Chicago SRW futures were up 3 to 4 cents, KC HRW up 4 to 5 cents, and MPLS spring wheat up 3 cents.
+    - **Key Drivers:** Not explicitly stated in closing summary articles.
+    - **Reverse Factors:** No specific counter-trend factors mentioned for the day's trade.
+    - **Classification:** `Unclear`
+
+#### **Livestock**
+1.  **Live Cattle**
+    - **Price Movement:** Fell back. Futures faced losses of $2.00 to $2.25 in the front months.
+    - **Key Drivers:** Not explicitly stated for Wednesday's move.
+    - **Reverse Factors:** Cash trade started with some light sales reported, and wholesale boxed beef prices were higher in the Wednesday afternoon report.
+    - **Classification:** `Unclear`
+
+2.  **Feeder Cattle**
+    - **Price Movement:** Under pressure, falling $4.50 to $6.60. The CME Feeder Cattle Index was down another $0.97.
+    - **Key Drivers:** Not explicitly stated for Wednesday's move.
+    - **Reverse Factors:** No specific counter-trend factors mentioned for the day's trade.
+    - **Classification:** `Unclear`
+
+3.  **Lean Hogs**
+    - **Price Movement:** Weaker, with losses of 87 cents to $1.40.
+    - **Key Drivers:** Not explicitly stated for Wednesday's move.
+    - **Reverse Factors:** The national base hog price was reported up 12 cents from the day prior.
+    - **Classification:** `Unclear`
+
+#### **Metals**
+1.  **Silver**
+    - **Price Movement:** No specific daily price change provided. One article notes it has dropped 37% in just a week.
+    - **Key Drivers:** Historical trends suggest it could keep falling despite its typical safe-haven status during the U.S.-Iran conflict.
+    - **Reverse Factors:** Some analysts view the recent parabolic run as an opportunity for traders, suggesting potential for movement in either direction.
+    - **Classification:** `Unclear`
+
+#### **Softs**
+1.  **Coffee**
+    - **Price Movement:** Fell. May arabica coffee fell -8.40 (-2.84%) and May robusta fell -139 (-3.76%).
+    - **Key Drivers:** Favorable weather in Brazil, with showers forecast in coffee-growing regions. Also, rising ICE exchange inventories.
+    - **Reverse Factors:** Relief from weather is a temporary factor; conditions can change.
+    - **Classification:** `Short-term influencer - DOWN`
+
+2.  **Sugar**
+    - **Price Movement:** Fell back. May NY world sugar closed down -0.13 (-0.90%) and May London white sugar closed down -4.80 (-1.15%).
+    - **Key Drivers:** Long liquidation pressure after prices rallied to a 2-month high on Monday.
+    - **Reverse Factors:** The sell-off is characterized as profit-taking after a recent rally.
+    - **Classification:** `Short-term influencer - DOWN`
+
+3.  **Cocoa**
+    - **Price Movement:** Consolidated. May ICE NY cocoa closed down -18 (-0.52%) while London cocoa closed slightly up.
+    - **Key Drivers:** Market consolidation following Tuesday's rally, which was fueled by news of large export purchases.
+    - **Reverse Factors:** The large export purchases represent a specific demand event; the market is pausing after reacting to it.
+    - **Classification:** `Short-term influencer - DOWN`
+
+4.  **Cotton**
+    - **Price Movement:** Closed lower, with futures 5 to 13 points in the red.
+    - **Key Drivers:** Not explicitly stated. One article notes crude oil was up, adding some premium due to the Iran situation.
+    - **Reverse Factors:** The influence from the energy complex (Iran war) did not provide support on this day.
+    - **Classification:** `Unclear`
+
+#### **Currencies & Stocks**
+1.  **US Dollar Index**
+    - **Price Movement:** Rose mildly. The dollar index rose by +0.32%.
+    - **Key Drivers:** Support from a rise in the 10-year T-note yield, which supports the dollar's interest rate differentials. Also, the rally in WTI crude oil provided some support.
+    - **Reverse Factors:** The move is tied to daily movements in bond yields and oil, which can be volatile.
+    - **Classification:** `Short-term influencer - UP`
+
+2.  **Stocks (Vistra, Diamondback Energy, Halliburton)**
+    - **Price Movement:** No daily price movements reported.
+    - **Key Drivers:** Articles note these stocks have outperformed their respective benchmarks (Utilities industry, S&P 500, Nasdaq) over the past year, with analysts expressing optimism.
+    - **Reverse Factors:** General market risks and the ongoing U.S.-Iran conflict were highlighted as creating both risk and potential opportunity.
+    - **Classification:** `Unclear`
+
+---
+
+### **Summary & Key Themes**
+- Energy commodities (crude oil, gasoline, natural gas) rallied sharply, driven primarily by the ongoing geopolitical conflict between the U.S. and Iran.
+- Grain markets (corn, soybeans, wheat) posted gains across the board, though specific catalysts for the day were not detailed.
+- Livestock complex (cattle, hogs) weakened, with futures declining despite some supportive cash market data.
+- Soft commodities were mixed: coffee and sugar fell on weather and profit-taking, while cocoa consolidated.
+- The U.S. Dollar strengthened modestly, supported by rising Treasury yields and the rally in oil prices.
+
+### **Risks Highlighted**
+1.  Escalation or prolongation of the U.S.-Iran military conflict, impacting energy and related markets.
+2.  Weather patterns in key agricultural regions like Brazil, affecting coffee and other soft commodity supplies.
+3.  Potential for sharp reversals from recent highs due to profit-taking, as seen in sugar.
+4.  The effectiveness of coordinated government action (IEA stockpile release) in capping energy price spikes.
+
+### **Watch Next**
+1.  Developments in the U.S.-Iran conflict and any related geopolitical news.
+2.  Cash trade activity and price discovery in the cattle market.
+3.  Updates on ICE inventory levels for coffee.
+4.  Further announcements or actions from the IEA regarding strategic petroleum reserves.
+
+---
+
+### **Price Movement Classification Table**
+| Product | Classification | Reason |
+| :--- | :--- | :--- |
+| Crude Oil & Gasoline | Short-term influencer - UP | Iran war tensions |
+| Natural Gas | Short-term influencer - UP | Sympathy with oil, Iran war |
+| Corn | Unclear | No clear daily driver |
+| Soybeans | Unclear | No clear daily driver |
+| Wheat | Unclear | No clear daily driver |
+| Live Cattle | Unclear | No clear daily driver |
+| Feeder Cattle | Unclear | No clear daily driver |
+| Lean Hogs | Unclear | No clear daily driver |
+| Coffee | Short-term influencer - DOWN | Brazil weather relief |
+| Sugar | Short-term influencer - DOWN | Profit-taking after rally |
+| Cocoa | Short-term influencer - DOWN | Consolidation after export news |
+| Cotton | Unclear | No clear daily driver |
+| US Dollar Index | Short-term influencer - UP | Rising T-note yields |
+| Stocks (Vistra, etc.) | Unclear | No daily price data |
