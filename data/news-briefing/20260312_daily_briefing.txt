@@ -1,0 +1,124 @@
+News Briefing for: 2026-03-12
+Generated at: 2026-03-13 05:49:01
+LLM Used: DeepSeek (deepseek-reasoner)
+Source JSON: 20260312_barchart_all-commodities_news.json
+Cost info: Prompt tokens: 3808, Completion tokens: 2620, Total tokens: 6428
+Model Processing Time: 119.46 seconds
+
+---
+
+### Daily Financial Briefing: 20260312
+
+#### **Energy**
+1.  **Crude Oil (WTI & RBOB Gasoline)**
+    - **Price Movement:** Rose significantly. April WTI crude oil closed up +9.72% to $96.40, and April RBOB gasoline closed up +6.32%.
+    - **Key Drivers:** Comments from Iran's Supreme Leader suggesting a prolonged war, leading to the continued closure of the Strait of Hormuz and disrupting global supply routes.
+    - **Reverse Factors:** Potential de-escalation of the Iran conflict, reopening of the Strait of Hormuz, or decisions from other oil-producing nations to increase supply.
+    - **Classification:** Short-term influencer - UP
+
+2.  **Natural Gas**
+    - **Price Movement:** Gained moderately. April Nymex natural gas closed up +0.75%.
+    - **Key Drivers:** Rally in sympathy with surging crude oil prices and higher European gas prices due to the ongoing Iran war.
+    - **Reverse Factors:** A resolution to the Iran conflict or a subsequent drop in crude oil prices could remove the supportive "carry-over" effect.
+    - **Classification:** Short-term influencer - UP
+
+#### **Grains**
+1.  **Wheat**
+    - **Price Movement:** Closed with mixed action. Chicago SRW futures were up 2 1/4 to 3 3/4 cents, KC HRW futures were mixed, and spring wheat was the weakest.
+    - **Key Drivers:** Not explicitly stated in the provided articles beyond general market action.
+    - **Reverse Factors:** Changes in global supply/demand reports or weather conditions in key growing regions.
+    - **Classification:** Unclear
+
+2.  **Soybeans**
+    - **Price Movement:** Rallied, holding onto gains. Contracts were 2 ½ to 13 ¼ cents higher, led by front months. The national average cash price was up 13 1/4 cents.
+    - **Key Drivers:** Not explicitly stated, though earlier articles noted strong buying interest and double-digit gains during the day.
+    - **Reverse Factors:** Profit-taking after the rally or changes in South American crop forecasts.
+    - **Classification:** Unclear
+
+3.  **Corn**
+    - **Price Movement:** Closed with gains. Contracts were fractionally to 4 cents higher. The national average cash price was up 2 1/4 cents.
+    - **Key Drivers:** Not explicitly stated in the closing summary. Earlier articles mentioned the market holding gains alongside the rally in crude oil and other grains.
+    - **Reverse Factors:** Expiration of the March contract on Friday could introduce volatility. Larger-than-expected supply data.
+    - **Classification:** Unclear
+
+#### **Livestock**
+1.  **Cattle**
+    - **Price Movement:** Popped higher. Live cattle futures closed up 87 cents to $1.30, with midday gains reaching $1.80 to $1.90. Choice beef was noted as approaching $400.
+    - **Key Drivers:** Strong cash trade reported at $372 dressed and $235-236 live.
+    - **Reverse Factors:** A potential slowdown in cash market activity or a decline in beef demand/values.
+    - **Classification:** Short-term influencer - UP
+
+2.  **Hogs (Lean Hogs)**
+    - **Price Movement:** Closed with weakness. Lean hog futures were 22 cents to $1.37 lower. USDA's national base hog price was down $1.50 to $91.39.
+    - **Key Drivers:** Not explicitly stated, but articles note extended weakness and present a selling opportunity on further price declines.
+    - **Reverse Factors:** A rebound in cash prices or tightening supplies could provide support.
+    - **Classification:** Unclear
+
+#### **Metals**
+1.  **Gold**
+    - **Price Movement:** Fell.
+    - **Key Drivers:** A rising US dollar index, which gained due to liquidity demand amid a slump in stock markets and higher T-note yields strengthening the dollar's interest rate differentials.
+    - **Reverse Factors:** A recovery in equity markets reducing safe-haven dollar demand, or a drop in T-note yields.
+    - **Classification:** Short-term influencer - DOWN
+
+#### **Softs**
+1.  **Sugar**
+    - **Price Movement:** Settled higher. May NY world sugar closed up +0.91%, supported by the surge in crude oil prices.
+    - **Key Drivers:** Surging crude oil prices, as sugar can be used for ethanol production.
+    - **Reverse Factors:** Sugar prices remained below Monday's 2-month highs, suggesting resistance. A drop in crude oil prices would likely remove support.
+    - **Classification:** Short-term influencer - UP
+
+2.  **Cocoa**
+    - **Price Movement:** Fell sharply. May ICE NY cocoa closed down -3.32%.
+    - **Key Drivers:** Optimism that rain in West Africa will boost crop prospects, alongside views of ample near-term supplies.
+    - **Reverse Factors:** A return of dry weather in West Africa or supply chain disruptions could reverse the positive supply outlook.
+    - **Classification:** Short-term influencer - DOWN
+
+3.  **Coffee**
+    - **Price Movement:** Finished sharply higher. May arabica coffee closed up +1.57% and May robusta coffee closed up +2.03%.
+    - **Key Drivers:** Supply concerns raised by the Iran war, which has closed the Strait of Hormuz, a key global shipping route.
+    - **Reverse Factors:** Reopening of the Strait of Hormuz or reports of ample coffee inventories could ease supply fears.
+    - **Classification:** Short-term influencer - UP
+
+#### **Currencies & Stocks**
+1.  **US Dollar Index**
+    - **Price Movement:** Rose, posting a 3.5-month high. The index was up +0.51%.
+    - **Key Drivers:** Liquidity demand boosted by a slump in stock markets. Higher T-note yields also strengthened the dollar's interest rate differentials.
+    - **Reverse Factors:** A rebound in equity markets or a decrease in Treasury yields.
+    - **Classification:** Short-term influencer - UP
+
+---
+
+### **Summary & Key Themes**
+- **Geopolitical Dominance:** The Iran war and closure of the Strait of Hormuz were the primary catalysts, driving sharp gains in crude oil and supporting related commodities like natural gas, sugar, and coffee.
+- **Mixed Ag Markets:** Grain markets were generally firmer but mixed, while livestock saw divergence with strong cattle and weak hogs.
+- **Safe-Haven Flows:** Weakness in equities drove liquidity demand for the US dollar, which in turn pressured gold prices.
+- **Weather vs. Geopolitics:** In softs, bearish weather news for West African cocoa contrasted with bullish geopolitical supply concerns for coffee.
+
+### **Risks Highlighted**
+1. Prolonged closure of the Strait of Hormuz disrupting global energy and soft commodity supply chains.
+2. Continued volatility across commodity markets driven by algorithmic trading reacting to geopolitical headlines.
+3. Potential for further weakness in lean hog prices, as analysis suggests a selling opportunity.
+
+### **Watch Next**
+1. Expiration of March corn futures on Friday.
+2. Developments in cash cattle and beef markets, with choice beef approaching $400.
+3. Any updates on the Iran conflict and status of the Strait of Hormuz.
+
+---
+
+### **Price Movement Classification Table**
+| Product | Classification | Reason |
+| :--- | :--- | :--- |
+| Crude Oil | Short-term influencer - UP | Geopolitical supply disruption |
+| Natural Gas | Short-term influencer - UP | Sympathy with crude rally |
+| Wheat | Unclear | Mixed market action |
+| Soybeans | Unclear | Rally without clear driver |
+| Corn | Unclear | Gains without clear driver |
+| Cattle | Short-term influencer - UP | Strong cash market |
+| Hogs | Unclear | Weakness without clear driver |
+| Gold | Short-term influencer - DOWN | Stronger dollar from weak stocks |
+| Sugar | Short-term influencer - UP | Supported by crude oil surge |
+| Cocoa | Short-term influencer - DOWN | Favorable West African weather |
+| Coffee | Short-term influencer - UP | Geopolitical supply concerns |
+| US Dollar Index | Short-term influencer - UP | Liquidity demand from stock slump |
