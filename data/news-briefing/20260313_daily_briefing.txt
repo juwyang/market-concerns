@@ -1,0 +1,138 @@
+News Briefing for: 2026-03-13
+Generated at: 2026-03-14 05:46:18
+LLM Used: DeepSeek (deepseek-reasoner)
+Source JSON: 20260313_barchart_all-commodities_news.json
+Cost info: Prompt tokens: 4193, Completion tokens: 2591, Total tokens: 6784
+Model Processing Time: 157.57 seconds
+
+---
+
+### Daily Financial Briefing: 20260313
+
+#### **Energy**
+1.  **Crude Oil**
+    - **Price Movement:** Rose significantly. April WTI crude oil closed up +2.98 (+3.11%) to $99.30 on Friday, up $3.57 for the day.
+    - **Key Drivers:** The ongoing war in Iran, which shows no signs of easing and is disrupting global supplies by turning critical logistical chokepoints into war zones. News headlines whipsawed prices.
+    - **Reverse Factors:** Potential shifts in the geopolitical situation could alter the supply risk. News-driven volatility may lead to sharp corrections.
+    - **Classification:** `Long-term influencer - UP`
+
+2.  **Natural Gas**
+    - **Price Movement:** Declined moderately. April Nymex natural gas closed down -0.102 (-3.15%) on Friday.
+    - **Key Drivers:** Forecasts for above-normal US weather, which could reduce heating demand.
+    - **Reverse Factors:** A change in weather forecasts toward colder temperatures could reverse the bearish sentiment.
+    - **Classification:** `Short-term influencer - DOWN`
+
+#### **Grains**
+1.  **Wheat**
+    - **Price Movement:** Rose moderately. The wheat complex posted double-digit gains on Friday, with Chicago SRW up 10 to 15 1/4 cents and KC HRW up 11 to 17 1/4 cents.
+    - **Key Drivers:** Not explicitly stated in the provided articles beyond a general rally into the close.
+    - **Reverse Factors:** The articles do not specify immediate counter-factors. General market sentiment or profit-taking after the rally could apply.
+    - **Classification:** `Unclear`
+
+2.  **Soybeans**
+    - **Price Movement:** Eased lower. Contracts were down 2 to 6 1/4 cents on Friday, though May held a 24 1/2 cent weekly gain.
+    - **Key Drivers:** Not explicitly stated in the provided articles for the Friday move.
+    - **Reverse Factors:** The articles do not specify immediate counter-factors.
+    - **Classification:** `Unclear`
+
+3.  **Corn**
+    - **Price Movement:** Closed higher. Contracts were steady to 4 3/4 cents higher on Friday, with May gaining 6 3/4 cents on the week.
+    - **Key Drivers:** CFTC data showed speculators taking long positions ("spec longs flooding in").
+    - **Reverse Factors:** A shift in speculative positioning or profit-taking could reverse the trend.
+    - **Classification:** `Short-term influencer - UP`
+
+#### **Livestock**
+1.  **Lean Hogs**
+    - **Price Movement:** Faced pressure/declined. Front-month futures posted losses of 15 to 90 cents on Friday, with April down $2.17 on the week.
+    - **Key Drivers:** Not explicitly stated in the provided articles for the Friday move.
+    - **Reverse Factors:** The national base hog price was reported up 43 cents to $91.82 on Friday afternoon, which could provide underlying support.
+    - **Classification:** `Unclear`
+
+2.  **Live Cattle**
+    - **Price Movement:** Closed mixed. Futures were down 32 to 62 cents on Friday, with April falling $3.67 for the week.
+    - **Key Drivers:** Not explicitly stated in the provided articles for the Friday move. Cash trade was reported at $234-236 live and $372 dressed.
+    - **Reverse Factors:** Rising beef prices were noted earlier in the week, which could provide fundamental support.
+    - **Classification:** `Unclear`
+
+#### **Metals**
+1.  **Gold**
+    - **Price Movement:** Direction not specified for the day. A major new gold mine discovery in China was reported.
+    - **Key Drivers:** Geologists may have discovered the largest gold mine in the world in China, which is already the top global producer and importer.
+    - **Reverse Factors:** The discovery could increase long-term global supply, potentially weighing on prices.
+    - **Classification:** `Long-term influencer - DOWN`
+
+#### **Softs**
+1.  **Cotton**
+    - **Price Movement:** Posted a rally. Futures gained 7 to 74 points on Friday, with May up 165 points on the week.
+    - **Key Drivers:** Strength in the crude oil market (which influences synthetic fiber competition) was noted. Export sales data showed 304,600 RB of old crop cotton sold for the week.
+    - **Reverse Factors:** A reversal in crude oil prices or weak export demand could pressure the market.
+    - **Classification:** `Short-term influencer - UP`
+
+2.  **Sugar**
+    - **Price Movement:** Settled mixed. May NY world sugar closed down -0.01 (-0.07%), while London white sugar closed up +0.70 (+0.17%). Prices were pressured during the day.
+    - **Key Drivers:** Support from strength in crude oil (which boosts ethanol demand) was offset by pressure from a rallying US dollar.
+    - **Reverse Factors:** Fluctuations in the US dollar index or crude oil prices could continue to create two-way price action.
+    - **Classification:** `Unclear`
+
+3.  **Cocoa**
+    - **Price Movement:** Settled mixed. May ICE NY cocoa closed down -0.54%, while London cocoa closed up +0.29%.
+    - **Key Drivers:** Currency fluctuations. NY cocoa was pressured by a stronger US dollar and beneficial rains in West Africa.
+    - **Reverse Factors:** Changes in currency markets or West African weather conditions.
+    - **Classification:** `Short-term influencer - DOWN` (for NY cocoa)
+
+4.  **Coffee**
+    - **Price Movement:** Fell sharply. May arabica coffee closed down -2.31%, and robusta closed down -4.69%. Arabica fell to a 1-week low.
+    - **Key Drivers:** An improved global supply outlook, specifically the outlook for a bumper coffee crop in Brazil.
+    - **Reverse Factors:** Any weather-related threats to the Brazilian crop or unexpected supply disruptions could reverse the trend.
+    - **Classification:** `Long-term influencer - DOWN`
+
+#### **Currencies & Stocks**
+1.  **US Dollar**
+    - **Price Movement:** Rallied significantly. The dollar index (DXY) finished up +0.65% on Friday, reaching a 9.5-month high.
+    - **Key Drivers:** Surging crude oil prices due to the Iran war sparked fears of renewed inflation, supporting the dollar.
+    - **Reverse Factors:** An easing of geopolitical tensions or a drop in oil prices that alleviates inflation concerns could weaken the dollar.
+    - **Classification:** `Short-term influencer - UP`
+
+2.  **REX American Resources (REX)**
+    - **Price Movement:** Not specified for the day, but noted as trading at new all-time highs, up 121% over the past 52 weeks.
+    - **Key Drivers:** Strong technical momentum and rising oil prices creating an opportunity.
+    - **Reverse Factors:** A reversal in oil prices or broader market sentiment.
+    - **Classification:** `Short-term influencer - UP`
+
+---
+
+### **Summary & Key Themes**
+- Geopolitical tensions in the Middle East, specifically the Iran war, were the dominant market driver, lifting crude oil prices and sparking inflation fears.
+- The surging price of crude oil had wide-reaching effects, supporting related commodities (cotton, sugar) and the US Dollar, while raising inflation concerns.
+- Agricultural markets showed divergent performance, with grains like corn and wheat finishing higher, while softs like coffee fell on improved supply prospects.
+- Weather forecasts played a key role in the natural gas market, pushing prices lower.
+
+### **Risks Highlighted**
+1. **Geopolitical Supply Disruption:** The ongoing war in Iran threatens to keep crude oil prices elevated by disrupting critical global supply chokepoints.
+2. **Inflation Resurgence:** Surging oil prices are sparking fears of renewed inflation, influencing central bank expectations and currency markets.
+3. **Commodity-Specific Supply Shocks:** A massive new gold discovery in China could alter long-term global supply dynamics for the metal.
+
+### **Watch Next**
+1. **Geopolitical Developments:** Any signs of easing or escalation in the Iran war.
+2. **US Weather Forecasts:** Changes that could affect natural gas demand.
+3. **Brazilian Crop Progress:** Weather and yield reports for the upcoming coffee harvest.
+
+---
+
+### **Price Movement Classification Table**
+| Product | Classification | Reason |
+| :--- | :--- | :--- |
+| Crude Oil | Long-term influencer - UP | Iran war disrupts supply |
+| Natural Gas | Short-term influencer - DOWN | Above-normal US weather |
+| Wheat | Unclear | Rally into close, driver unclear |
+| Soybeans | Unclear | Eased lower, driver unclear |
+| Corn | Short-term influencer - UP | Speculative long buying |
+| Lean Hogs | Unclear | Pressured lower, driver unclear |
+| Live Cattle | Unclear | Mixed trade, driver unclear |
+| Gold | Long-term influencer - DOWN | Major new mine discovery |
+| Cotton | Short-term influencer - UP | Crude oil strength, exports |
+| Sugar | Unclear | Oil support vs. dollar pressure |
+| Cocoa (NY) | Short-term influencer - DOWN | Dollar strength, West African rains |
+| Coffee | Long-term influencer - DOWN | Bumper Brazil crop outlook |
+| US Dollar | Short-term influencer - UP | Oil-driven inflation fears |
+| REX Stock | Short-term influencer - UP | Rising oil price opportunity |
