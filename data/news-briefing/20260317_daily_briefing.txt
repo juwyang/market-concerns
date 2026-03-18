@@ -1,0 +1,128 @@
+News Briefing for: 2026-03-17
+Generated at: 2026-03-18 06:02:50
+LLM Used: DeepSeek (deepseek-reasoner)
+Source JSON: 20260317_barchart_all-commodities_news.json
+Cost info: Prompt tokens: 3333, Completion tokens: 1949, Total tokens: 5282
+Model Processing Time: 66.90 seconds
+
+---
+
+### Daily Financial Briefing: 20260317
+
+#### **Energy**
+1.  **Crude Oil & Gasoline**
+    - **Price Movement:** Rose significantly. April WTI crude oil closed up +2.71 (+2.90%) and April RBOB gasoline closed up +0.1231 (+4.10%).
+    - **Key Drivers:** Prices rallied sharply due to renewed Iranian attacks on Middle Eastern energy infrastructure, disrupting supplies.
+    - **Reverse Factors:** Potential for de-escalation in the Middle East or an increase in supply from other sources.
+    - **Classification:** `Short-term influencer - UP`
+
+2.  **Natural Gas**
+    - **Price Movement:** Gained slightly. April Nymex natural gas closed up +0.010 (+0.33%).
+    - **Key Drivers:** Prices settled slightly higher, gaining on carryover support from a rally in European nat-gas prices due to supply concerns.
+    - **Reverse Factors:** Resolution of the supply concerns that supported European prices.
+    - **Classification:** `Short-term influencer - UP`
+
+#### **Grains**
+1.  **Soybeans**
+    - **Price Movement:** Bounced higher. Contracts closed most contracts 9 to 10 ½ cents in the green. The national average cash price was up.
+    - **Key Drivers:** Turnaround action; no specific fundamental driver cited in the provided articles.
+    - **Reverse Factors:** Lack of a clear, sustained fundamental driver could lead to a reversal.
+    - **Classification:** `Unclear`
+
+2.  **Corn**
+    - **Price Movement:** Closed with slight gains. Contracts were steady to 2 ¼ cents higher.
+    - **Key Drivers:** Bounced back after losses on Monday; supported by strength in crude oil.
+    - **Reverse Factors:** The national average cash corn price was reported as steady.
+    - **Classification:** `Short-term influencer - UP`
+
+3.  **Wheat**
+    - **Price Movement:** Declined across all markets. Chicago SRW futures were 5 ¼ to 8 cents lower, and KC HRW futures were 6 ¼ to 9 ¾ cents lower.
+    - **Key Drivers:** Market was under pressure; no specific fundamental driver cited in the provided articles.
+    - **Reverse Factors:** Lack of a clear, sustained fundamental driver could lead to a reversal.
+    - **Classification:** `Unclear`
+
+#### **Livestock**
+1.  **Lean Hogs**
+    - **Price Movement:** Closed higher. Futures posted 22 to 65 cent gains. The USDA national base hog price was up $1.45.
+    - **Key Drivers:** Strength in cash market prices.
+    - **Reverse Factors:** A downturn in the cash market price.
+    - **Classification:** `Short-term influencer - UP`
+
+2.  **Live Cattle & Feeder Cattle**
+    - **Price Movement:** Rose. Live cattle futures were $1.45 to $1.97 higher. Feeder cattle futures were also in rally mode.
+    - **Key Drivers:** Bullish sentiment; cash trade has been quiet but last week's prices were firm.
+    - **Reverse Factors:** Any weakness in upcoming cash trade.
+    - **Classification:** `Short-term influencer - UP`
+
+#### **Metals**
+*No relevant articles provided for this date.*
+
+#### **Softs**
+1.  **Cotton**
+    - **Price Movement:** Closed higher. Contracts were 48 to 70 points in the green.
+    - **Key Drivers:** No specific fundamental driver cited in the provided article.
+    - **Reverse Factors:** Lack of a clear, sustained fundamental driver could lead to a reversal.
+    - **Classification:** `Unclear`
+
+2.  **Sugar**
+    - **Price Movement:** Climbed higher. May NY world sugar #11 closed up +0.26 (+1.83%) and May London white sugar closed up +12.30 (+2.97%).
+    - **Key Drivers:** Strength in crude oil prices (which supports ethanol demand and sugar prices). Prices may have found a bottom after reaching a multi-year low in February.
+    - **Reverse Factors:** A drop in crude oil prices or a shift in the technical pattern.
+    - **Classification:** `Short-term influencer - UP`
+
+3.  **Cocoa**
+    - **Price Movement:** Declined sharply. May ICE NY cocoa closed down -69 (-2.02%) and May London cocoa closed down -61 (-2.44%).
+    - **Key Drivers:** Improving supply outlook due to consistent rains boosting West African crop prospects.
+    - **Reverse Factors:** A return of unfavorable weather conditions in West Africa.
+    - **Classification:** `Short-term influencer - DOWN`
+
+4.  **Coffee**
+    - **Price Movement:** Pushed higher. May arabica coffee closed up +1.90 (+0.65%) and May robusta coffee closed up +52 (+1.50%).
+    - **Key Drivers:** Concerns over supply disruptions.
+    - **Reverse Factors:** Resolution of the cited supply concerns.
+    - **Classification:** `Short-term influencer - UP`
+
+#### **Currencies & Stocks**
+1.  **US Dollar Index**
+    - **Price Movement:** Slipped. The dollar index (DXY00) fell by -0.14%.
+    - **Key Drivers:** The dollar turned lower as T-note yields fell after a weekly ADP employment report showed the fewest/smallest number of new jobs, reducing expectations for hawkish Fed policy.
+    - **Reverse Factors:** A stronger-than-expected upcoming employment report.
+    - **Classification:** `Short-term influencer - DOWN`
+
+---
+
+### **Summary & Key Themes**
+- **Geopolitical Supply Shocks:** Iranian attacks on Middle Eastern energy infrastructure provided a key catalyst, driving sharp rallies in crude oil, gasoline, and providing support to related commodities like natural gas and sugar.
+- **Agricultural Divergence:** While soybeans, corn, and livestock posted gains, wheat faced selling pressure and cocoa fell on improved weather. This highlights varied, commodity-specific fundamentals.
+- **Macro Data Influence:** A soft weekly ADP jobs report pressured Treasury yields and contributed to dollar weakness, demonstrating the market's sensitivity to labor market data.
+- **Soft Commodity Volatility:** Softs (Sugar, Cocoa, Coffee) were highly active, moving on a mix of energy linkages, weather updates, and supply concerns.
+
+### **Risks Highlighted**
+1. Further escalation of conflict in the Middle East, disrupting energy supplies.
+2. Changes in West African weather patterns affecting the cocoa crop outlook.
+3. Continued supply disruptions in the coffee market.
+4. Employment data significantly deviating from expectations, impacting Fed policy and the dollar.
+
+### **Watch Next**
+1. Further developments regarding Iranian attacks and Middle Eastern energy supply.
+2. Weather patterns in West Africa for the cocoa crop.
+3. Updates on coffee supply chains for potential disruptions.
+4. Subsequent employment reports for indications of labor market strength.
+
+---
+
+### **Price Movement Classification Table**
+| Product | Classification | Reason |
+| :--- | :--- | :--- |
+| Crude Oil & Gasoline | Short-term influencer - UP | Mid-East supply attacks |
+| Natural Gas | Short-term influencer - UP | European supply concerns |
+| Soybeans | Unclear | Turnaround bounce |
+| Corn | Short-term influencer - UP | Oil support, technical bounce |
+| Wheat | Unclear | Broad selling pressure |
+| Lean Hogs | Short-term influencer - UP | Stronger cash market |
+| Live Cattle | Short-term influencer - UP | Bullish sentiment |
+| Cotton | Unclear | No clear driver cited |
+| Sugar | Short-term influencer - UP | Crude oil strength |
+| Cocoa | Short-term influencer - DOWN | Better West African weather |
+| Coffee | Short-term influencer - UP | Supply disruption concerns |
+| US Dollar Index | Short-term influencer - DOWN | Weak jobs data |
