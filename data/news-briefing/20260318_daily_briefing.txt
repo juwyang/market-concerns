@@ -1,0 +1,147 @@
+News Briefing for: 2026-03-18
+Generated at: 2026-03-19 05:58:25
+LLM Used: DeepSeek (deepseek-reasoner)
+Source JSON: 20260318_barchart_all-commodities_news.json
+Cost info: Prompt tokens: 4405, Completion tokens: 3043, Total tokens: 7448
+Model Processing Time: 96.20 seconds
+
+---
+
+### Daily Financial Briefing: 20260318
+
+#### **Energy**
+1.  **Crude Oil**
+    - **Price Movement:** Closed moderately higher after volatile session; April WTI settled up +0.11% (+$0.11) to $99.82, after earlier sharp gains.
+    - **Key Drivers:** Iran threatening attacks on Middle Eastern oil infrastructure. US Feb producer prices rose more than expected.
+    - **Reverse Factors:** Prices fell back from sharp intraday gains to settle only modestly higher. Profit-taking after surge.
+    - **Classification:** Short-term influencer - UP
+
+2.  **Natural Gas**
+    - **Price Movement:** Rebounded, closing up +1.06% (+$0.032) after hitting a 1.5-week low.
+    - **Key Drivers:** European gas prices surging due to risks from Iran. Short covering emerged.
+    - **Reverse Factors:** The initial sell-off to a recent low indicates underlying weakness.
+    - **Classification:** Short-term influencer - UP
+
+#### **Grains**
+1.  **Wheat**
+    - **Price Movement:** Rallied double digits across all classes; Chicago SRW up 11-14 3/4 cents, KC HRW up 18 1/4-23 1/4 cents.
+    - **Key Drivers:** Recovery from previous day's losses; spring wheat led gains in morning trade.
+    - **Reverse Factors:** Was under pressure on Tuesday with losses across markets. Morning trade was mixed before the rally.
+    - **Classification:** Short-term influencer - UP
+
+2.  **Soybeans**
+    - **Price Movement:** Posted gains of 4 ¾ to 10 ¼ cents; new crop futures led the charge.
+    - **Key Drivers:** New crop soy/corn ratio movement. Stronger cash price (national average up 8 ¾ cents).
+    - **Reverse Factors:** Started the Wednesday session 7-8 cents lower before rallying.
+    - **Classification:** Short-term influencer - UP
+
+3.  **Corn**
+    - **Price Movement:** Rallied, closing 7-9 cents higher across most contracts.
+    - **Key Drivers:** Rally in crude oil. Stronger national average cash price (up 9 ¼ cents).
+    - **Reverse Factors:** Prices were easing 1-2 cents lower on Wednesday morning before the rally.
+    - **Classification:** Short-term influencer - UP
+
+#### **Livestock**
+1.  **Hogs**
+    - **Price Movement:** Closed mixed, with contracts mostly within a quarter of unchanged.
+    - **Key Drivers:** USDA national base hog price increased by $1.11 to $93.29.
+    - **Reverse Factors:** Quiet cash trade. Mixed action indicates lack of clear directional catalyst.
+    - **Classification:** Unclear
+
+2.  **Cattle**
+    - **Price Movement:** Diverged; Live cattle futures gained 17 to 77 cents. Feeder cattle closed lower.
+    - **Key Drivers:** Late-session buying pop for live cattle. A massive strike (3,800 workers) at a JBS Colorado plant is bottlenecking beef production.
+    - **Reverse Factors:** Cash trade has been quiet so far this week. The Fed Cattle Exchange showed no sales.
+    - **Classification:** Short-term influencer - UP
+
+#### **Metals**
+1.  **Gold & Silver**
+    - **Price Movement:** Pressured lower (specific prices not given).
+    - **Key Drivers:** Hotter-than-expected U.S. February Producer Price Index (PPI) reading.
+    - **Reverse Factors:** Market awaiting press conference from Fed Chair Jerome Powell.
+    - **Classification:** Short-term influencer - DOWN
+
+#### **Softs**
+1.  **Cotton**
+    - **Price Movement:** Slipped lower, down 1 to 18 points on the close.
+    - **Key Drivers:** Not explicitly stated in closing summary.
+    - **Reverse Factors:** Had posted strong gains the previous day (Tuesday). The US dollar was stronger.
+    - **Classification:** Unclear
+
+2.  **Sugar**
+    - **Price Movement:** Rallied sharply; NY sugar up +2.42%, London white sugar up +2.68%.
+    - **Key Drivers:** Soaring gasoline prices boosting demand for ethanol, increasing sugar consumption for biofuel.
+    - **Reverse Factors:** The rally is linked to a surge in gasoline, which could reverse.
+    - **Classification:** Short-term influencer - UP
+
+3.  **Cocoa**
+    - **Price Movement:** Prices fell; NY cocoa down -2.66%, London cocoa down -1.31%.
+    - **Key Drivers:** An improved supply outlook and reports of ample supplies.
+    - **Reverse Factors:** Pressure has been sustained over recent sessions.
+    - **Classification:** Long-term influencer - DOWN
+
+4.  **Coffee**
+    - **Price Movement:** Mixed; Arabica coffee closed down -0.63%, while Robusta closed up +1.47%.
+    - **Key Drivers:** Outlook for a bumper Brazil coffee crop and abundant ICE exchange inventories weighing on arabica prices.
+    - **Reverse Factors:** Mixed market reaction; Robusta gained.
+    - **Classification:** Long-term influencer - DOWN (for Arabica)
+
+#### **Currencies & Stocks**
+1.  **US Dollar**
+    - **Price Movement:** Gained; Dollar Index (DXY) rose +0.51% (+$0.725 to $100.055).
+    - **Key Drivers:** Hot U.S. PPI data (hawkish for Fed). Geopolitical escalation with Iran.
+    - **Reverse Factors:** Goldman Sachs warning on U.S. economy, cutting growth forecast and raising recession probability.
+    - **Classification:** Short-term influencer - UP
+
+2.  **Atmos Energy Stock**
+    - **Price Movement:** Has outperformed the S&P 500 over the past year.
+    - **Key Drivers:** Not specified.
+    - **Reverse Factors:** Analysts are cautious about the stock’s prospects.
+    - **Classification:** Unclear
+
+3.  **OKLO Stock**
+    - **Price Movement:** In focus following positive regulatory news.
+    - **Key Drivers:** Company secured its first-ever license from the Nuclear Regulatory Commission (NRC).
+    - **Reverse Factors:** Company reported a wider-than-expected Q4 loss.
+    - **Classification:** Short-term influencer - UP
+
+---
+
+### **Summary & Key Themes**
+- **Broad Commodity Strength:** Grains (wheat, soybeans, corn) rallied significantly, while energy and softs like sugar were lifted by geopolitical and fuel market dynamics.
+- **Geopolitical Risk Premium:** Middle East tensions, specifically threats from Iran, provided a bid to oil, natural gas, and supported the dollar as a safe-haven.
+- **Inflation & Fed Focus:** A hotter-than-expected U.S. PPI report strengthened the dollar, pressured metals, and kept market attention firmly on Federal Reserve policy.
+- **Idiosyncratic Events:** Specific supply-side issues drove action: a meatpacking strike impacted cattle, crop outlooks weighed on cocoa and coffee, and regulatory news boosted OKLO.
+
+### **Risks Highlighted**
+1. **Geopolitical Escalation:** Iran's threats to Middle Eastern energy infrastructure pose a significant risk to oil and gas supply and prices.
+2. **Economic Slowdown:** Goldman Sachs issued a warning on the U.S. economy, cutting its growth forecast and raising the probability of a recession.
+3. **Supply Chain Disruption:** A major strike at a JBS meatpacking plant is disrupting U.S. beef production, creating opposing pressures for producer and consumer prices.
+4. **Persistent Inflation:** Strong PPI data suggests ongoing inflationary pressures, which could compel the Fed to maintain a hawkish stance longer than markets expect.
+
+### **Watch Next**
+1. Commentary from Fed Chair Jerome Powell's press conference.
+2. Further developments regarding Iran's threats and their impact on Middle Eastern oil infrastructure.
+3. The outcome and market impact of the ongoing JBS meatpacking strike.
+4. Continued updates on U.S. economic data and Federal Reserve policy signals.
+
+---
+
+### **Price Movement Classification Table**
+| Product              | Classification          | Reason                                  |
+|----------------------|-------------------------|-----------------------------------------|
+| Crude Oil            | Short-term influencer - UP | Iran infrastructure threats            |
+| Natural Gas          | Short-term influencer - UP | Iran risks lifting European gas       |
+| Wheat                | Short-term influencer - UP | Rebound from prior losses             |
+| Soybeans             | Short-term influencer - UP | New crop demand & ratio               |
+| Corn                 | Short-term influencer - UP | Cash price strength, oil rally        |
+| Hogs                 | Unclear                 | Mixed trade, slight cash gain         |
+| Cattle               | Short-term influencer - UP | JBS plant strike disruption           |
+| Gold & Silver        | Short-term influencer - DOWN | Hot U.S. PPI data                    |
+| Cotton               | Unclear                 | Unspecified, following prior gain     |
+| Sugar                | Short-term influencer - UP | Gasoline surge boosting ethanol       |
+| Cocoa                | Long-term influencer - DOWN | Improved supply outlook               |
+| Coffee (Arabica)     | Long-term influencer - DOWN | Bumper Brazil crop outlook            |
+| US Dollar            | Short-term influencer - UP | Hot PPI, Iran escalation              |
+| Atmos Energy Stock   | Unclear                 | Outperformed, but analyst caution     |
+| OKLO Stock           | Short-term influencer - UP | Secured NRC license                   |
