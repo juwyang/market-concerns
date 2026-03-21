@@ -1,0 +1,126 @@
+News Briefing for: 2026-03-20
+Generated at: 2026-03-21 05:40:04
+LLM Used: DeepSeek (deepseek-reasoner)
+Source JSON: 20260320_barchart_all-commodities_news.json
+Cost info: Prompt tokens: 3860, Completion tokens: 2074, Total tokens: 5934
+Model Processing Time: 57.53 seconds
+
+---
+
+### Daily Financial Briefing: 20260320
+
+#### **Energy**
+1.  **Crude Oil & Gasoline**
+    - **Price Movement:** Rose sharply. April WTI crude oil closed up +$2.18 (+2.27%) to $98.81. April RBOB gasoline closed up +5.09%.
+    - **Key Drivers:** Reports the U.S. is preparing troop deployment in Iran, fueling fears the war will escalate and drag on.
+    - **Reverse Factors:** Not explicitly mentioned. Any de-escalation in the Iran conflict could rapidly reverse the geopolitical premium.
+    - **Classification:** `Short-term influencer - UP`
+
+2.  **Natural Gas**
+    - **Price Movement:** Declined. April Nymex natural gas closed down -2.24%.
+    - **Key Drivers:** Warming US weather forecasts, which could reduce heating demand.
+    - **Reverse Factors:** Not explicitly mentioned. A return to colder-than-expected weather would increase demand.
+    - **Classification:** `Short-term influencer - DOWN`
+
+#### **Grains**
+1.  **Wheat**
+    - **Price Movement:** Collapsed lower. Chicago SRW futures were 12 to 13.5 cents lower; KC HRW futures were 21 to 21.5 cents lower.
+    - **Key Drivers:** Faced pressure across the three markets. No specific fundamental driver cited in the closing summary.
+    - **Reverse Factors:** Not explicitly mentioned. The article notes wheat saw late strength on Thursday, indicating volatility.
+    - **Classification:** `Unclear`
+
+2.  **Soybeans**
+    - **Price Movement:** Faded lower. Contracts were down 5 to 11.25 cents. May was down 64 cents on the week. The national average cash price was down 7 cents.
+    - **Key Drivers:** Under pressure. No specific fundamental driver cited in the closing summary.
+    - **Reverse Factors:** Not explicitly mentioned.
+    - **Classification:** `Unclear`
+
+3.  **Corn**
+    - **Price Movement:** Sputtered to losses. Contracts were down 3.5 to 4.25 cents.
+    - **Key Drivers:** No specific driver cited for Friday's move. Article mentions strong weekly export sales data from Thursday.
+    - **Reverse Factors:** Not explicitly mentioned.
+    - **Classification:** `Unclear`
+
+#### **Livestock**
+1.  **Live Cattle**
+    - **Price Movement:** Rallied higher. Gains of 77 cents to $1.72 on the day, with April up $3.15 for the week. Cash trade settled at $235-236 in the North.
+    - **Key Drivers:** Rallying ahead of the upcoming Cattle on Feed Report.
+    - **Reverse Factors:** Not explicitly mentioned. The report's data could contradict market expectations.
+    - **Classification:** `Short-term influencer - UP`
+
+2.  **Lean Hogs**
+    - **Price Movement:** Weaker, under pressure. Contracts were down 20 to 77 cents, with April down $2.175 for the week.
+    - **Key Drivers:** No specific fundamental driver cited for the decline.
+    - **Reverse Factors:** Not explicitly mentioned.
+    - **Classification:** `Unclear`
+
+#### **Metals**
+*No relevant articles were provided for this date.*
+
+#### **Softs**
+1.  **Sugar**
+    - **Price Movement:** Rallied. May NY world sugar #11 closed up +2.15%, hitting a 5-month high.
+    - **Key Drivers:** Rally in gasoline prices, as sugar is used to produce ethanol.
+    - **Reverse Factors:** Not explicitly mentioned. A reversal in energy prices would likely pressure sugar.
+    - **Classification:** `Short-term influencer - UP`
+
+2.  **Cocoa**
+    - **Price Movement:** Retreated. May ICE NY cocoa closed down -2.28% to a 2-week low.
+    - **Key Drivers:** Strength in the US dollar and an improved supply outlook.
+    - **Reverse Factors:** Not explicitly mentioned. Renewed supply concerns could quickly reverse the price drop.
+    - **Classification:** `Short-term influencer - DOWN`
+
+3.  **Coffee**
+    - **Price Movement:** Extended rally. May arabica coffee closed up +2.94% to a 1.5-month high.
+    - **Key Drivers:** Supply concerns/fears.
+    - **Reverse Factors:** Not explicitly mentioned. Any news alleviating supply fears could trigger profit-taking.
+    - **Classification:** `Short-term influencer - UP`
+
+#### **Currencies & Stocks**
+1.  **US Dollar Index**
+    - **Price Movement:** Gained. Rose by +0.42% on the day.
+    - **Key Drivers:** Weakness in stocks boosting liquidity demand for the dollar, and the ongoing war in Iran boosting safe-haven demand.
+    - **Reverse Factors:** Not explicitly mentioned. A rally in equities or a reduction in geopolitical risk could weaken the dollar.
+    - **Classification:** `Short-term influencer - UP`
+
+2.  **NiSource Stock**
+    - **Price Movement:** Information on the day's movement is not provided.
+    - **Key Drivers:** Not applicable for daily move. The article states it has underperformed the Nasdaq over the past year but analysts are optimistic.
+    - **Reverse Factors:** Not explicitly mentioned.
+    - **Classification:** `Unclear`
+
+---
+
+### **Summary & Key Themes**
+- **Geopolitical Risk Dominates:** The ongoing war in Iran was a primary driver, lifting crude oil, gasoline, and the US Dollar due to escalation fears and safe-haven flows.
+- **Commodity-Specific Supply Dynamics:** Supply concerns boosted coffee, while an improved outlook pressured cocoa. Sugar followed energy prices higher.
+- **Agricultural Pressure:** The grains complex (wheat, soybeans, corn) closed the week broadly lower, though specific catalysts were not detailed in the closing summaries.
+- **Livestock Divergence:** Cattle rallied into a key USDA report, while hogs faced sustained selling pressure for the week.
+
+### **Risks Highlighted**
+1. Escalation and prolongation of the war in Iran, disrupting energy and fertilizer shipments.
+2. Warming US weather reducing demand for natural gas.
+3. Supply chain concerns for agricultural inputs like fertilizers due to the Iran conflict.
+
+### **Watch Next**
+1. The upcoming USDA Cattle on Feed Report.
+2. Developments regarding US troop deployment and the war in Iran.
+3. Fertilizer supply availability as the 2026 Northern Hemisphere crop year begins.
+
+---
+
+### **Price Movement Classification Table**
+| Product | Classification | Reason |
+| :--- | :--- | :--- |
+| Crude Oil & Gasoline | Short-term influencer - UP | Iran war escalation fears |
+| Natural Gas | Short-term influencer - DOWN | Warm US weather forecast |
+| Wheat | Unclear | Broad market pressure |
+| Soybeans | Unclear | Broad market pressure |
+| Corn | Unclear | No specific driver cited |
+| Live Cattle | Short-term influencer - UP | Positioning for USDA report |
+| Lean Hogs | Unclear | No specific driver cited |
+| Sugar | Short-term influencer - UP | Rally in gasoline prices |
+| Cocoa | Short-term influencer - DOWN | Dollar strength, better supply |
+| Coffee | Short-term influencer - UP | Supply concerns |
+| US Dollar Index | Short-term influencer - UP | Safe-haven, stock weakness |
+| NiSource Stock | Unclear | No daily price data |
