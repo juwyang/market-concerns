@@ -1,0 +1,145 @@
+News Briefing for: 2026-03-23
+Generated at: 2026-03-24 05:59:40
+LLM Used: DeepSeek (deepseek-reasoner)
+Source JSON: 20260323_barchart_all-commodities_news.json
+Cost info: Prompt tokens: 4353, Completion tokens: 2673, Total tokens: 7026
+Model Processing Time: 81.79 seconds
+
+---
+
+### Daily Financial Briefing: 20260323
+
+#### **Energy**
+1.  **Crude Oil & Gasoline**
+    - **Price Movement:** Plunged significantly. April WTI crude oil closed down -10.28% and April RBOB gasoline closed down -9.42%.
+    - **Key Drivers:** Hopes for peace talks to end the Iran war after President Trump postponed military strikes. Prices gave up overnight gains and sold off sharply.
+    - **Reverse Factors:** A resumption or escalation of hostilities in the Middle East could reverse the price drop.
+    - **Classification:** Short-term influencer - DOWN
+
+2.  **Natural Gas**
+    - **Price Movement:** Tumbled sharply, settling down -6.59% to a 3-week low.
+    - **Key Drivers:** The outlook for warmer US weather, which will reduce heating demand.
+    - **Reverse Factors:** A shift to colder-than-expected weather forecasts could boost demand.
+    - **Classification:** Short-term influencer - DOWN
+
+3.  **Cheniere Energy (LNG)**
+    - **Price Movement:** Stock is trading at new all-time highs.
+    - **Key Drivers:** The Iran war threatening global LNG supply, positioning the company favorably.
+    - **Reverse Factors:** A swift de-escalation of the Iran conflict could reduce supply fears.
+    - **Classification:** Long-term influencer - UP
+
+#### **Grains**
+1.  **Corn**
+    - **Price Movement:** Declined, with futures down 1 ½ to 6 cents.
+    - **Key Drivers:** Traders digesting the Middle East situation following President Trump's comments ordering the military to postpone strikes.
+    - **Reverse Factors:** Unclear from articles, but a worsening geopolitical situation could provide support.
+    - **Classification:** Short-term influencer - DOWN
+
+2.  **Wheat**
+    - **Price Movement:** Fell across all three markets (Chicago SRW, KC HRW, MPLS spring).
+    - **Key Drivers:** Not explicitly stated for the Monday move, but the complex faced pressure on Friday.
+    - **Reverse Factors:** Unclear from articles.
+    - **Classification:** Unclear
+
+3.  **Soybeans**
+    - **Price Movement:** Posted marginal gains, up 3 to 6 cents at midday.
+    - **Key Drivers:** Not explicitly stated in the provided summaries.
+    - **Reverse Factors:** Unclear from articles.
+    - **Classification:** Unclear
+
+#### **Livestock**
+1.  **Cattle (Live & Feeder)**
+    - **Price Movement:** Pushed higher. Live cattle futures gained 32 cents to $1.25; feeder cattle were up 70 cents.
+    - **Key Drivers:** Cash trade from the prior week settled at $235-236. Resilience noted amid Middle East uncertainty and higher gas prices.
+    - **Reverse Factors:** Escalation in the Middle East conflict or a significant drop in cash prices.
+    - **Classification:** Short-term influencer - UP
+
+2.  **Hogs**
+    - **Price Movement:** Weaker/slipped lower, with contracts down 7 to 47 cents.
+    - **Key Drivers:** Light cash volume noted. Uncertainty from the conflict in the Middle East and higher gas prices are cited as catalysts.
+    - **Reverse Factors:** An improvement in the geopolitical outlook or stronger cash market demand.
+    - **Classification:** Short-term influencer - DOWN
+
+#### **Metals**
+1.  **Gold**
+    - **Price Movement:** Plunged significantly.
+    - **Key Drivers:** Hopes that the Iran war will soon end, leading to a rally in stocks and a decline in safe-haven demand. The metal "recently hit a structural wall" as stagflation fears take center stage.
+    - **Reverse Factors:** A breakdown in peace hopes or a flare-up in geopolitical tensions.
+    - **Classification:** Short-term influencer - DOWN
+
+2.  **Aluminum/Alcoa Stock**
+    - **Price Movement:** Aluminum futures saw a sudden decline, sending Alcoa (AA) stock below its 50-day moving average.
+    - **Key Drivers:** A plunge in aluminum futures.
+    - **Reverse Factors:** A rebound in industrial metal prices or positive company-specific news.
+    - **Classification:** Short-term influencer - DOWN
+
+#### **Softs**
+1.  **Cotton**
+    - **Price Movement:** Faded lower after early gains, closing 4 to 13 points lower in most contracts.
+    - **Key Drivers:** Early on Monday, President Trump's social media post ordering the military to postpone strikes was a noted event.
+    - **Reverse Factors:** Unclear from articles.
+    - **Classification:** Unclear
+
+2.  **Sugar**
+    - **Price Movement:** Slipped lower, with NY world sugar #11 down -1.15%.
+    - **Key Drivers:** The plunge in crude oil prices (more than -9%), which reduces demand for sugarcane-based ethanol.
+    - **Reverse Factors:** A rebound in crude oil prices.
+    - **Classification:** Short-term influencer - DOWN
+
+3.  **Cocoa**
+    - **Price Movement:** Settled lower (NY down -2.30%, London down -1.91%).
+    - **Key Drivers:** Expectations of a bumper West African cocoa crop.
+    - **Reverse Factors:** Any weather disruptions or disease issues in West Africa that threaten the crop outlook.
+    - **Classification:** Long-term influencer - DOWN
+
+4.  **Coffee**
+    - **Price Movement:** Settled lower (arabica down -0.89%, robusta down -0.74%).
+    - **Key Drivers:** Favorable growing conditions and crop outlook in Brazil.
+    - **Reverse Factors:** Adverse weather affecting the Brazilian crop.
+    - **Classification:** Long-term influencer - DOWN
+
+#### **Currencies & Stocks**
+1.  **US Dollar**
+    - **Price Movement:** Declined, with the dollar index (DXY00) falling -0.65% to a 1.5-week low.
+    - **Key Drivers:** Stocks rallied sharply after President Trump postponed attacks against Iran, reducing safe-haven demand for the dollar.
+    - **Reverse Factors:** A reversal in risk sentiment or renewed geopolitical fears.
+    - **Classification:** Short-term influencer - DOWN
+
+---
+
+### **Summary & Key Themes**
+- **Geopolitical Sentiment Dominates:** Market movements across energy, currencies, and metals were heavily influenced by hopes for a de-escalation in the Iran conflict following President Trump's actions.
+- **Weather Impacts Energy & Agriculture:** Warm US weather pressured natural gas, while favorable crop conditions in Brazil and West Africa weighed on coffee and cocoa.
+- **Commodity Interlinkages:** The sharp drop in crude oil prices had a cascading effect, pressuring related commodities like sugar and influencing broader market risk sentiment.
+- **Livestock Divergence:** Cattle showed strength on firm cash prices, while hogs weakened, with both markets sensitive to Middle East uncertainty and energy costs.
+
+### **Risks Highlighted**
+1. Escalation or renewed volatility from the conflict in the Middle East.
+2. Higher gas prices acting as a catalyst for uncertainty in livestock and broader markets.
+3. Weather patterns, particularly in the US (for nat-gas) and Brazil (for coffee), driving supply expectations.
+
+### **Watch Next**
+1. Further developments regarding US-Iran relations and potential peace talks.
+2. The impact of the warm US weather forecast on natural gas demand and storage.
+3. Progress of the West African cocoa crop and the Brazilian coffee harvest.
+
+---
+
+### **Price Movement Classification Table**
+| Product | Classification | Reason |
+| :--- | :--- | :--- |
+| Crude Oil | Short-term influencer - DOWN | Iran peace hopes |
+| Natural Gas | Short-term influencer - DOWN | Warm US weather |
+| Cheniere Energy | Long-term influencer - UP | Iran war threatens LNG supply |
+| Corn | Short-term influencer - DOWN | Trump Iran comments |
+| Wheat | Unclear | Not specified for Monday |
+| Soybeans | Unclear | Not specified for Monday |
+| Cattle | Short-term influencer - UP | Firm cash trade |
+| Hogs | Short-term influencer - DOWN | Geopolitical uncertainty |
+| Gold | Short-term influencer - DOWN | Iran peace hopes |
+| Aluminum | Short-term influencer - DOWN | Futures plunge |
+| Cotton | Unclear | Faded after early move |
+| Sugar | Short-term influencer - DOWN | Crude oil plunge |
+| Cocoa | Long-term influencer - DOWN | Bumper crop outlook |
+| Coffee | Long-term influencer - DOWN | Favorable Brazil weather |
+| US Dollar | Short-term influencer - DOWN | Risk-on rally |
