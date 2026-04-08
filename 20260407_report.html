@@ -1,0 +1,599 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Daily Financial Briefing - 2026-04-07</title>
+    <style>
+        /* --- General & Reset --- */
+        :root {
+            --bg-color: #f0f2f5;
+            --card-bg: #ffffff;
+            --text-color: #333333;
+            --header-color: #1a2c4e;
+            --border-color: #e0e0e0;
+            --green-color: #28a745;
+            --red-color: #dc3545;
+            --gray-color: #6c757d;
+            --green-bg: #e9f7ec;
+            --red-bg: #fdebec;
+            --gray-bg: #f8f9fa;
+        }
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+            margin: 0;
+            background-color: var(--bg-color);
+            color: var(--text-color);
+            line-height: 1.6;
+        }
+        * {
+            box-sizing: border-box;
+        }
+
+        /* --- Layout --- */
+        .dashboard-container {
+            display: flex;
+            flex-wrap: wrap;
+            padding: 20px;
+            gap: 20px;
+        }
+        .column {
+            display: flex;
+            flex-direction: column;
+            gap: 20px;
+        }
+        .column-left { flex: 1 1 300px; }
+        .column-main { flex: 2 1 500px; }
+        .column-right { flex: 1 1 300px; }
+
+        /* --- Cards --- */
+        .card {
+            background-color: var(--card-bg);
+            border-radius: 8px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+            padding: 20px;
+            border: 1px solid var(--border-color);
+        }
+        .card h2 {
+            margin-top: 0;
+            color: var(--header-color);
+            font-size: 1.2rem;
+            border-bottom: 1px solid var(--border-color);
+            padding-bottom: 10px;
+            margin-bottom: 15px;
+        }
+
+        /* --- Left Column: Market Snapshot --- */
+        .summary-table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+        .summary-table th, .summary-table td {
+            text-align: left;
+            padding: 10px 8px;
+            border-bottom: 1px solid var(--border-color);
+            font-size: 0.9rem;
+        }
+        .summary-table th {
+            font-weight: 600;
+        }
+        .summary-table tr:last-child td {
+            border-bottom: none;
+        }
+        .status-badge {
+            padding: 4px 10px;
+            border-radius: 12px;
+            font-weight: 700;
+            font-size: 0.8rem;
+            color: var(--card-bg);
+            text-transform: uppercase;
+        }
+
+        /* --- Main Column: Commodity Details --- */
+        .main-header {
+            text-align: center;
+            margin-bottom: 20px;
+        }
+        .main-header h1 {
+            color: var(--header-color);
+            margin: 0;
+        }
+        .main-header p {
+            color: var(--gray-color);
+            font-size: 1.1rem;
+            margin-top: 5px;
+        }
+        .category-header {
+            text-transform: uppercase;
+            color: var(--gray-color);
+            letter-spacing: 1px;
+            margin-top: 20px;
+            margin-bottom: 10px;
+            font-size: 1rem;
+        }
+        .commodity-card .card-header h3 {
+            margin: 0;
+            font-size: 1.15rem;
+            color: var(--header-color);
+        }
+        .price-info {
+            display: flex;
+            align-items: baseline;
+            gap: 15px;
+            margin: 15px 0;
+        }
+        .price-movement {
+            font-size: 1.5rem;
+            font-weight: 700;
+        }
+        .price-detail {
+            font-size: 0.95rem;
+            color: var(--gray-color);
+        }
+        .arrow-up::before { content: '▲'; font-size: 0.6em; }
+        .arrow-down::before { content: '▼'; font-size: 0.6em; }
+        .drivers-section h4 {
+            margin-bottom: 5px;
+            margin-top: 15px;
+            font-size: 0.9rem;
+            color: var(--header-color);
+        }
+        .drivers-section ul {
+            margin: 0;
+            padding-left: 20px;
+            font-size: 0.9rem;
+        }
+        .classification-badge {
+            margin-top: 15px;
+            padding: 5px 12px;
+            border-radius: 5px;
+            display: inline-block;
+            font-size: 0.8rem;
+            font-weight: 500;
+            color: var(--text-color);
+        }
+
+        /* --- Right Column: Summaries --- */
+        .right-column-list {
+            padding-left: 20px;
+            margin: 0;
+            font-size: 0.9rem;
+        }
+        .right-column-list li {
+            margin-bottom: 10px;
+        }
+
+        /* --- Color Utilities --- */
+        .bg-green { background-color: var(--green-color); }
+        .bg-red { background-color: var(--red-color); }
+        .bg-gray { background-color: var(--gray-color); }
+        .color-green { color: var(--green-color); }
+        .color-red { color: var(--red-color); }
+        .classification-badge.bg-green { background-color: var(--green-bg); color: var(--green-color); border: 1px solid var(--green-color); }
+        .classification-badge.bg-red { background-color: var(--red-bg); color: var(--red-color); border: 1px solid var(--red-color); }
+        .classification-badge.bg-gray { background-color: var(--gray-bg); color: var(--gray-color); border: 1px solid #ccc; }
+        
+        /* --- Responsive Design --- */
+        @media (max-width: 1024px) {
+            .column-left, .column-right { flex: 1 1 100%; order: 3; }
+            .column-main { flex: 2 1 100%; order: 1; }
+            .main-header { order: 0; width: 100%; }
+        }
+        @media (max-width: 768px) {
+            .dashboard-container {
+                flex-direction: column;
+                padding: 10px;
+                gap: 10px;
+            }
+            .column {
+                gap: 10px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="dashboard-container">
+        <!-- ======================= LEFT COLUMN ======================== -->
+        <aside class="column column-left">
+            <div class="card">
+                <h2>Market Snapshot</h2>
+                <table class="summary-table">
+                    <thead>
+                        <tr>
+                            <th>Product</th>
+                            <th>Movement</th>
+                            <th>Reason</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        
+                        <tr>
+                            <td>Crude Oil</td>
+                            <td><span class="status-badge bg-green">UP</span></td>
+                            <td>Geopolitical tensions</td>
+                        </tr>
+                        <tr>
+                            <td>Natural Gas</td>
+                            <td><span class="status-badge bg-green">UP</span></td>
+                            <td>Cooler weather forecasts</td>
+                        </tr>
+                        <tr>
+                            <td>Corn</td>
+                            <td><span class="status-badge bg-gray">UNCLEAR</span></td>
+                            <td>No clear driver cited</td>
+                        </tr>
+                        <tr>
+                            <td>Soybeans</td>
+                            <td><span class="status-badge bg-gray">UNCLEAR</span></td>
+                            <td>No clear driver cited</td>
+                        </tr>
+                        <tr>
+                            <td>Wheat</td>
+                            <td><span class="status-badge bg-gray">UNCLEAR</span></td>
+                            <td>Mixed, no clear driver</td>
+                        </tr>
+                        <tr>
+                            <td>Live Cattle (Apr)</td>
+                            <td><span class="status-badge bg-green">UP</span></td>
+                            <td>Cash/delivery support</td>
+                        </tr>
+                        <tr>
+                            <td>Lean Hogs</td>
+                            <td><span class="status-badge bg-gray">UNCLEAR</span></td>
+                            <td>Mixed signals</td>
+                        </tr>
+                        <tr>
+                            <td>Silver</td>
+                            <td><span class="status-badge bg-gray">UNCLEAR</span></td>
+                            <td>Analytical, no session driver</td>
+                        </tr>
+                        <tr>
+                            <td>Cotton</td>
+                            <td><span class="status-badge bg-red">DOWN</span></td>
+                            <td>Profit-taking/macro correlation</td>
+                        </tr>
+                        <tr>
+                            <td>Sugar</td>
+                            <td><span class="status-badge bg-red">DOWN</span></td>
+                            <td>India export policy</td>
+                        </tr>
+                        <tr>
+                            <td>Cocoa</td>
+                            <td><span class="status-badge bg-red">DOWN</span></td>
+                            <td>Supply increase, weak demand</td>
+                        </tr>
+                        <tr>
+                            <td>Coffee</td>
+                            <td><span class="status-badge bg-red">DOWN</span></td>
+                            <td>Abundant supply projections</td>
+                        </tr>
+                        <tr>
+                            <td>US Dollar</td>
+                            <td><span class="status-badge bg-red">DOWN</span></td>
+                            <td>Iran war economic risk</td>
+                        </tr>
+                        <tr>
+                            <td>Sector ETFs</td>
+                            <td><span class="status-badge bg-gray">UNCLEAR</span></td>
+                            <td>Thematic idea, not price move</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+        </aside>
+
+        <!-- ======================= MIDDLE COLUMN ======================== -->
+        <main class="column column-main">
+            <header class="main-header">
+                <h1>Daily Financial Briefing</h1>
+                <p>Date: 2026-04-07</p>
+            </header>
+            <section><h2 class="category-header">ENERGY</h2>
+                <div class="card commodity-card">
+                    <div class="card-header">
+                        <h3>Crude Oil & Gasoline</h3>
+                    </div>
+                    
+            <div class="price-info">
+                <div class="price-movement color-green">+0.48%</div>
+                <div class="price-detail">Prices settled mixed on Tuesday. May WTI crude closed up +0.54 (+0.48%), while May RBOB gasoline closed down -0.0030 (-0.09%). Prices had been sharply higher earlier in the day (+3.67% for crude) on escalation fears.</div>
+            </div>
+        
+                    <div class="drivers-section">
+                        <h4>Key Drivers</h4>
+                        <ul><li>Early strength was driven by concerns the Iran war could escalate, specifically a report that the Strait of Hormuz remains closed. Prices fell from highs later on hopes for a last-minute Iran deal ahead of a Tuesday night deadline.</li></ul>
+                        <h4>Reverse Factors</h4>
+                        <ul><li>The market remains sensitive to geopolitical developments. A de-escalation or deal with Iran could pressure prices further, while a breakdown in talks or further conflict could cause another spike. High energy prices also pose a risk of derailing the economy.</li></ul>
+                    </div>
+                    <div class="classification-badge bg-green">
+                        `Short-term influencer - UP` (Price rose primarily on short-term geopolitical tensions and news flow).
+                    </div>
+                </div>
+                <div class="card commodity-card">
+                    <div class="card-header">
+                        <h3>Natural Gas</h3>
+                    </div>
+                    
+            <div class="price-info">
+                <div class="price-movement color-green">+2.10%</div>
+                <div class="price-detail">Prices recovered sharply on Tuesday. May Nymex natural gas closed up +0.059 (+2.10%), rebounding from a 7.5-month low.</div>
+            </div>
+        
+                    <div class="drivers-section">
+                        <h4>Key Drivers</h4>
+                        <ul><li>Short covering emerged as updated US weather forecasts turned cooler, boosting heating demand expectations.</li></ul>
+                        <h4>Reverse Factors</h4>
+                        <ul><li>The recovery follows a significant downtrend to multi-month lows. Sustained warmer weather could reverse the gains. The article notes the rally was on short covering, not necessarily a change in fundamentals.</li></ul>
+                    </div>
+                    <div class="classification-badge bg-green">
+                        `Short-term influencer - UP` (Price rose due to a temporary shift in weather forecasts prompting short-term trading activity).
+                    </div>
+                </div></section><section><h2 class="category-header">GRAINS</h2>
+                <div class="card commodity-card">
+                    <div class="card-header">
+                        <h3>Corn</h3>
+                    </div>
+                    
+            <div class="price-info">
+                <div class="price-movement color-grey"></div>
+                <div class="price-detail">Futures closed lower on Tuesday, down 4 to 5 cents on the session. The national average cash price was down 4 3/4 cents.</div>
+            </div>
+        
+                    <div class="drivers-section">
+                        <h4>Key Drivers</h4>
+                        <ul><li>The article cites pressure from falling crude oil prices. No specific fundamental driver for corn is mentioned in the closing summary.</li></ul>
+                        <h4>Reverse Factors</h4>
+                        <ul><li>Earlier in the day, prices were down 3 to 5 cents. The market showed strength on Monday post-Easter. A reversal in energy markets or other macro factors could provide support.</li></ul>
+                    </div>
+                    <div class="classification-badge bg-gray">
+                        `Unclear` (The articles provide an association with crude oil but no clear, direct fundamental driver for corn's decline).
+                    </div>
+                </div>
+                <div class="card commodity-card">
+                    <div class="card-header">
+                        <h3>Soybeans</h3>
+                    </div>
+                    
+            <div class="price-info">
+                <div class="price-movement color-grey"></div>
+                <div class="price-detail">Futures posted losses on Tuesday, down 6 to 9 cents in nearby contracts. The national average cash bean price was down 8 cents.</div>
+            </div>
+        
+                    <div class="drivers-section">
+                        <h4>Key Drivers</h4>
+                        <ul><li>No specific fundamental driver is cited in the closing summary article. The midday report noted losses of 9 to 11 cents.</li></ul>
+                        <h4>Reverse Factors</h4>
+                        <ul><li>The market had gained 3 to 5.5 cents on Monday. A lack of fresh bullish news is allowing for pressure.</li></ul>
+                    </div>
+                    <div class="classification-badge bg-gray">
+                        `Unclear` (The articles note the price decline but do not specify a fundamental cause).
+                    </div>
+                </div>
+                <div class="card commodity-card">
+                    <div class="card-header">
+                        <h3>Wheat</h3>
+                    </div>
+                    
+            <div class="price-info">
+                <div class="price-movement color-grey"></div>
+                <div class="price-detail">The wheat complex closed mixed on Tuesday. Chicago SRW futures were down 1 to 3 cents, while KC HRW saw fractional losses. The midday report noted the soft red contracts were higher.</div>
+            </div>
+        
+                    <div class="drivers-section">
+                        <h4>Key Drivers</h4>
+                        <ul><li>The articles do not specify a fundamental driver for the mixed price action.</li></ul>
+                        <h4>Reverse Factors</h4>
+                        <ul><li>Different wheat classes (SRW, HRW, Spring) are showing divergent performance, indicating varied regional or quality-specific dynamics.</li></ul>
+                    </div>
+                    <div class="classification-badge bg-gray">
+                        `Unclear` (Price movement is mixed and no clear single driver is identified).
+                    </div>
+                </div></section><section><h2 class="category-header">LIVESTOCK</h2>
+                <div class="card commodity-card">
+                    <div class="card-header">
+                        <h3>Live Cattle</h3>
+                    </div>
+                    
+            <div class="price-info">
+                <div class="price-movement color-green"></div>
+                <div class="price-detail">Futures settled mixed on Tuesday. The front-month April contract was up 17 cents, while other contracts were down 50 cents to $1.22.</div>
+            </div>
+        
+                    <div class="drivers-section">
+                        <h4>Key Drivers</h4>
+                        <ul><li>Support in the nearby April contract came from a lack of deliveries and steady cash trade. The broader weakness in deferred contracts lacks a specific cited driver.</li></ul>
+                        <h4>Reverse Factors</h4>
+                        <ul><li>Cash trade has been slow to develop. The market showed strength on Monday, so some profit-taking or positioning may be occurring.</li></ul>
+                    </div>
+                    <div class="classification-badge bg-green">
+                        `Short-term influencer - UP` (for nearby month) / `Unclear` (for deferred months). The primary support for the rising front month is short-term delivery and cash dynamics.
+                    </div>
+                </div>
+                <div class="card commodity-card">
+                    <div class="card-header">
+                        <h3>Lean Hogs</h3>
+                    </div>
+                    
+            <div class="price-info">
+                <div class="price-movement color-grey"></div>
+                <div class="price-detail">Futures closed mixed on Tuesday. The front-month April was up 30 cents, while other contracts were down 35 to 70 cents.</div>
+            </div>
+        
+                    <div class="drivers-section">
+                        <h4>Key Drivers</h4>
+                        <ul><li>The national base hog price was reported at $90.82. One article suggests June lean hog futures present a buying opportunity on more price strength.</li></ul>
+                        <h4>Reverse Factors</h4>
+                        <ul><li>The CME Lean Hog Index has been declining. The midday report showed futures 7 to 60 cents lower, indicating selling pressure during the session.</li></ul>
+                    </div>
+                    <div class="classification-badge bg-gray">
+                        `Unclear` (Prices are mixed with conflicting signals from cash prices, indices, and contract months).
+                    </div>
+                </div></section><section><h2 class="category-header">METALS</h2>
+                <div class="card commodity-card">
+                    <div class="card-header">
+                        <h3>Silver</h3>
+                    </div>
+                    
+            <div class="price-info">
+                <div class="price-movement color-grey"></div>
+                <div class="price-detail">No specific price change for Tuesday is given. Articles discuss silver's price action over a longer period, having halved from a January high to a March low, then bouncing over $10 from that low.</div>
+            </div>
+        
+                    <div class="drivers-section">
+                        <h4>Key Drivers</h4>
+                        <ul><li>The articles discuss a dislocation from traditional fundamentals and question whether a bottom has been found. Safe-haven demand dynamics are being examined.</li></ul>
+                        <h4>Reverse Factors</h4>
+                        <ul><li>Prices remain closer to the recent bottom than the January high. The fundamental driver for daily moves is not clear from the provided text.</li></ul>
+                    </div>
+                    <div class="classification-badge bg-gray">
+                        `Unclear` (The provided articles are analytical/forward-looking and do not state a clear driver for Tuesday's session).
+                    </div>
+                </div></section><section><h2 class="category-header">SOFTS</h2>
+                <div class="card commodity-card">
+                    <div class="card-header">
+                        <h3>Cotton</h3>
+                    </div>
+                    
+            <div class="price-info">
+                <div class="price-movement color-red"></div>
+                <div class="price-detail">Cotton futures closed lower on Tuesday, with contracts down 28 to 40 points.</div>
+            </div>
+        
+                    <div class="drivers-section">
+                        <h4>Key Drivers</h4>
+                        <ul><li>The closing summary notes a lower US dollar and lower crude oil. The midday report showed losses despite early gains, "shrugging off" positive factors.</li></ul>
+                        <h4>Reverse Factors</h4>
+                        <ul><li>The market had gained on Monday and extended gains into Tuesday morning. The reversal suggests underlying weakness or profit-taking.</li></ul>
+                    </div>
+                    <div class="classification-badge bg-red">
+                        `Short-term influencer - DOWN` (Price fell, potentially on profit-taking or short-term macro correlations (oil, dollar) without a clear long-term fundamental shift).
+                    </div>
+                </div>
+                <div class="card commodity-card">
+                    <div class="card-header">
+                        <h3>Sugar</h3>
+                    </div>
+                    
+            <div class="price-info">
+                <div class="price-movement color-green">-2.61%</div>
+                <div class="price-detail">Sugar prices tumbled on Tuesday. May NY world sugar #11 closed down -0.39 (-2.61%) at a 2.5-week low.</div>
+            </div>
+        
+                    <div class="drivers-section">
+                        <h4>Key Drivers</h4>
+                        <ul><li>The drop was attributed to a possible increase in India's sugar exports after India ruled out a ban on sugar exports.</li></ul>
+                        <h4>Reverse Factors</h4>
+                        <ul><li>Any change in India's export policy or global weather concerns could reverse the trend.</li></ul>
+                    </div>
+                    <div class="classification-badge bg-green">
+                        `Long-term influencer - DOWN` (Price fell due to a fundamental shift in the supply outlook from a major exporter).
+                    </div>
+                </div>
+                <div class="card commodity-card">
+                    <div class="card-header">
+                        <h3>Cocoa</h3>
+                    </div>
+                    
+            <div class="price-info">
+                <div class="price-movement color-green">-6.40%</div>
+                <div class="price-detail">Cocoa prices settled sharply lower on Tuesday. May ICE NY cocoa closed down -207 (-6.40%), posting a 1-month low.</div>
+            </div>
+        
+                    <div class="drivers-section">
+                        <h4>Key Drivers</h4>
+                        <ul><li>Increased supplies and faltering demand were cited as the reasons for the sell-off.</li></ul>
+                        <h4>Reverse Factors</h4>
+                        <ul><li>A sustained recovery in demand or supply shocks in West Africa could provide support.</li></ul>
+                    </div>
+                    <div class="classification-badge bg-green">
+                        `Long-term influencer - DOWN` (Price fell due to fundamental factors of rising supply and weakening demand).
+                    </div>
+                </div>
+                <div class="card commodity-card">
+                    <div class="card-header">
+                        <h3>Coffee</h3>
+                    </div>
+                    
+            <div class="price-info">
+                <div class="price-movement color-green">-4.01%</div>
+                <div class="price-detail">Coffee prices sold off sharply on Tuesday. May arabica closed down -11.95 (-4.01%) at a 3-week low.</div>
+            </div>
+        
+                    <div class="drivers-section">
+                        <h4>Key Drivers</h4>
+                        <ul><li>The plunge was due to projections for abundant global supplies.</li></ul>
+                        <h4>Reverse Factors</h4>
+                        <ul><li>Adverse weather in key growing regions (e.g., Brazil) could rapidly tighten the supply outlook.</li></ul>
+                    </div>
+                    <div class="classification-badge bg-green">
+                        `Long-term influencer - DOWN` (Price fell due to a fundamental outlook for large supplies).
+                    </div>
+                </div></section><section><h2 class="category-header">CURRENCIES & STOCKS</h2>
+                <div class="card commodity-card">
+                    <div class="card-header">
+                        <h3>US Dollar</h3>
+                    </div>
+                    
+            <div class="price-info">
+                <div class="price-movement color-red">-0.11%</div>
+                <div class="price-detail">The US Dollar Index (DXY) edged lower on Tuesday, falling by -0.11% to -0.375 points.</div>
+            </div>
+        
+                    <div class="drivers-section">
+                        <h4>Key Drivers</h4>
+                        <ul><li>The dollar was under pressure on concerns that the lingering Iran war could lead to a spike in energy prices that might derail the US economy.</li></ul>
+                        <h4>Reverse Factors</h4>
+                        <ul><li>A resolution to the Iran conflict or stronger-than-expected US economic data could reverse the dollar's weakness.</li></ul>
+                    </div>
+                    <div class="classification-badge bg-red">
+                        `Short-term influencer - DOWN` (Price fell due to short-term geopolitical risk and its potential economic impact).
+                    </div>
+                </div>
+                <div class="card commodity-card">
+                    <div class="card-header">
+                        <h3>Sector ETFs (Energy/Defense)</h3>
+                    </div>
+                    
+            <div class="price-info">
+                <div class="price-movement color-grey"></div>
+                <div class="price-detail">Not specified for Tuesday. Articles discuss these as emerging opportunities.</div>
+            </div>
+        
+                    <div class="drivers-section">
+                        <h4>Key Drivers</h4>
+                        <ul><li>Energy infrastructure and modern defense stocks are seen as opportunities amid the Middle East conflict, specifically the closure of the Strait of Hormuz.</li></ul>
+                        <h4>Reverse Factors</h4>
+                        <ul><li>High risks remain due to the geopolitical situation. A calming of the Iran war is seen as a potential catalyst for inverse energy ETFs.</li></ul>
+                    </div>
+                    <div class="classification-badge bg-gray">
+                        `Unclear` (The articles provide thematic investment ideas, not a classification of a specific price movement on Tuesday).
+                    </div>
+                </div></section>
+        </main>
+
+        <!-- ======================= RIGHT COLUMN ======================== -->
+        <aside class="column column-right">
+            <div class="card">
+                <h2><i class="fa-solid fa-lightbulb"></i>Key Themes</h2>
+                <ul class="right-column-list theme-list">
+                    <li>**Geopolitical Dominance:** The Iran conflict and the status of the Strait of Hormuz were the overwhelming market themes, directly impacting crude oil, the US dollar, and driving thematic ETF interest.</li><li>**Soft Commodity Weakness:** Sugar, Cocoa, and Coffee markets experienced significant sell-offs driven by fundamental supply and demand factors, notably increased export potential from India and projections for abundant global supplies.</li><li>**Mixed Agricultural Session:** Grain and livestock markets showed mixed to weaker performance, with many moves lacking a clear, singular news driver, suggesting position-squaring or influence from broader macro factors like energy prices.</li>
+                </ul>
+            </div>
+            <div class="card">
+                <h2><i class="fa-solid fa-triangle-exclamation"></i>Risks Highlighted</h2>
+                <ul class="right-column-list risk-list">
+                    <li>**Economic Derailment:** The risk that a prolonged Iran conflict and subsequent spike in energy prices could derail the US economy.</li><li>**Geopolitical Escalation:** The high risk associated with the ongoing Iran war and the closure of a critical oil chokepoint (Strait of Hormuz).</li><li>**Supply Glut:** The risk of abundant supplies and weak demand continuing to pressure soft commodity markets like coffee and cocoa.</li>
+                </ul>
+            </div>
+            <div class="card">
+                <h2><i class="fa-solid fa-binoculars"></i>Watch Next</h2>
+                <ul class="right-column-list watch-list">
+                    <li>**Iran Deadline:** The outcome of the "Tuesday night's Iran deadline" mentioned in multiple articles.</li><li>**US Weather:** Further updates to US weather forecasts, which are driving natural gas price volatility.</li><li>**India Policy:** Monitoring India's official stance and actions on sugar exports.</li>
+                </ul>
+            </div>
+        </aside>
+    </div>
+</body>
+</html>
+        
