@@ -1,0 +1,128 @@
+News Briefing for: 2026-04-10
+Generated at: 2026-04-11 06:00:08
+LLM Used: DeepSeek (deepseek-reasoner)
+Source JSON: 20260410_barchart_all-commodities_news.json
+Cost info: Prompt tokens: 3893, Completion tokens: 2117, Total tokens: 6010
+Model Processing Time: 64.91 seconds
+
+---
+
+### Daily Financial Briefing: 20260410
+
+#### **Energy**
+1.  **Crude Oil (WTI) & Gasoline**
+    - **Price Movement:** Crude oil prices closed mixed on Friday. May WTI crude closed down 1.30 (-1.33%), while May RBOB gasoline closed up 0.0366 (+1.22%).
+    - **Key Drivers:** Crude gave up early gains from a weaker dollar and supply concerns related to the Strait of Hormuz ahead of US-Iran peace talks. Prices fell due to long liquidation ahead of those talks.
+    - **Reverse Factors:** The scheduled US-Iran peace talks could reduce geopolitical risk and pressure prices. Profit-taking after recent strength was also cited.
+    - **Classification:** `Short-term influencer - DOWN`
+
+2.  **Natural Gas**
+    - **Price Movement:** May Nymex natural gas closed down 0.022 (-0.82%), tumbling to a fresh 7.5-month low.
+    - **Key Drivers:** Forecasts for mild US spring weather are weighing on heating demand.
+    - **Reverse Factors:** A shift to colder-than-expected weather forecasts could reverse the trend.
+    - **Classification:** `Short-term influencer - DOWN`
+
+#### **Grains**
+1.  **Soybeans & Soymeal**
+    - **Price Movement:** Soybeans closed the Friday session 5 to 10.5 cents higher, led by strong gains in soymeal.
+    - **Key Drivers:** The rally was led by strength in soymeal futures. The national average cash bean price was also higher.
+    - **Reverse Factors:** Not explicitly mentioned in the provided articles.
+    - **Classification:** `Unclear` (The specific driver for meal's strength is not detailed.)
+
+2.  **Corn**
+    - **Price Movement:** Corn futures closed down 1.25 to 3.75 cents. For the week, May corn was down 11.25 cents.
+    - **Key Drivers:** General market weakness continued from the previous session.
+    - **Reverse Factors:** Not explicitly mentioned in the provided articles.
+    - **Classification:** `Unclear` (No specific catalyst is provided for the decline.)
+
+3.  **Wheat (Chicago SRW, KC HRW, MPLS Spring)**
+    - **Price Movement:** The wheat complex closed with mixed trade. Chicago SRW was down 3.5 to 6 cents, while KC HRW was down 0.75 to 3 cents.
+    - **Key Drivers:** The market was weaker following an increased stocks number from the USDA.
+    - **Reverse Factors:** Not explicitly mentioned in the provided articles.
+    - **Classification:** `Short-term influencer - DOWN` (Reaction to a specific USDA report.)
+
+#### **Livestock**
+1.  **Live Cattle**
+    - **Price Movement:** Live cattle futures closed 27 cents to $2 higher on Friday, with April up $5.57 for the week.
+    - **Key Drivers:** Cash trade saw light activity at $246 in the South and near $250 in the North, providing support.
+    - **Reverse Factors:** Not explicitly mentioned in the provided articles.
+    - **Classification:** `Short-term influencer - UP` (Driven by short-term cash market activity.)
+
+2.  **Lean Hogs**
+    - **Price Movement:** Lean hog futures closed mostly lower, with losses of 37 to 60 cents in most contracts. April was an exception, up a nickel.
+    - **Key Drivers:** Not explicitly mentioned in the provided articles.
+    - **Reverse Factors:** Not explicitly mentioned in the provided articles.
+    - **Classification:** `Unclear`
+
+#### **Metals**
+*(No metals were discussed in the provided articles.)*
+
+#### **Softs**
+1.  **Cotton**
+    - **Price Movement:** Cotton futures closed mixed on Friday, with contracts 7 points lower to 10 points higher. For the week, May cotton was up 230 points.
+    - **Key Drivers:** Prices have been rallying since early February, with seasonal factors potentially creating a significant price bottom. Outside markets were generally supportive.
+    - **Reverse Factors:** One article warns of a potential market top and suggests buying put options, indicating a view that prices could break lower.
+    - **Classification:** `Long-term influencer - UP` (Attributed to seasonal factors suggesting a longer-term bottom.)
+
+2.  **Sugar**
+    - **Price Movement:** Sugar prices fell, with May NY world sugar #11 closing down 0.11 (-1.22%), continuing a week-long slide.
+    - **Key Drivers:** The outlook for ample global supplies is weighing on prices.
+    - **Reverse Factors:** Not explicitly mentioned in the provided articles.
+    - **Classification:** `Long-term influencer - DOWN` (Driven by a fundamental outlook of abundant supply.)
+
+3.  **Cocoa**
+    - **Price Movement:** Cocoa prices climbed, with May ICE NY cocoa closing up 84 (+2.66%).
+    - **Key Drivers:** A weak US dollar prompted short covering in the futures market.
+    - **Reverse Factors:** A strengthening dollar could reverse this short-covering rally.
+    - **Classification:** `Short-term influencer - UP` (Driven by currency-led short covering.)
+
+4.  **Coffee**
+    - **Price Movement:** Coffee prices closed higher, with May arabica up 6.40 (+2.18%) to a 1-week high. May robusta was up 14 (+0.42%).
+    - **Key Drivers:** Strength in the Brazilian Real boosted arabica coffee prices.
+    - **Reverse Factors:** Weakness in the Brazilian Real could remove this support.
+    - **Classification:** `Short-term influencer - UP` (Linked to short-term currency movement.)
+
+#### **Currencies & Stocks**
+1.  **US Dollar Index**
+    - **Price Movement:** The dollar index (DXY) fell, down 0.15% on Friday and 0.26% earlier in the day.
+    - **Key Drivers:** Weaker-than-expected US economic news, including a smaller-than-expected increase in March consumer prices and a plunge in the University of Michigan’s consumer sentiment index. A stock market rally also reduced safe-haven demand.
+    - **Reverse Factors:** Stronger economic data or a shift to risk-off sentiment could strengthen the dollar.
+    - **Classification:** `Short-term influencer - DOWN` (Driven by immediate economic data and market sentiment.)
+
+---
+
+### **Summary & Key Themes**
+- **Dollar Weakness:** The US dollar fell on softer-than-expected inflation and consumer sentiment data, influencing commodity prices.
+- **Geopolitical Focus:** Markets were sensitive to upcoming US-Iran peace talks, affecting crude oil prices.
+- **Soft Commodity Divergence:** Softs showed split action, with cocoa and coffee rising on dollar/currency moves, while sugar fell on supply outlooks.
+- **Grain Market Pressure:** Wheat and corn faced weekly losses, with wheat reacting to bearish USDA data.
+
+### **Risks Highlighted**
+1.  Geopolitical de-escalation from US-Iran talks could remove a risk premium from oil prices.
+2.  Persistent forecasts for mild US weather continue to pressure natural gas demand and prices.
+3.  The outlook for ample global sugar supplies poses a downside risk to prices.
+4.  A warning was issued that the cotton rally may be nearing a top, suggesting a potential reversal.
+
+### **Watch Next**
+1.  The outcome of the scheduled Saturday US-Iran peace talks.
+2.  Further USDA reports and cash market activity for agricultural commodities.
+3.  US economic data releases and their impact on the dollar.
+4.  Weather forecasts for the US and their impact on grain and energy demand.
+
+---
+
+### **Price Movement Classification Table**
+| Product          | Classification          | Reason                      |
+|------------------|-------------------------|-----------------------------|
+| Crude Oil        | Short-term influencer - DOWN | Long liquidation ahead of talks |
+| Natural Gas      | Short-term influencer - DOWN | Mild weather forecasts      |
+| Soybeans         | Unclear                 | Rally led by meal           |
+| Corn             | Unclear                 | General market weakness     |
+| Wheat            | Short-term influencer - DOWN | Reaction to USDA data       |
+| Live Cattle      | Short-term influencer - UP | Support from cash trade     |
+| Lean Hogs        | Unclear                 | No clear driver given       |
+| Cotton           | Long-term influencer - UP | Seasonal bottoming          |
+| Sugar            | Long-term influencer - DOWN | Ample global supply outlook |
+| Cocoa            | Short-term influencer - UP | Dollar-driven short covering|
+| Coffee           | Short-term influencer - UP | Brazilian Real strength     |
+| US Dollar Index  | Short-term influencer - DOWN | Weak economic data          |
