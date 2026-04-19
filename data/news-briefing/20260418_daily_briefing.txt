@@ -1,0 +1,40 @@
+News Briefing for: 2026-04-18
+Generated at: 2026-04-19 06:27:35
+LLM Used: DeepSeek (deepseek-reasoner)
+Source JSON: 20260418_barchart_all-commodities_news.json
+Cost info: Prompt tokens: 1204, Completion tokens: 609, Total tokens: 1813
+Model Processing Time: 18.96 seconds
+
+---
+
+### Daily Financial Briefing: 20260418
+
+#### **Energy**
+*(No information provided in the source articles.)*
+
+#### **Grains**
+1.  **Wheat**
+    - **Price Movement:** No specific daily price movement or level is provided in the source article.
+    - **Key Drivers:** The article discusses wheat's potential as a long-term investment, referring to it by the nickname "Poverty Grass." No specific fundamental or technical drivers for a price change are cited.
+    - **Reverse Factors:** No counter-arguments or risks to the long-term investment thesis are mentioned in the provided text.
+    - **Classification:** `Unclear`
+
+*(No information provided in the source articles for Livestock, Metals, Softs, or Currencies & Stocks.)*
+
+---
+
+### **Summary & Key Themes**
+- Discussion centers on the long-term investment potential of wheat, without providing current market data or catalysts.
+
+### **Risks Highlighted**
+1. No specific market risks are highlighted in the provided text.
+
+### **Watch Next**
+1. No upcoming events or indicators are mentioned in the provided text.
+
+---
+
+### **Price Movement Classification Table**
+| Product | Classification | Reason            |
+|---------|----------------|-------------------|
+| Wheat   | Unclear        | No price driver cited |
