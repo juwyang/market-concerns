@@ -1,0 +1,50 @@
+News Briefing for: 2026-04-19
+Generated at: 2026-04-20 07:14:30
+LLM Used: DeepSeek (deepseek-reasoner)
+Source JSON: 20260419_barchart_all-commodities_news.json
+Cost info: Prompt tokens: 1192, Completion tokens: 562, Total tokens: 1754
+Model Processing Time: 24.55 seconds
+
+---
+
+### Daily Financial Briefing: 20260419
+
+#### **Energy**
+*(No relevant information found in the provided articles.)*
+
+#### **Grains**
+*(No relevant information found in the provided articles.)*
+
+#### **Livestock**
+*(No relevant information found in the provided articles.)*
+
+#### **Metals**
+*(No relevant information found in the provided articles.)*
+
+#### **Softs**
+*(No relevant information found in the provided articles.)*
+
+#### **Currencies & Stocks**
+1.  **Vistra (VST)**
+    - **Price Movement:** Price movement for the day is not specified in the provided article.
+    - **Key Drivers:** Analyst anticipation of triple-digit bottom-line growth in the upcoming first-quarter earnings report.
+    - **Reverse Factors:** The actual earnings results, to be released next month, may differ from current analyst expectations.
+    - **Classification:** `Unclear`
+
+---
+
+### **Summary & Key Themes**
+- Market focus on upcoming corporate earnings, with Vistra's results anticipated to show significant year-over-year profit growth.
+
+### **Risks Highlighted**
+1. Earnings risk: Vistra's actual financial performance may not meet the high expectations set by analyst forecasts.
+
+### **Watch Next**
+1. Vistra's first-quarter earnings release, scheduled for next month (May 2025).
+
+---
+
+### **Price Movement Classification Table**
+| Product | Classification | Reason |
+| :--- | :--- | :--- |
+| Vistra (VST) | `Unclear` | No price data; future event focus |
