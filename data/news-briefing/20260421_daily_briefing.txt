@@ -1,0 +1,9 @@
+News Briefing for: 2026-04-21
+Generated at: 2026-04-22 06:56:15
+LLM Used: DeepSeek (deepseek-reasoner)
+Source JSON: 20260421_barchart_all-commodities_news.json
+Cost info: Unavailable due to exception: 'NoneType' object has no attribute 'choices'
+
+---
+
+An error occurred while communicating with DeepSeek API: 'NoneType' object has no attribute 'choices'
