@@ -1,0 +1,138 @@
+News Briefing for: 2026-04-22
+Generated at: 2026-04-23 07:01:59
+LLM Used: DeepSeek (deepseek-reasoner)
+Source JSON: 20260422_barchart_all-commodities_news.json
+Cost info: Prompt tokens: 3883, Completion tokens: 3012, Total tokens: 6895
+Model Processing Time: 130.95 seconds
+
+---
+
+### Daily Financial Briefing: 20260422
+
+#### **Energy**
+1.  **Crude Oil & Gasoline**
+    - **Price Movement:** Rose significantly. June WTI crude oil closed up +3.29 (+3.67%) and June RBOB gasoline closed up +0.1201 (+3.84%).
+    - **Key Drivers:** Escalation of the US-Iran war and the threat of the Strait of Hormuz closing, disrupting global oil supplies and creating shortage fears.
+    - **Reverse Factors:** Not mentioned in the provided articles.
+    - **Classification:** `Short-term influencer - UP`
+
+2.  **Natural Gas**
+    - **Price Movement:** Rose moderately. May Nymex natural gas closed up +0.025 (+0.93%) at a 2-week high.
+    - **Key Drivers:** Prospects of stronger US LNG exports due to the expectation that the Strait of Hormuz will remain closed, diverting demand to US suppliers.
+    - **Reverse Factors:** Not mentioned in the provided articles.
+    - **Classification:** `Short-term influencer - UP`
+
+#### **Grains**
+1.  **Wheat**
+    - **Price Movement:** Declined moderately. Chicago SRW futures closed down 2 to 5 ¾ cents; KC HRW futures were down 4 to 5 ¾ cents.
+    - **Key Drivers:** Not explicitly stated in the closing summaries.
+    - **Reverse Factors:** Earlier in the day, wheat was trading with marginal gains (1 to 3 cents higher), indicating intraday volatility and potential for a reversal.
+    - **Classification:** `Unclear`
+
+2.  **Soybeans**
+    - **Price Movement:** Declined moderately. Contracts closed down 4 to 11 ¼ cents.
+    - **Key Drivers:** Pressure from soybean product markets (soymeal).
+    - **Reverse Factors:** Not mentioned in the provided articles.
+    - **Classification:** `Short-term influencer - DOWN`
+
+3.  **Corn**
+    - **Price Movement:** Mixed to slightly higher. Front months closed fractionally to 1 ¼ cents higher; some deferred contracts were steady to fractionally lower.
+    - **Key Drivers:** Not explicitly stated for the close. A midday report noted a private sale of 2025/26 corn.
+    - **Reverse Factors:** May options expire on Friday, which could lead to increased volatility or position squaring.
+    - **Classification:** `Unclear`
+
+#### **Livestock**
+1.  **Lean Hogs**
+    - **Price Movement:** Closed mixed. Front months were down 35 to 57 cents; other contracts were up 40 cents to $1.10.
+    - **Key Drivers:** Not explicitly stated. The USDA national base hog price was reported lower at $92.27.
+    - **Reverse Factors:** Not mentioned in the provided articles.
+    - **Classification:** `Unclear`
+
+2.  **Live Cattle**
+    - **Price Movement:** Declined marginally. Contracts closed with losses of 40 cents to $1.32.
+    - **Key Drivers:** Not explicitly stated. Early cash trade was reported near $246 on lighter volume.
+    - **Reverse Factors:** An article suggested considering buying a put option on June live cattle futures by June 5, indicating some traders see potential for further downside.
+    - **Classification:** `Unclear`
+
+#### **Metals**
+1.  **Diamonds**
+    - **Price Movement:** Plunged significantly to the lowest levels this century.
+    - **Key Drivers:** The articles state prices are "caving in" but do not specify a direct cause for the day's move.
+    - **Reverse Factors:** The article suggests it "doesn't look like they're going to bounce back any time soon."
+    - **Classification:** `Long-term influencer - DOWN`
+
+#### **Softs**
+1.  **Cotton**
+    - **Price Movement:** Fell significantly. Futures were down 135 to 225 points across front months.
+    - **Key Drivers:** Not explicitly stated in the closing summary.
+    - **Reverse Factors:** Not mentioned in the provided articles.
+    - **Classification:** `Unclear`
+
+2.  **Sugar**
+    - **Price Movement:** Rose moderately. May NY world sugar #11 closed up +0.14 (+1.04%).
+    - **Key Drivers:** Support from soaring crude oil prices, which prompted short covering.
+    - **Reverse Factors:** Not mentioned in the provided articles.
+    - **Classification:** `Short-term influencer - UP`
+
+3.  **Cocoa**
+    - **Price Movement:** Rose sharply. May ICE NY cocoa closed up +119 (+3.70%).
+    - **Key Drivers:** Supply disruption fears due to concern that a prolonged US-Iran war will keep the Strait of Hormuz closed, impacting shipments.
+    - **Reverse Factors:** Not mentioned in the provided articles.
+    - **Classification:** `Short-term influencer - UP`
+
+4.  **Coffee**
+    - **Price Movement:** Rose sharply. May arabica coffee closed up +13.40 (+4.64%), hitting 3.5-week highs.
+    - **Key Drivers:** The Iran war raising global supply risks and concerns over shipping disruptions via the Strait of Hormuz.
+    - **Reverse Factors:** Not mentioned in the provided articles.
+    - **Classification:** `Short-term influencer - UP`
+
+#### **Currencies & Stocks**
+1.  **US Dollar**
+    - **Price Movement:** Rose moderately. The dollar index (DXY00) finished up +0.20% at a 1-week high.
+    - **Key Drivers:** Safe-haven demand boosted by the escalation of the US-Iran war.
+    - **Reverse Factors:** Strength in stocks was noted as a factor that could curb liquidity demand for the dollar.
+    - **Classification:** `Short-term influencer - UP`
+
+2.  **Bloom Energy (BE Stock)**
+    - **Price Movement:** Not specified in the provided text.
+    - **Key Drivers:** Scored a major win as the Trump administration decided to preserve federal hydrogen hub funding, removing a regulatory overhang.
+    - **Reverse Factors:** Not mentioned in the provided articles.
+    - **Classification:** `Long-term influencer - UP`
+
+---
+
+### **Summary & Key Themes**
+- **Geopolitical Risk Dominates:** The escalation of US-Iran tensions and the threat to the Strait of Hormuz were the primary drivers across energy (oil, nat-gas), softs (cocoa, coffee), and currency (dollar) markets.
+- **Commodity Divergence:** While energy and most softs rallied on supply fears, grains and livestock markets showed weakness or mixed performance due to their own specific fundamentals.
+- **Safe-Haven Flows:** The geopolitical uncertainty spurred buying in traditional safe-havens like the US dollar.
+
+### **Risks Highlighted**
+1. Prolonged closure of the Strait of Hormuz disrupting global supply chains for oil, LNG, and soft commodities.
+2. Further escalation of the US-Iran war.
+3. Continued downward pressure in specific markets like diamonds and cattle.
+
+### **Watch Next**
+1. Developments regarding the Strait of Hormuz and US-Iran tensions.
+2. May options expiration for corn futures on Friday.
+3. Cash market trends for cattle and hogs.
+4. The June 5 date highlighted for potential action in live cattle futures (put option consideration).
+
+---
+
+### **Price Movement Classification Table**
+| Product          | Classification          | Reason                      |
+|------------------|-------------------------|-----------------------------|
+| Crude Oil        | Short-term influencer - UP | Strait of Hormuz closure risk |
+| Natural Gas      | Short-term influencer - UP | Stronger LNG export prospects |
+| Wheat            | Unclear                 | Intraday reversal           |
+| Soybeans         | Short-term influencer - DOWN | Product pressure            |
+| Corn             | Unclear                 | Options expiry proximity    |
+| Lean Hogs        | Unclear                 | Mixed trade, lower cash     |
+| Live Cattle      | Unclear                 | Light cash trade            |
+| Diamonds         | Long-term influencer - DOWN | Sustained price collapse    |
+| Cotton           | Unclear                 | General pressure            |
+| Sugar            | Short-term influencer - UP | Crude oil support           |
+| Cocoa            | Short-term influencer - UP | Supply disruption fears     |
+| Coffee           | Short-term influencer - UP | Global supply risks         |
+| US Dollar        | Short-term influencer - UP | Safe-haven demand           |
+| Bloom Energy     | Long-term influencer - UP | Regulatory win              |
