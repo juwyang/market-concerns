@@ -1,0 +1,133 @@
+News Briefing for: 2026-05-12
+Generated at: 2026-05-13 07:47:54
+LLM Used: DeepSeek (deepseek-reasoner)
+Source JSON: 20260512_barchart_all-commodities_news.json
+Cost info: Prompt tokens: 4154, Completion tokens: 4054, Total tokens: 8208
+Model Processing Time: 41.48 seconds
+
+---
+
+### Daily Financial Briefing: 20260512
+
+#### **Energy**
+1.  **Crude Oil**
+    - **Price Movement:** Settled sharply higher for a second day. June WTI crude oil closed up +4.11 (+4.19%), and June RBOB gasoline closed up +0.0979 (+2.72%). At the close, crude oil was up $2.83 at $102.05.
+    - **Key Drivers:** Concern over the prolonged closure of the Strait of Hormuz. Renewed doubts about the US-Iran ceasefire after President Trump stated the current ceasefire was on "life support".
+    - **Reverse Factors:** Potential for geopolitical tensions to ease if the ceasefire stabilizes.
+    - **Classification:** Short-term influencer - UP
+
+2.  **Natural Gas**
+    - **Price Movement:** Fell from a 6-week nearest-futures high and settled lower. June Nymex natural gas closed down -0.067 (-2.30%).
+    - **Key Drivers:** The EIA raised its US 2026 natural gas production estimates.
+    - **Reverse Factors:** None explicitly mentioned in the articles.
+    - **Classification:** Short-term influencer - DOWN
+
+#### **Grains**
+1.  **Wheat**
+    - **Price Movement:** Rallied strongly, hitting the limit in a few contracts. Chicago SRW was up as little as 13 ½ cents to the 45 cent limit in July. KC HRW futures also rallied.
+    - **Key Drivers:** The USDA released production updates. Crop conditions dropped.
+    - **Reverse Factors:** Potential for profit-taking after the limit rally. A "limit rally" is often followed by consolidation.
+    - **Classification:** Short-term influencer - UP
+
+2.  **Soybeans**
+    - **Price Movement:** Closed with gains of 10 1/4 to 13 3/4 cents on Tuesday. The national average cash bean price was up 14 1/2 cents at $11.61 3/4.
+    - **Key Drivers:** The USDA tightened stocks.
+    - **Reverse Factors:** None mentioned in the articles.
+    - **Classification:** Long-term influencer - UP
+
+3.  **Corn**
+    - **Price Movement:** Posted gains on Tuesday, with contracts up 4 to 5 cents at the close. The national average cash corn price was up 5 cents to $4.39.
+    - **Key Drivers:** A limit rally in the wheat market was supportive for corn.
+    - **Reverse Factors:** None explicitly mentioned in the articles.
+    - **Classification:** Short-term influencer - UP
+
+#### **Livestock**
+1.  **Lean Hogs**
+    - **Price Movement:** Posted losses of 75 cents to $1.80 across most contracts on Tuesday.
+    - **Key Drivers:** Tuesday weakness was observed. No specific fundamental driver cited for the decline.
+    - **Reverse Factors:** The 2026 peak grilling season begins at the end of this month, which could increase demand and provide upside potential.
+    - **Classification:** Short-term influencer - DOWN
+
+2.  **Live Cattle**
+    - **Price Movement:** Faded early gains to post losses of $1.70 to $2.80 across most front months on Tuesday.
+    - **Key Drivers:** Cash trade has been quiet this week, with only a few bids of $260.
+    - **Reverse Factors:** Cattle prices are near record highs, and the 2026 peak grilling season could boost demand.
+    - **Classification:** Short-term influencer - DOWN
+
+#### **Metals**
+*No specific metal commodity futures were explicitly priced in the provided articles. A stock related to a silver miner was mentioned.*
+
+#### **Softs**
+1.  **Sugar**
+    - **Price Movement:** Settled higher. July NY world sugar #11 closed up +0.10 (+0.67%), and Aug London white sugar closed up +4.40 (+1.02%).
+    - **Key Drivers:** An outlook for tighter global sugar supplies.
+    - **Reverse Factors:** None mentioned in the articles.
+    - **Classification:** Long-term influencer - UP
+
+2.  **Cocoa**
+    - **Price Movement:** Retreated, giving back some of its recent rally. July ICE NY cocoa closed down -122 (-2.59%), and July London cocoa closed down -53 (-1.52%).
+    - **Key Drivers:** Long liquidation spurred by a stronger US dollar.
+    - **Reverse Factors:** The move was described as a retreat from a recent rally, suggesting potential for a bounce.
+    - **Classification:** Short-term influencer - DOWN
+
+3.  **Coffee**
+    - **Price Movement:** Settled lower. July arabica coffee closed down -2.15 (-0.76%), and July robusta coffee closed down -22 (-0.63%).
+    - **Key Drivers:** Prices were pressured by a stronger US dollar.
+    - **Reverse Factors:** None explicitly mentioned in the articles.
+    - **Classification:** Short-term influencer - DOWN
+
+4.  **Cotton**
+    - **Price Movement:** Retreating on Tuesday. Front-month futures closed down 105 to 145 points.
+    - **Key Drivers:** Old crop stocks remain steady.
+    - **Reverse Factors:** None explicitly mentioned in the articles.
+    - **Classification:** Short-term influencer - DOWN
+
+#### **Currencies & Stocks**
+1.  **US Dollar**
+    - **Price Movement:** Rose by +0.34% (DXY) to +0.45% (DXY00) on Tuesday. The dollar index was $0.366 higher at $98.190.
+    - **Key Drivers:** Renewed concerns that the US-Iran ceasefire may break down after President Trump's comments. Strength in crude oil also provided support.
+    - **Reverse Factors:** If ceasefire concerns dissipate, the dollar could weaken.
+    - **Classification:** Short-term influencer - UP
+
+2.  **First Majestic Silver (AG)**
+    - **Price Movement:** Shares show a renewed medium-term rising trend, having recently broken above a key short-term resistance level at $23.
+    - **Key Drivers:** Increased buying interest among investors.
+    - **Reverse Factors:** None explicitly mentioned in the articles.
+    - **Classification:** Short-term influencer - UP
+
+---
+
+### **Summary & Key Themes**
+- **Geopolitical Tensions Drive Markets:** Renewed concerns over a breakdown in the US-Iran ceasefire were the primary driver for a stronger US dollar and sharply higher crude oil prices.
+- **Dollar Strength Pressures Soft Commodities:** A rallying US dollar was a key factor weighing on the prices of cocoa, coffee, and cotton.
+- **USDA Data Rallies Grains:** The release of USDA production updates and a tightening of stocks estimates sparked strong rallies in wheat and soybeans, with wheat hitting its daily limits.
+- **Livestock Faces Weakness:** Both the cattle and hog markets saw losses amid quiet cash trade and a lack of fresh buying catalysts, though the upcoming grilling season presents a potential demand boost.
+
+### **Risks Highlighted**
+1. **Breakdown of US-Iran Ceasefire:** This is a key risk factor driving crude oil prices higher and could lead to further supply disruptions.
+2. **Prolonged Closure of the Strait of Hormuz:** Identified as a specific concern supporting higher crude oil prices.
+3. **Dollar Strength Weighing on Commodities:** A strong US dollar is a headwind for commodity prices, particularly for softs like coffee, cocoa, and cotton.
+
+### **Watch Next**
+1. **USDA Production Updates:** Further details from the USDA reports on wheat and other grains will be closely monitored.
+2. **US-Iran Ceasefire Developments:** Any progress or breakdown in the talks will directly impact crude oil and the dollar.
+3. **The Start of the 2026 Grilling Season:** As the peak grilling season begins, it could provide a catalyst for demand in beef and pork markets.
+
+---
+
+### **Price Movement Classification Table**
+| Product             | Classification          | Reason                       |
+|---------------------|-------------------------|------------------------------|
+| Crude Oil           | Short-term influencer - UP | Geopolitical ceasefire doubts |
+| Natural Gas         | Short-term influencer - DOWN | EIA raised production estimates |
+| Wheat               | Short-term influencer - UP | USDA production updates       |
+| Soybeans            | Long-term influencer - UP  | USDA tightened stocks         |
+| Corn                | Short-term influencer - UP | Support from wheat rally      |
+| Lean Hogs           | Short-term influencer - DOWN | Midday session weakness       |
+| Live Cattle         | Short-term influencer - DOWN | Quiet cash trade               |
+| Sugar               | Long-term influencer - UP  | Outlook for tighter supplies  |
+| Cocoa               | Short-term influencer - DOWN | Long liquidation/dollar strength |
+| Coffee              | Short-term influencer - DOWN | Pressure from strong dollar   |
+| Cotton              | Short-term influencer - DOWN | Old crop stocks remain steady |
+| US Dollar           | Short-term influencer - UP | Geopolitical/ceasefire fears  |
+| First Majestic Silver | Short-term influencer - UP | Broke above key resistance    |
