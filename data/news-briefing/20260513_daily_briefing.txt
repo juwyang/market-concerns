@@ -1,0 +1,124 @@
+News Briefing for: 2026-05-13
+Generated at: 2026-05-14 07:40:35
+LLM Used: DeepSeek (deepseek-reasoner)
+Source JSON: 20260513_barchart_all-commodities_news.json
+Cost info: Prompt tokens: 4033, Completion tokens: 2852, Total tokens: 6885
+Model Processing Time: 32.24 seconds
+
+---
+
+### Daily Financial Briefing: 20260513
+
+#### **Energy**
+1.  **Crude Oil**
+    - **Price Movement:** Declined. June WTI crude oil closed down -1.16 (-1.14%), and June RBOB gasoline closed down -0.0790 (-2.14%). An earlier article noted crude oil was up +0.50 (+0.49%) at one point before the decline.
+    - **Key Drivers:** The dollar strengthened following a hot US PPI report, which pressured crude oil prices. Early support came from the Hormuz closure tightening global supplies, but this was erased.
+    - **Reverse Factors:** The Hormuz closure remains a potential support factor that could reverse the decline if it leads to further supply tightening. The strong dollar is a key headwind.
+    - **Classification:** Short-term influencer - DOWN
+2.  **Natural Gas**
+    - **Price Movement:** Rose. June Nymex natural gas closed up +0.021 (+0.74%).
+    - **Key Drivers:** Forecasts of above-normal US weather boosting air-conditioning usage and subsequent nat-gas demand from the electricity sector.
+    - **Reverse Factors:** Weather forecasts can change, potentially reducing demand. The strength in the dollar could also weigh on commodity prices broadly.
+    - **Classification:** Short-term influencer - UP
+
+#### **Grains**
+1.  **Corn**
+    - **Price Movement:** Mixed. Futures contracts closed within a penny of either side of unchanged. Midday saw 1 to 2 cent gains.
+    - **Key Drivers:** Ethanol production is improving. The national average Cash Corn price was up a penny to $4.40.
+    - **Reverse Factors:** The market is awaiting further developments from the Trump/Xi meeting, which could impact trade and demand.
+    - **Classification:** Short-term influencer - UP
+2.  **Soybeans**
+    - **Price Movement:** Rose modestly. Contracts closed fractionally to 3 cents higher. The national average Cash Bean price was up 3 1/4 cents at $11.64.
+    - **Key Drivers:** Strength is attributed to the market looking ahead to a meeting between Trump and Xi.
+    - **Reverse Factors:** The outcome of the Trump/Xi meeting is highly uncertain and could reverse gains if it disappoints expectations.
+    - **Classification:** Short-term influencer - UP
+3.  **Wheat**
+    - **Price Movement:** Declined/mixed. Chicago SRW futures closed steady to 3 ½ cents lower. KC HRW futures were down 4 ¾ to 7. This is a modest correction following Tuesday's limit gains.
+    - **Key Drivers:** The decline is viewed as a correction after the previous session's sharp rally.
+    - **Reverse Factors:** The potential for renewed supply concerns or further supportive news could reverse the correction.
+    - **Classification:** Short-term influencer - DOWN
+
+#### **Livestock**
+1.  **Lean Hogs**
+    - **Price Movement:** Rallied. Contracts were up 55 cents to $2.92, led by the front months. The soon-to-expire May contract was down a tick.
+    - **Key Drivers:** A broad-based rally with no single macro driver specified other than bullish sentiment. The USDA national base hog price was reported higher.
+    - **Reverse Factors:** Profit-taking could occur after the rally. The expiry of the May contract could cause volatility.
+    - **Classification:** Short-term influencer - UP
+2.  **Live Cattle**
+    - **Price Movement:** Rallied. Contracts were up $2.60 to $5.10. Cash trade has seen some $260 sales in the South.
+    - **Key Drivers:** A midweek rally with support from cash trade activity.
+    - **Reverse Factors:** The previous session saw losses, which could indicate a lack of sustained momentum. The market is waiting to see if cash trade continues at these levels.
+    - **Classification:** Short-term influencer - UP
+
+#### **Softs**
+1.  **Cotton**
+    - **Price Movement:** Rose. Futures closed up 7 to 49 points off the midday highs.
+    - **Key Drivers:** General strength in the commodity, though specific drivers are not detailed. The US dollar index was higher, which can be a headwind.
+    - **Reverse Factors:** The strong US dollar could cap further gains. Crude oil prices were also down, which can influence synthetic fiber competition.
+    - **Classification:** Short-term influencer - UP
+2.  **Sugar**
+    - **Price Movement:** Sharply higher. July NY world sugar #11 closed up +0.37 (+2.47%). Aug London ICE white sugar #5 closed up +13.70 (+3.10%).
+    - **Key Drivers:** The outlook for global sugar deficits, leading to expectations of tighter global supplies.
+    - **Reverse Factors:** Producer selling, as seen in cocoa, could weigh on prices. The strong dollar could also be a negative factor.
+    - **Classification:** Long-term influencer - UP
+3.  **Cocoa**
+    - **Price Movement:** Sharply lower. July ICE NY cocoa closed down -194 (-4.23%). July ICE London cocoa #7 closed down -159 (-4.63%).
+    - **Key Drivers:** Selling pressure from producers who are locking in higher prices.
+    - **Reverse Factors:** The market could rebound if supply concerns re-emerge or if demand picks up.
+    - **Classification:** Short-term influencer - DOWN
+4.  **Coffee**
+    - **Price Movement:** Mostly higher. July arabica coffee closed up +0.60 (+0.21%). July ICE robusta coffee closed up +78 (+2.24%).
+    - **Key Drivers:** Shrinking ICE inventories are supporting prices, with robusta reaching a 7-week high.
+    - **Reverse Factors:** The strong US dollar could limit demand. The rally in robusta may attract selling pressure.
+    - **Classification:** Short-term influencer - UP
+
+#### **Currencies & Stocks**
+1.  **US Dollar**
+    - **Price Movement:** Rallied. The dollar index (DXY00) finished up by 0.22% at a 1.5-week high.
+    - **Key Drivers:** A stronger-than-expected US April PPI report, which is hawkish for Fed policy and pushes bond yields higher.
+    - **Reverse Factors:** If future economic data weakens, it could reverse the dollar's gains.
+    - **Classification:** Short-term influencer - UP
+2.  **Tesla (TSLA)**
+    - **Price Movement:** No specific price movement provided.
+    - **Key Drivers:** Cathie Wood remains bullish about Tesla's Robotaxi, believing it will stay ahead of Waymo. The article states TSLA stock is waiting for a financial trigger higher.
+    - **Reverse Factors:** No specific risk factors are mentioned in the provided text.
+    - **Classification:** Unclear
+
+---
+
+### **Summary & Key Themes**
+- **Dollar Strength Dominates:** A hot US PPI report pushed the dollar to a 1.5-week high, pressuring crude oil and acting as a general headwind for commodities.
+- **Grains Mixed Ahead of Trump/Xi Meeting:** Soybeans held modest gains as the market looked to the upcoming high-level meeting, while corn showed mixed signs and wheat corrected from recent limit gains.
+- **Livestock and Softs See Divergent Moves:** Livestock (hogs, cattle) rallied, while softs were mixed: sugar and coffee jumped on supply concerns, cocoa retreated on producer selling, and cotton saw modest gains.
+- **Energy Markets Diverge:** Crude oil fell due to the stronger dollar, while natural gas rose on warmer weather forecasts and increased air-conditioning demand.
+
+### **Risks Highlighted**
+1. **Strengthening US Dollar:** A strong dollar, triggered by hot PPI data, poses a headwind for commodity prices, particularly crude oil.
+2. **Producer Selling in Soft Commodities:** The significant sell-off in cocoa highlights the risk of producer hedging at higher prices, which could also affect other softs like sugar and coffee.
+3. **Geopolitical Tensions (Hormuz Closure):** While supporting crude oil initially, the closure of the Hormuz strait represents a major supply risk that could escalate.
+4. **Potential for Policy Disappointment:** The market is waiting for a financial trigger for Tesla and the outcome of the Trump/Xi meeting, both of which carry significant uncertainty.
+
+### **Watch Next**
+1. **Trump/Xi Meeting:** The outcome of this meeting will be critical for trade-sensitive grains like soybeans and the broader market sentiment.
+2. **USDA WASDE Update:** The monthly report, mentioned in the context of cotton, is a key data point for supply and demand fundamentals for grains and softs.
+3. **Ethanol Production Data:** Continued improvement in ethanol production is a key driver for corn prices.
+4. **May Contract Expirations:** The expiry of the May lean hog contract could introduce near-term volatility.
+
+---
+
+### **Price Movement Classification Table**
+| Product          | Classification          | Reason                      |
+|------------------|-------------------------|-----------------------------|
+| Crude Oil        | Short-term influencer - DOWN | Strong US dollar            |
+| Natural Gas      | Short-term influencer - UP   | Warmer weather forecasts    |
+| Corn             | Short-term influencer - UP   | Improving ethanol production|
+| Soybeans         | Short-term influencer - UP   | Trump/Xi meeting anticipation|
+| Wheat            | Short-term influencer - DOWN | Correction after limit gains|
+| Lean Hogs        | Short-term influencer - UP   | Broad rally, higher cash price|
+| Live Cattle      | Short-term influencer - UP   | Cash trade support          |
+| Cotton           | Short-term influencer - UP   | General commodity strength  |
+| Sugar            | Long-term influencer - UP    | Global deficit outlook      |
+| Cocoa            | Short-term influencer - DOWN | Producer selling pressure   |
+| Coffee           | Short-term influencer - UP   | Shrinking ICE inventories   |
+| US Dollar        | Short-term influencer - UP   | Hot US PPI report           |
+| Tesla (TSLA)     | Unclear                      | Awaiting financial trigger  |
