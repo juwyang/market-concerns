@@ -1,0 +1,145 @@
+News Briefing for: 2026-05-14
+Generated at: 2026-05-15 07:51:25
+LLM Used: DeepSeek (deepseek-reasoner)
+Source JSON: 20260514_barchart_all-commodities_news.json
+Cost info: Prompt tokens: 3914, Completion tokens: 4888, Total tokens: 8802
+Model Processing Time: 52.25 seconds
+
+---
+
+### Daily Financial Briefing: 20260514
+
+#### **Energy**
+1.  **Crude Oil (WTI)**
+    - **Price Movement:** June WTI crude oil closed up +0.15 (+0.15%).
+    - **Key Drivers:** Closure of Hormuz supported prices; dollar strength limited gains.
+    - **Reverse Factors:** Sustained dollar strength could reverse gains; gasoline weakness signals mixed demand.
+    - **Classification:** Short-term influencer - UP
+
+2.  **Natural Gas**
+    - **Price Movement:** June Nymex natural gas closed up +0.030 (+1.05%).
+    - **Key Drivers:** Smaller-than-expected inventory increase (EIA storage data).
+    - **Reverse Factors:** Potential for larger injections later in the season.
+    - **Classification:** Short-term influencer - UP
+
+3.  **Gasoline (RBOB)**
+    - **Price Movement:** June RBOB gasoline closed down -0.0130 (-0.36%).
+    - **Key Drivers:** Under pressure from a rally in the dollar index.
+    - **Reverse Factors:** Crude oil price support could lift gasoline.
+    - **Classification:** Short-term influencer - DOWN
+
+#### **Grains**
+1.  **Soybeans**
+    - **Price Movement:** Soybeans posted 20 to 40 ¾ cent losses across most contracts; cash bean price down 36 cents to $11.28.
+    - **Key Drivers:** Disappointing lack of ag purchase announcements from the Trump/Xi meeting.
+    - **Reverse Factors:** Potential future ag purchases if trade talks progress.
+    - **Classification:** Short-term influencer - DOWN
+
+2.  **Corn**
+    - **Price Movement:** Corn futures down 9 to 15 cents in the front months.
+    - **Key Drivers:** Falling with the rest of the grain complex due to few details from the Trump/Xi meeting; May contract expired.
+    - **Reverse Factors:** None mentioned.
+    - **Classification:** Short-term influencer - DOWN
+
+3.  **Wheat**
+    - **Price Movement:** Chicago SRW futures under pressure, down 11 ¾ to ... (specific range not fully given).
+    - **Key Drivers:** Trump/Xi meeting yielded very few headlines for potential ag purchases.
+    - **Reverse Factors:** None mentioned.
+    - **Classification:** Short-term influencer - DOWN
+
+#### **Livestock**
+1.  **Live Cattle**
+    - **Price Movement:** Live cattle futures retreated from early gains, down 32 to 72 cents at the close.
+    - **Key Drivers:** No explicit driver; retreated from early gains. Cash trade seen at $260 in the South and $408-415 in the North.
+    - **Reverse Factors:** Strong cash trade could provide support.
+    - **Classification:** Unclear
+
+2.  **Lean Hogs**
+    - **Price Movement:** Lean hog futures saw losses of 45 cents to $1.35 in the front months.
+    - **Key Drivers:** No explicit driver; likely profit-taking after Wednesday’s rally.
+    - **Reverse Factors:** None mentioned.
+    - **Classification:** Unclear
+
+#### **Softs**
+1.  **Cotton**
+    - **Price Movement:** Cotton futures down 175 to 287 points in the front months.
+    - **Key Drivers:** Weakness attributed to a higher US dollar index (up $0.352).
+    - **Reverse Factors:** Dollar strength could persist.
+    - **Classification:** Short-term influencer - DOWN
+
+2.  **Sugar**
+    - **Price Movement:** July NY sugar closed down -0.39 (-2.54%); London down -12.50 (-2.74%).
+    - **Key Drivers:** Dollar rally spurred long liquidation.
+    - **Reverse Factors:** None.
+    - **Classification:** Short-term influencer - DOWN
+
+3.  **Cocoa**
+    - **Price Movement:** July NY cocoa closed down -204 (-4.64%); London down -162 (-4.95%).
+    - **Key Drivers:** Improved supply outlook from Ivory Coast projections of higher deliveries.
+    - **Reverse Factors:** None.
+    - **Classification:** Long-term influencer - DOWN
+
+4.  **Coffee**
+    - **Price Movement:** July arabica closed down -5.05 (-1.80%); robusta down -73 (-2.05%).
+    - **Key Drivers:** Stronger dollar pressured prices.
+    - **Reverse Factors:** None.
+    - **Classification:** Short-term influencer - DOWN
+
+#### **Currencies & Stocks**
+1.  **US Dollar Index**
+    - **Price Movement:** Dollar index climbed to a 2-week high, finishing up +0.29%.
+    - **Key Drivers:** As-expected US April retail sales report signaling a resilient economy; signs of progress in US-China trade negotiations.
+    - **Reverse Factors:** None mentioned.
+    - **Classification:** Short-term influencer - UP
+
+2.  **FirstEnergy**
+    - **Price Movement:** Not specified; stock underperformed the broader market over the past year.
+    - **Key Drivers:** Analysts cautiously optimistic about the stock’s prospects.
+    - **Reverse Factors:** None.
+    - **Classification:** Unclear
+
+3.  **Alliant Energy**
+    - **Price Movement:** Not specified; stock underperformed the broader market over the past year.
+    - **Key Drivers:** Analysts cautiously optimistic about the stock’s prospects.
+    - **Reverse Factors:** None.
+    - **Classification:** Unclear
+
+---
+
+### **Summary & Key Themes**
+- **Dollar Strength Dominates:** A rallying US dollar index pressured soft commodities (cotton, sugar, coffee) and contributed to mixed results in energy.
+- **Trump/Xi Meeting Disappoints Grains:** Lack of ag purchase announcements led to broad declines across soybeans, corn, and wheat.
+- **Crude Oil Slightly Higher on Geopolitics:** Closure of Hormuz supported crude, but gains were capped by dollar strength.
+- **Cocoa Falls on Supply Outlook:** Improved Ivory Coast delivery projections drove cocoa prices sharply lower.
+- **Livestock Unclear:** Cattle and hogs declined without explicit catalysts, possibly profit-taking after prior strength.
+
+### **Risks Highlighted**
+1. Sustained dollar strength could continue to weigh on commodity prices.
+2. No progress in US-China ag trade talks may further pressure grain markets.
+3. The Hormuz closure may be temporary, leading to a potential reversal in crude oil prices.
+
+### **Watch Next**
+1. Further developments in US-China trade negotiations.
+2. Upcoming EIA storage reports for natural gas.
+3. Dollar index movement and subsequent economic data releases.
+
+---
+
+### **Price Movement Classification Table**
+| Product          | Classification          | Reason                      |
+|------------------|-------------------------|-----------------------------|
+| Crude Oil (WTI)  | Short-term influencer - UP | Hormuz closure support      |
+| Natural Gas      | Short-term influencer - UP | Smaller storage increase    |
+| Gasoline (RBOB)  | Short-term influencer - DOWN | Dollar strength pressure   |
+| Soybeans         | Short-term influencer - DOWN | Trump/Xi meeting disappointment |
+| Corn             | Short-term influencer - DOWN | Grain complex weakness      |
+| Wheat            | Short-term influencer - DOWN | Few ag purchase headlines   |
+| Live Cattle      | Unclear                  | No explicit driver           |
+| Lean Hogs        | Unclear                  | No explicit driver           |
+| Cotton           | Short-term influencer - DOWN | Dollar strength             |
+| Sugar            | Short-term influencer - DOWN | Dollar strength, long liquidation |
+| Cocoa            | Long-term influencer - DOWN | Improved supply outlook     |
+| Coffee           | Short-term influencer - DOWN | Dollar strength             |
+| US Dollar Index  | Short-term influencer - UP | Positive retail sales data  |
+| FirstEnergy      | Unclear                  | No daily price data         |
+| Alliant Energy   | Unclear                  | No daily price data         |
