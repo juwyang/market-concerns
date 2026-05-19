@@ -1,0 +1,150 @@
+News Briefing for: 2026-05-18
+Generated at: 2026-05-19 08:26:48
+LLM Used: DeepSeek (deepseek-reasoner)
+Source JSON: 20260518_barchart_all-commodities_news.json
+Cost info: Prompt tokens: 4555, Completion tokens: 5400, Total tokens: 9955
+Model Processing Time: 90.01 seconds
+
+---
+
+### Daily Financial Briefing: 20260518
+
+#### **Energy**
+1.  **Crude Oil**
+    - **Price Movement:** Rose sharply. June WTI crude oil closed up +3.24 (+3.07%) on Monday. June RBOB gasoline closed up +0.0588 (+1.59%).
+    - **Key Drivers:** Tightening global supplies; lack of progress in US-Iran peace negotiations; US dollar index weakness.
+    - **Reverse Factors:** Any positive developments in US-Iran talks could reverse gains; profit-taking after rally.
+    - **Classification:** Short-term influencer - UP
+
+2.  **Natural Gas**
+    - **Price Movement:** Rose sharply. June Nymex natural gas closed up +0.064 (+2.16%), reaching a 1.75-month nearest-future high.
+    - **Key Drivers:** Forecasts for hotter-than-normal US temperatures.
+    - **Reverse Factors:** A shift to cooler weather forecasts could pressure prices.
+    - **Classification:** Short-term influencer - UP
+
+#### **Grains**
+1.  **Corn**
+    - **Price Movement:** Rallied. Contracts closed 14 ½ to 21 ¼ cents higher across most 26/27 contracts. Cash corn up 21 1/4 cents to $4.37.
+    - **Key Drivers:** US/China trade details from White House fact sheet release over the weekend; bulls remain in control.
+    - **Reverse Factors:** Potential profit-taking; disappointment if trade details fall short.
+    - **Classification:** Short-term influencer - UP
+
+2.  **Soybeans**
+    - **Price Movement:** Rallied. Contracts up 19 ¾ to 36 cents across most contracts. Cash bean price up 39 1/2 cents to $11.52 1/4.
+    - **Key Drivers:** Additional US/China details known; bulls taking back last week’s losses.
+    - **Reverse Factors:** None explicitly mentioned; possible reversal if trade optimism fades.
+    - **Classification:** Short-term influencer - UP
+
+3.  **Wheat**
+    - **Price Movement:** Sharply higher. Chicago SRW futures 17 ¾ to 28 ¾ cents higher across the board. KC HRW and other exchanges also rallied.
+    - **Key Drivers:** White House fact sheet release over the weekend; US/China trade numbers.
+    - **Reverse Factors:** None mentioned; previous week’s retreat into Friday close suggests caution.
+    - **Classification:** Short-term influencer - UP
+
+#### **Livestock**
+1.  **Lean Hogs**
+    - **Price Movement:** Declined. Contracts down 22 to 95 cents across the board; midday losses of 17 to 90 cents. USDA national base hog price up $3.36 to $94.88.
+    - **Key Drivers:** Pseudorabies concerns continue to weigh on prices.
+    - **Reverse Factors:** Bulls hope substitution demand at the meat counter will start to help.
+    - **Classification:** Short-term influencer - DOWN
+
+2.  **Live Cattle**
+    - **Price Movement:** Declined. Contracts down 52 cents to $1.15; front-month June up 12 cents at midday, others down 30-40 cents.
+    - **Key Drivers:** Not explicitly stated; market fell back after strong fundamentals noted in separate analysis.
+    - **Reverse Factors:** Strong fundamentals (cash trade $260-265 in South, $408-415 dressed in North) could push prices higher again.
+    - **Classification:** Short-term influencer - DOWN
+
+#### **Softs**
+1.  **Cotton**
+    - **Price Movement:** Rallied. Futures closed 110 to 309 points higher; midday gains of 193 to 276 points.
+    - **Key Drivers:** Lower US dollar index (down $0.298); higher crude oil; White House fact sheet release.
+    - **Reverse Factors:** None explicitly mentioned.
+    - **Classification:** Short-term influencer - UP
+
+2.  **Sugar**
+    - **Price Movement:** Declined. July NY world sugar #11 closed down -0.07 (-0.47%); Aug London white sugar closed down -2.00 (-0.46%).
+    - **Key Drivers:** Forecasts for record global sugar production (ISO projects a record global crop).
+    - **Reverse Factors:** None mentioned; sustained production forecasts could continue to weigh.
+    - **Classification:** Long-term influencer - DOWN
+
+3.  **Cocoa**
+    - **Price Movement:** Plunged. July ICE NY cocoa closed down -211 (-5.27%); July London cocoa closed down -159 (-5.24%).
+    - **Key Drivers:** Improving global supply outlook; week-long plunge continued.
+    - **Reverse Factors:** None mentioned; supply improvement likely structural.
+    - **Classification:** Long-term influencer - DOWN
+
+4.  **Coffee**
+    - **Price Movement:** Declined. July arabica coffee closed down -2.70 (-1.01%); July robusta coffee closed down -59 (-1.75%).
+    - **Key Drivers:** Expectations of ample coffee supplies; improved Brazil coffee crop outlook.
+    - **Reverse Factors:** None mentioned.
+    - **Classification:** Long-term influencer - DOWN
+
+#### **Currencies & Stocks**
+1.  **US Dollar Index (DXY)**
+    - **Price Movement:** Fell from a 1.25-month high, finishing down -0.25%.
+    - **Key Drivers:** Reports that President Trump cancelled a planned attack on Iran; dollar gave up overnight gains.
+    - **Reverse Factors:** Escalation of geopolitical tensions could boost the dollar.
+    - **Classification:** Short-term influencer - DOWN
+
+2.  **Dominion Energy Stock (D)**
+    - **Price Movement:** Soared on the news of the acquisition.
+    - **Key Drivers:** NextEra Energy announced plans to buy Dominion for $67 billion.
+    - **Reverse Factors:** "It may not be too late to invest" implies possible further upside; no explicit reversal factors.
+    - **Classification:** Short-term influencer - UP
+
+3.  **Texas Pacific Land Stock**
+    - **Price Movement:** No explicit daily price change reported; past year underperformed broader market.
+    - **Key Drivers:** Analysts are highly optimistic about the stock’s prospects.
+    - **Reverse Factors:** None mentioned; underperformance may persist.
+    - **Classification:** Unclear
+
+4.  **Entergy Corporation Stock**
+    - **Price Movement:** No explicit daily price change reported; shares outperformed over the past year.
+    - **Key Drivers:** Analysts remain moderately bullish about the stock’s prospects.
+    - **Reverse Factors:** None mentioned.
+    - **Classification:** Unclear
+
+---
+
+### **Summary & Key Themes**
+- A broad rally across most agricultural commodities (corn, soybeans, wheat, cotton) driven by weekend White House fact sheet on US/China trade.
+- Energy markets (crude oil, natural gas) also rallied strongly on supply worries and weather forecasts.
+- Soft commodities (sugar, cocoa, coffee) fell sharply due to improved supply outlooks, marking a bearish divergence.
+- Livestock markets weakened, with hogs pressured by pseudorabies concerns and cattle retreating despite strong cash fundamentals.
+- The US dollar slipped on geopolitical news (cancelled Iran attack), providing a tailwind for commodities priced in dollars.
+- Stock-specific news featured a major M&A deal (NextEra/Dominion) and analyst optimism for select utilities.
+
+### **Risks Highlighted**
+1. Pseudorabies disease concerns continue to weigh on lean hog prices; substitution demand may not materialize.
+2. Record global sugar production forecasts could keep sugar prices under sustained pressure.
+3. Improving supply outlook for cocoa and coffee suggests further downside risk.
+4. Potential for profit-taking after the grain and cotton rally if US/China trade details fail to meet expectations.
+5. Crude oil rally vulnerable to progress in US-Iran peace negotiations.
+
+### **Watch Next**
+1. Further details from the White House fact sheet on US/China trade – impact on grain and cotton.
+2. USDA Crop Progress reports (mentioned in passing for cotton) for planting updates.
+3. Weather forecasts for US – hot temps supporting natural gas; any shift could reverse gains.
+4. US-Iran peace negotiation progress – key for crude oil and dollar direction.
+5. Cash cattle trade and hog market fundamentals – potential for livestock rebound.
+
+---
+
+### **Price Movement Classification Table**
+| Product                | Classification              | Reason                        |
+|------------------------|----------------------------|-------------------------------|
+| Crude Oil              | Short-term influencer - UP | US-Iran talks, supply worry   |
+| Natural Gas            | Short-term influencer - UP | Hot weather forecasts         |
+| Corn                   | Short-term influencer - UP | US/China trade fact sheet     |
+| Soybeans               | Short-term influencer - UP | US/China trade details        |
+| Wheat                  | Short-term influencer - UP | US/China trade numbers        |
+| Lean Hogs              | Short-term influencer - DOWN | Pseudorabies concerns         |
+| Live Cattle            | Short-term influencer - DOWN | Profit-taking / pullback      |
+| Cotton                 | Short-term influencer - UP | Dollar weakness, trade news   |
+| Sugar                  | Long-term influencer - DOWN | Record global production      |
+| Cocoa                  | Long-term influencer - DOWN | Improving supply outlook      |
+| Coffee                 | Long-term influencer - DOWN | Improved Brazil crop outlook  |
+| US Dollar Index        | Short-term influencer - DOWN | Iran attack cancellation      |
+| Dominion Energy Stock  | Short-term influencer - UP | Acquisition announcement      |
+| Texas Pacific Land Stock| Unclear                   | Analyst optimism, no daily move|
+| Entergy Corporation Stock| Unclear                   | Analyst bullishness, no daily move |
