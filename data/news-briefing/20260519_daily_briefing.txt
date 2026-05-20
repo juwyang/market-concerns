@@ -1,0 +1,162 @@
+News Briefing for: 2026-05-19
+Generated at: 2026-05-20 08:24:55
+LLM Used: DeepSeek (deepseek-reasoner)
+Source JSON: 20260519_barchart_all-commodities_news.json
+Cost info: Prompt tokens: 4057, Completion tokens: 6581, Total tokens: 10638
+Model Processing Time: 73.68 seconds
+
+---
+
+### Daily Financial Briefing: 20260519
+
+#### **Energy**
+1. **Crude Oil (WTI)**
+   - **Price Movement:** Declined moderately. June WTI crude oil closed down -0.89 (-0.82%).
+   - **Key Drivers:** Diplomatic hopes to end the US–Iran war and a stronger US dollar.
+   - **Reverse Factors:** If diplomatic efforts fail, renewed Middle East tensions could push prices higher.
+   - **Classification:** Short-term influencer - DOWN
+
+2. **Gasoline (RBOB)**
+   - **Price Movement:** Declined significantly. June RBOB gasoline closed down -0.0645 (-1.72%).
+   - **Key Drivers:** Same as crude oil – diplomatic hopes for an end to the Iran war and a stronger dollar.
+   - **Reverse Factors:** A breakdown in negotiations or a weaker dollar could reverse the decline.
+   - **Classification:** Short-term influencer - DOWN
+
+3. **Natural Gas**
+   - **Price Movement:** Rose significantly. June Nymex natural gas closed up +0.090 (+2.98%), reaching an 8-week nearest-future high.
+   - **Key Drivers:** Annual spring maintenance curbing US natural gas production.
+   - **Reverse Factors:** Once seasonal maintenance ends, production is likely to increase, pressuring prices.
+   - **Classification:** Short-term influencer - UP
+
+#### **Grains**
+1. **Wheat**
+   - **Price Movement:** Mixed. Chicago SRW futures were 2¼ to 3¾ cents higher; KC HRW steady; spring wheat lower.
+   - **Key Drivers:** No specific driver cited in the articles.
+   - **Reverse Factors:** None mentioned; market could remain mixed on uncertain fundamentals.
+   - **Classification:** Unclear
+
+2. **Soybeans**
+   - **Price Movement:** Mixed. Front-month contracts down 1¼ to 3¾ cents; deferred months up 1 to 2 cents.
+   - **Key Drivers:** No specific driver cited in the articles.
+   - **Reverse Factors:** None mentioned; mixed action may continue.
+   - **Classification:** Unclear
+
+3. **Corn**
+   - **Price Movement:** Declined slightly. Corn futures closed steady to 1¾ cents lower; national average Cash Corn price down 1½ cents to $4.35.
+   - **Key Drivers:** Correction from sharp Monday gains (profit-taking / technical reversal).
+   - **Reverse Factors:** If Monday’s rally was driven by fundamental factors, prices could resume upward.
+   - **Classification:** Short-term influencer - DOWN
+
+#### **Livestock**
+1. **Lean Hogs**
+   - **Price Movement:** Declined. Futures saw losses of 25 cents to $1.12 across the board; USDA base hog price down a penny to $94.87.
+   - **Key Drivers:** No specific driver cited in the articles.
+   - **Reverse Factors:** None mentioned.
+   - **Classification:** Unclear
+
+2. **Live Cattle**
+   - **Price Movement:** Rose. Futures posted gains of a dime to $1.20 across the board; cash trade limited after $260–265 sales last week.
+   - **Key Drivers:** No specific fundamental driver cited; open interest suggested rotation of ownership.
+   - **Reverse Factors:** None mentioned.
+   - **Classification:** Unclear
+
+3. **Feeder Cattle**
+   - **Price Movement:** Rose (rallied). Article reports “feeder cattle futures were in rally mode.”
+   - **Key Drivers:** No specific driver cited.
+   - **Reverse Factors:** None mentioned.
+   - **Classification:** Unclear
+
+#### **Metals**
+1. **Gold**
+   - **Price Movement:** Fell. The dollar rally and higher T-note yields pushed gold lower (no specific percentage provided).
+   - **Key Drivers:** Higher T-note yields strengthening the dollar, which pressured gold.
+   - **Reverse Factors:** If T-note yields decline, gold could rebound.
+   - **Classification:** Short-term influencer - DOWN
+
+#### **Softs**
+1. **Cotton**
+   - **Price Movement:** Declined. Cotton futures were down 10 to 137 points across the board (a correction from Monday’s gains).
+   - **Key Drivers:** “Turnaround Tuesday” profit-taking after Monday’s rally.
+   - **Reverse Factors:** If Monday’s bullish momentum resumes, prices could recover.
+   - **Classification:** Short-term influencer - DOWN
+
+2. **Sugar**
+   - **Price Movement:** Rose. July NY world sugar #11 closed up +0.28 (+1.90%); Aug London white sugar #5 up +4.50 (+1.03%).
+   - **Key Drivers:** Speculation that Brazil will curb sugar output following new fuel subsidy announcements.
+   - **Reverse Factors:** If Brazil does not implement output curbs, prices could fall.
+   - **Classification:** Short-term influencer - UP
+
+3. **Cocoa**
+   - **Price Movement:** Rose sharply. July ICE NY cocoa closed up +116 (+3.06%); July London cocoa up +88 (+3.06%).
+   - **Key Drivers:** Fund short covering after a –6% plunge.
+   - **Reverse Factors:** Once short covering is exhausted, prices could resume the prior downtrend.
+   - **Classification:** Short-term influencer - UP
+
+4. **Coffee**
+   - **Price Movement:** Rose. July arabica coffee closed up +5.95 (+2.25%); July robusta coffee up +39 (+1.18%).
+   - **Key Drivers:** Shrinking ICE inventories and technical short-covering after a three-week selloff.
+   - **Reverse Factors:** If inventories rebuild or short covering ends, gains may fade.
+   - **Classification:** Short-term influencer - UP
+
+#### **Currencies & Stocks**
+1. **US Dollar Index**
+   - **Price Movement:** Rose to a 6-week high, finishing up by 0.14%.
+   - **Key Drivers:** Higher T-note yields strengthening the dollar’s interest rate differentials.
+   - **Reverse Factors:** If T-note yields decline, the dollar could weaken.
+   - **Classification:** Short-term influencer - UP
+
+2. **10-Year T-note Yield**
+   - **Price Movement:** Rose (jumped). The 10‑year T‑note yield climbed sharply (no specific level given).
+   - **Key Drivers:** No specific driver cited; yields move higher, supporting the dollar.
+   - **Reverse Factors:** Could fall on risk-on sentiment or if inflation expectations ease.
+   - **Classification:** Unclear
+
+3. **FuelCell Energy Stock (Hydrogen Sector)**
+   - **Price Movement:** Declined sharply (“tanks”). FuelCell led hydrogen stocks lower.
+   - **Key Drivers:** Technical overbought conditions and macro headwinds triggering profit-taking across the hydrogen fuel sector.
+   - **Reverse Factors:** If oversold, a technical rebound could occur; sector fundamentals remain uncertain.
+   - **Classification:** Short-term influencer - DOWN
+
+---
+
+### **Summary & Key Themes**
+- **Commodity corrections dominate:** Several markets (cotton, corn, crude oil) retreated after recent gains, driven by profit-taking or short-term reversal patterns (“Turnaround Tuesday”).
+- **Dollar strength pressured commodities:** A stronger dollar on rising T‑note yields weighed on gold, crude oil, and other dollar‑denominated assets.
+- **Geopolitical hopes eased energy prices:** Diplomatic expectations for an end to the US–Iran war caused crude oil and gasoline to fall, while natural gas rallied on seasonal supply constraints.
+- **Mixed signals in grains:** Corn corrected lower, while wheat and soybeans ended mixed without clear drivers.
+- **Softs rebounded on short‑covering and supply speculation:** Cocoa, coffee, and sugar moved higher on technical short‑covering or Brazil output curbs.
+- **Livestock lacked catalysts:** Hogs, live cattle, and feeder cattle moved on technicals or ownership rotation, with no fundamental drivers cited.
+
+### **Risks Highlighted**
+1. **Geopolitical uncertainty in the Middle East:** The crude oil rally could resume if diplomatic efforts fail to end the US–Iran war.
+2. **Seasonal maintenance reversal for natural gas:** Once spring maintenance ends, increased production could push prices lower.
+3. **Brazil’s sugar policy uncertainty:** If Brazil does not follow through on output curbs, sugar prices could retreat.
+4. **Technical overbought conditions in hydrogen stocks:** Further profit-taking could extend declines in the sector.
+
+### **Watch Next**
+1. **USDA NASS Crop Progress data** – mentioned for corn and cotton (released this week).
+2. **Cash trade for cattle** – limited so far; further activity may set the tone.
+3. **Ongoing diplomatic talks regarding the Iran war** – any update could impact crude oil and gasoline prices.
+
+---
+
+### **Price Movement Classification Table**
+| Product               | Classification          | Reason                      |
+|-----------------------|-------------------------|-----------------------------|
+| Crude Oil (WTI)       | Short-term influencer - DOWN | Diplomatic hopes & dollar   |
+| Gasoline (RBOB)       | Short-term influencer - DOWN | Same as crude oil           |
+| Natural Gas           | Short-term influencer - UP   | Seasonal maintenance curbs  |
+| Wheat                 | Unclear                 | Mixed, no driver cited      |
+| Soybeans              | Unclear                 | Mixed, no driver cited      |
+| Corn                  | Short-term influencer - DOWN | Correction from Monday rally|
+| Lean Hogs             | Unclear                 | No driver cited             |
+| Live Cattle           | Unclear                 | No driver cited             |
+| Feeder Cattle         | Unclear                 | No driver cited             |
+| Gold                  | Short-term influencer - DOWN | Higher T‑note yields / dollar|
+| Cotton                | Short-term influencer - DOWN | Profit-taking after rally   |
+| Sugar                 | Short-term influencer - UP   | Brazil output curb speculation|
+| Cocoa                 | Short-term influencer - UP   | Fund short covering         |
+| Coffee                | Short-term influencer - UP   | Shrinking inventories & short-covering |
+| US Dollar Index       | Short-term influencer - UP   | Higher T‑note yields        |
+| 10-Year T-note Yield  | Unclear                 | No driver cited             |
+| FuelCell Energy Stock | Short-term influencer - DOWN | Technical overbought & profit-taking |
