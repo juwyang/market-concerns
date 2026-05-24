@@ -1,0 +1,52 @@
+News Briefing for: 2026-05-23
+Generated at: 2026-05-24 07:47:34
+LLM Used: DeepSeek (deepseek-reasoner)
+Source JSON: 20260523_barchart_all-commodities_news.json
+Cost info: Prompt tokens: 1239, Completion tokens: 1158, Total tokens: 2397
+Model Processing Time: 11.97 seconds
+
+---
+
+### Daily Financial Briefing: 20260523
+
+#### **Energy**
+No relevant news today.
+
+#### **Grains**
+1.  **November Soybeans**
+    - **Price Movement:** Potential to challenge contract highs; bullish outlook with record crush demand and seasonal strength.
+    - **Key Drivers:** Record crush demand, bullish technicals, and upcoming weather market season.
+    - **Reverse Factors:** Weather changes could disrupt supply, demand could soften, or profit‑taking may occur after a rally.
+    - **Classification:** Long-term influencer - UP
+
+#### **Livestock**
+No relevant news today.
+
+#### **Metals**
+No relevant news today.
+
+#### **Softs**
+No relevant news today.
+
+#### **Currencies & Stocks**
+No relevant news today.
+
+---
+
+### **Summary & Key Themes**
+- Strong fundamental demand (crush) and technical factors are converging to create a potential seasonal opportunity in soybeans.
+
+### **Risks Highlighted**
+1. Adverse weather during the growing season could reverse the bullish outlook.
+2. A pullback in crusher demand or unexpected supply increases might dampen the rally.
+
+### **Watch Next**
+1. Development of the weather market season and weather forecasts for key soybean growing regions.
+2. Monthly crush data releases to confirm ongoing strong demand.
+
+---
+
+### **Price Movement Classification Table**
+| Product          | Classification          | Reason                      |
+|------------------|-------------------------|-----------------------------|
+| November Soybeans | Long-term influencer - UP | Record crush demand & seasonal strength |
