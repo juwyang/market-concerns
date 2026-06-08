@@ -1,0 +1,50 @@
+News Briefing for: 2026-06-07
+Generated at: 2026-06-08 09:21:07
+LLM Used: DeepSeek (deepseek-reasoner)
+Source JSON: 20260607_barchart_all-commodities_news.json
+Cost info: Prompt tokens: 1187, Completion tokens: 844, Total tokens: 2031
+Model Processing Time: 11.90 seconds
+
+---
+
+### Daily Financial Briefing: 20260607
+
+#### **Energy**
+*(No articles provided for this category)*
+
+#### **Grains**
+*(No articles provided for this category)*
+
+#### **Livestock**
+1.  **Cattle**
+    - **Price Movement:** Not reported; the article highlights a new threat to US cattle but does not specify a price change for the day.
+    - **Key Drivers:** The return of the New World Screwworm in US beef headlines as spring turns to summer.
+    - **Reverse Factors:** No counter-arguments or potential mitigation factors mentioned in the article; the full impact on supply or pricing is not assessed.
+    - **Classification:** Unclear
+
+#### **Metals**
+*(No articles provided for this category)*
+
+#### **Softs**
+*(No articles provided for this category)*
+
+#### **Currencies & Stocks**
+*(No articles provided for this category)*
+
+---
+
+### **Summary & Key Themes**
+- **Cattle Threat Returns:** The single article focuses on the reappearance of the New World Screwworm, a pest that threatens US beef production, as summer approaches.
+
+### **Risks Highlighted**
+1. **New World Screwworm Resurgence:** The pest poses a direct risk to cattle health and potentially to beef supply, which could pressure prices if not contained.
+
+### **Watch Next**
+1. **No specific upcoming events mentioned:** Market participants will likely monitor for additional reports on the spread and management of the screwworm infestation.
+
+---
+
+### **Price Movement Classification Table**
+| Product | Classification | Reason                      |
+|---------|----------------|-----------------------------|
+| Cattle  | Unclear        | No price movement reported |
