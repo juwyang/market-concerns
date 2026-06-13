@@ -1,0 +1,122 @@
+News Briefing for: 2026-06-12
+Generated at: 2026-06-13 08:19:44
+LLM Used: DeepSeek (deepseek-reasoner)
+Source JSON: 20260612_barchart_all-commodities_news.json
+Cost info: Prompt tokens: 4072, Completion tokens: 3645, Total tokens: 7717
+Model Processing Time: 32.94 seconds
+
+---
+
+### Daily Financial Briefing: 20260612
+
+#### **Energy**
+1. **Crude Oil**
+   - **Price Movement:** Declined sharply. July WTI crude oil closed down -2.82 (-3.23%), with prices also reported down $3.50 to $84.21/barrel.
+   - **Key Drivers:** Hopes for a US-Iran peace deal reducing geopolitical risk.
+   - **Reverse Factors:** No explicit factors mentioned; a failed deal could reverse the decline.
+   - **Classification:** Short-term influencer - DOWN
+
+2. **Natural Gas**
+   - **Price Movement:** Rose moderately. July Nymex natural gas closed up +0.033 (+1.07%).
+   - **Key Drivers:** Strong LNG shipments, helping prices recover part of Thursday’s sharp sell-off.
+   - **Reverse Factors:** None specified; the previous day’s sell-off was triggered by EIA storage data, which could reassert pressure.
+   - **Classification:** Short-term influencer - UP
+
+#### **Grains**
+1. **Wheat**
+   - **Price Movement:** Slipped lower. Chicago SRW contracts fell 2¼ to 3¼ cents; KC HRW futures saw fractional to 3¾ cent declines. July SRW was up 4½ cents on the week.
+   - **Key Drivers:** No specific driver cited for Friday’s decline.
+   - **Reverse Factors:** None mentioned.
+   - **Classification:** Unclear
+
+2. **Soybeans**
+   - **Price Movement:** Slightly lower. Contracts were steady to 2¼ cents in the red; July down 8 cents on the week.
+   - **Key Drivers:** No specific driver cited.
+   - **Reverse Factors:** None mentioned.
+   - **Classification:** Unclear
+
+3. **Corn**
+   - **Price Movement:** Modestly higher / bounced. Contracts were steady to 1¾ cents higher on the day; July down 4¾ cents on the week. Midday saw gains of 1-2 cents.
+   - **Key Drivers:** No clear driver for the bounce; CFTC data showed speculative traders turning bearish.
+   - **Reverse Factors:** The bearish spec positioning could limit further gains.
+   - **Classification:** Unclear
+
+#### **Livestock**
+1. **Hogs**
+   - **Price Movement:** Gained. Lean hog futures up 25 to 82 cents across most contracts; expiring June up 25 cents.
+   - **Key Drivers:** No specific driver cited.
+   - **Reverse Factors:** None mentioned.
+   - **Classification:** Unclear
+
+2. **Cattle**
+   - **Price Movement:** Fell back. Live cattle futures gave back some of the week’s strength, closing down $1.05 to $1.625. August was down 47 cents for the week.
+   - **Key Drivers:** No specific driver cited for Friday’s decline; likely profit-taking after earlier gains.
+   - **Reverse Factors:** None mentioned.
+   - **Classification:** Unclear
+
+#### **Softs**
+1. **Cotton**
+   - **Price Movement:** Modest gains. Futures closed with 4 to 49 points higher; July up 43 points at one point.
+   - **Key Drivers:** No specific driver cited.
+   - **Reverse Factors:** None mentioned.
+   - **Classification:** Unclear
+
+2. **Coffee**
+   - **Price Movement:** Continued higher. July arabica closed up +3.25 (+1.28%); July robusta up +131 (+3.78%).
+   - **Key Drivers:** Concern over persistent rain in Brazil causing coffee harvest delays.
+   - **Reverse Factors:** None mentioned; weather improvement could ease supply fears.
+   - **Classification:** Short-term influencer - UP
+
+3. **Sugar**
+   - **Price Movement:** Lower. July NY sugar #11 closed down -0.09 (-0.65%); London white sugar down -1.70 (-0.38%).
+   - **Key Drivers:** A stronger dollar and possible US-Iran peace deal adding pressure.
+   - **Reverse Factors:** None mentioned; a stronger dollar or peace deal progress could continue to weigh.
+   - **Classification:** Short-term influencer - DOWN
+
+4. **Cocoa**
+   - **Price Movement:** Rallied. July NY cocoa closed up +69 (+1.86%); London cocoa up +7 (+0.24%).
+   - **Key Drivers:** Pre-weekend short-covering after NY coffee fell to a 3-week low. (Note: coffee actually rallied, but articles state this driver.)
+   - **Reverse Factors:** None mentioned; short-covering is typically temporary.
+   - **Classification:** Short-term influencer - UP
+
+#### **Currencies & Stocks**
+1. **US Dollar Index**
+   - **Price Movement:** Little changed. DXY00 ended the day near flat, up +0.03% at one point.
+   - **Key Drivers:** Support from a rise in the 10-year T-note yield (+2.2 bp, +3.8 bp), which boosted interest rate differentials.
+   - **Reverse Factors:** Some downward pressure mentioned but not detailed.
+   - **Classification:** Unclear
+
+---
+
+### **Summary & Key Themes**
+- **Geopolitical Hopes Drive Energy and Sugar:** Hopes for a US-Iran peace deal sharply lowered crude oil prices and also pressured sugar.
+- **Coffee Rally on Supply Disruption:** Persistent rain delaying Brazil’s coffee harvest supported arabica and robusta prices.
+- **Mixed Movements in Grains and Livestock:** Several commodities (wheat, soybeans, hogs, cattle, cotton) showed small or unclear moves with no explicit fundamental drivers provided.
+
+### **Risks Highlighted**
+1. Failure of US-Iran peace negotiations could reverse crude oil’s decline.
+2. Speculative traders turning bearish on corn (CFTC data) may cap any recovery.
+3. Short-covering in cocoa is a temporary factor that could unwind quickly.
+
+### **Watch Next**
+1. Progress of US-Iran peace talks (impact on crude, sugar, and dollar).
+2. Weather conditions in Brazil for coffee harvest (further delays or improvement).
+3. EIA natural gas storage data (after Thursday’s sell-off, next report may influence prices).
+
+---
+
+### **Price Movement Classification Table**
+| Product            | Classification          | Reason                          |
+|--------------------|-------------------------|---------------------------------|
+| Crude Oil          | Short-term influencer - DOWN | Iran peace hopes                |
+| Natural Gas        | Short-term influencer - UP   | Strong LNG shipments            |
+| Wheat              | Unclear                 | No driver cited                 |
+| Soybeans           | Unclear                 | No driver cited                 |
+| Corn               | Unclear                 | Mixed signals; bearish specs    |
+| Hogs               | Unclear                 | No driver cited                 |
+| Cattle             | Unclear                 | No driver cited                 |
+| Cotton             | Unclear                 | No driver cited                 |
+| Coffee             | Short-term influencer - UP   | Brazil harvest delays           |
+| Sugar              | Short-term influencer - DOWN | Stronger dollar & peace hopes   |
+| Cocoa              | Short-term influencer - UP   | Pre-weekend short-covering      |
+| US Dollar Index    | Unclear                 | Mixed support from yields       |
