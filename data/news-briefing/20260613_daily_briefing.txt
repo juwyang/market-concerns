@@ -1,0 +1,50 @@
+News Briefing for: 2026-06-13
+Generated at: 2026-06-14 08:39:46
+LLM Used: DeepSeek (deepseek-reasoner)
+Source JSON: 20260613_barchart_all-commodities_news.json
+Cost info: Prompt tokens: 1209, Completion tokens: 1787, Total tokens: 2996
+Model Processing Time: 18.77 seconds
+
+---
+
+### Daily Financial Briefing: 20260613
+
+#### **Energy**
+No news provided.
+
+#### **Grains**
+No news provided.
+
+#### **Livestock**
+No news provided.
+
+#### **Metals**
+No news provided.
+
+#### **Softs**
+No news provided.
+
+#### **Currencies & Stocks**
+1.  **General Motors (GM) Stock**
+    - **Price Movement:** Not specified in the article.
+    - **Key Drivers:** Decision to enter the energy storage market due to rising demand from AI data centers.
+    - **Reverse Factors:** No reverse factors mentioned in the article.
+    - **Classification:** Long-term influencer - UP
+
+---
+
+### **Summary & Key Themes**
+- General Motors is expanding beyond electric vehicles into the energy storage market to capitalize on growing demand from AI data centers.
+
+### **Risks Highlighted**
+1. No risks were highlighted in the provided article.
+
+### **Watch Next**
+1. No upcoming events or market indicators were mentioned in the article.
+
+---
+
+### **Price Movement Classification Table**
+| Product               | Classification          | Reason                      |
+|-----------------------|-------------------------|-----------------------------|
+| General Motors (GM)   | Long-term influencer - UP | Expansion into AI energy storage |
