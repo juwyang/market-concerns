@@ -1,0 +1,150 @@
+News Briefing for: 2026-06-15
+Generated at: 2026-06-16 10:06:25
+LLM Used: DeepSeek (deepseek-reasoner)
+Source JSON: 20260615_barchart_all-commodities_news.json
+Cost info: Prompt tokens: 4320, Completion tokens: 6457, Total tokens: 10777
+Model Processing Time: 62.47 seconds
+
+---
+
+### Daily Financial Briefing: 20260615
+
+#### **Energy**
+1. **Crude Oil (WTI)**
+   - **Price Movement:** July WTI crude oil closed down -4.13 (-4.87%).
+   - **Key Drivers:** US and Iran peace deal announced over the weekend, leading to reopening of the Strait of Hormuz and expectations of increased supply.
+   - **Reverse Factors:** Peace deal signing scheduled for this Friday; if deal breaks down or demand picks up, prices could rebound.
+   - **Classification:** Short-term influencer - DOWN
+
+2. **Gasoline (RBOB)**
+   - **Price Movement:** July RBOB gasoline closed down -0.1026 (-3.36%).
+   - **Key Drivers:** Same as crude oil – peace deal and Strait of Hormuz reopening.
+   - **Reverse Factors:** Same as crude oil.
+   - **Classification:** Short-term influencer - DOWN
+
+3. **Natural Gas**
+   - **Price Movement:** July Nymex natural gas closed up +0.027 (+0.87%).
+   - **Key Drivers:** Short covering emerged amid signs of a rebound in LNG exports.
+   - **Reverse Factors:** LNG export rebound may be temporary; no other supportive factors mentioned.
+   - **Classification:** Short-term influencer - UP
+
+#### **Grains**
+1. **Corn**
+   - **Price Movement:** Corn futures closed up ¾ to 3 ¾ cents across the board.
+   - **Key Drivers:** Bulls pushed back despite early session losses and new contract lows; crop ratings improved.
+   - **Reverse Factors:** Rain in the Plains keeps bears in control; July and August critical for weather market.
+   - **Classification:** Short-term influencer - UP
+
+2. **Soybeans**
+   - **Price Movement:** Soybeans closed up 2 1/2 to 5 3/4 cents.
+   - **Key Drivers:** Reverted higher into the close despite early weakness and weaker crush data.
+   - **Reverse Factors:** Weaker crush data; rain in the Plains is bearish for grains.
+   - **Classification:** Short-term influencer - UP
+
+3. **Wheat**
+   - **Price Movement:** Mixed trade – Chicago SRW up 3 ¾ to 5 ¾ cents, KC HRW up 3 ½ to 5 ½ cents, spring wheat weakest.
+   - **Key Drivers:** No clear driver; early double-digit losses reversed partially. Winter wheat faces seasonal issues.
+   - **Reverse Factors:** Rain in the Plains bearish; spring wheat weakness persists.
+   - **Classification:** Unclear
+
+#### **Livestock**
+1. **Live Cattle**
+   - **Price Movement:** Live cattle futures up 75 cents to $3 across the board.
+   - **Key Drivers:** Sharp gains in equities following the US-Iran peace deal offered spillover support; cash trade mostly supportive.
+   - **Reverse Factors:** New world screwworm uncertainty remains, which can be either bullish or bearish.
+   - **Classification:** Short-term influencer - UP
+
+2. **Lean Hogs**
+   - **Price Movement:** Lean hog futures closed with losses of 40 cents to $1.15.
+   - **Key Drivers:** Weakness continues; no specific driver cited.
+   - **Reverse Factors:** USDA national base hog price was up $1.98 on Monday afternoon, indicating cash market strength that could eventually support futures.
+   - **Classification:** Short-term influencer - DOWN
+
+#### **Metals**
+1. **Gold**
+   - **Price Movement:** Gold rallied on Monday (no specific percentage given).
+   - **Key Drivers:** Dollar weakness following the US-Iran peace deal; stocks rallied.
+   - **Reverse Factors:** Peace deal might reduce safe-haven demand, but dollar weakness dominated.
+   - **Classification:** Short-term influencer - UP
+
+2. **Platinum**
+   - **Price Movement:** Declined (described as “diving” amid broader liquidation).
+   - **Key Drivers:** Broader liquidation; physical reality shows shrinking global primary production and new demand drivers.
+   - **Reverse Factors:** Long-term fundamentals (shrinking supply, new drivers) could reverse the decline.
+   - **Classification:** Short-term influencer - DOWN
+
+#### **Softs**
+1. **Cotton**
+   - **Price Movement:** Cotton futures posted gains of 35 to 56 points across most contracts.
+   - **Key Drivers:** Ignored outside markets (crude oil weakness) and closed with Monday strength.
+   - **Reverse Factors:** Crude oil was down $3.72; if crude continues to fall, cotton may eventually succumb.
+   - **Classification:** Short-term influencer - UP
+
+2. **Sugar**
+   - **Price Movement:** July NY world sugar #11 closed down -0.02 (-0.15%).
+   - **Key Drivers:** Weakness in crude oil weighed on sugar prices.
+   - **Reverse Factors:** None explicitly mentioned.
+   - **Classification:** Short-term influencer - DOWN
+
+3. **Cocoa**
+   - **Price Movement:** July NY cocoa up +103 (+2.73%); July London cocoa up +86 (+2.98%).
+   - **Key Drivers:** Dollar weakness sparked short‑covering.
+   - **Reverse Factors:** If the dollar strengthens, the support could reverse.
+   - **Classification:** Short-term influencer - UP
+
+4. **Coffee**
+   - **Price Movement:** July arabica up +5.75 (+2.24%); July robusta up +13 (+0.36%).
+   - **Key Drivers:** Brazil harvest delays and weather risks boosted prices.
+   - **Reverse Factors:** A separate article notes coffee prices are falling and bears are in control, suggesting a selling opportunity on weakness.
+   - **Classification:** Short-term influencer - UP
+
+#### **Currencies & Stocks**
+1. **US Dollar Index (DXY)**
+   - **Price Movement:** The dollar index finished down -0.09%.
+   - **Key Drivers:** Pressured by the US-Iran peace deal and a rally in stocks.
+   - **Reverse Factors:** The peace deal could be viewed as positive for the US economy, potentially strengthening the dollar later.
+   - **Classification:** Short-term influencer - DOWN
+
+---
+
+### **Summary & Key Themes**
+- The US-Iran peace deal dominated markets, driving crude oil and gasoline sharply lower, weakening the dollar, and boosting equities and gold.
+- Grains were mixed: corn and soybeans closed higher despite bearish weather and crush data, while wheat posted mixed trade.
+- Livestock showed divergence – cattle rallied on equity spillover, while hogs continued to weaken despite a rise in cash prices.
+- Softs were mostly higher (cocoa, coffee, cotton) on dollar weakness and weather concerns, but sugar fell on crude oil spillover.
+- Platinum declined amid liquidation, but long-term fundamentals suggest potential reversal.
+
+### **Risks Highlighted**
+1. New world screwworm uncertainty continues to cloud cattle market direction (either bullish or bearish).
+2. Rain in the Plains keeps bears in control of corn, soybean, and wheat prices; July and August will be critical for weather markets.
+3. Weaker crush data may weigh further on soybeans.
+4. Coffee prices face a bearish outlook despite Monday’s rally, per a separate analysis.
+5. Crude oil’s sharp drop could reverse if the peace deal falters or if demand picks up.
+
+### **Watch Next**
+1. Signing of the US-Iran peace deal this Friday.
+2. July and August weather developments for corn and soybeans.
+3. Brazil coffee harvest progress and any further harvest delays.
+4. LNG export expansion trends for natural gas.
+5. New world screwworm updates and their impact on cattle trade.
+
+---
+
+### **Price Movement Classification Table**
+| Product              | Classification          | Reason                         |
+|----------------------|-------------------------|--------------------------------|
+| Crude Oil (WTI)      | Short-term influencer - DOWN | US-Iran peace deal shock       |
+| Gasoline (RBOB)      | Short-term influencer - DOWN | US-Iran peace deal shock       |
+| Natural Gas          | Short-term influencer - UP   | Short covering on LNG rebound  |
+| Corn                 | Short-term influencer - UP   | Crop ratings improvement       |
+| Soybeans             | Short-term influencer - UP   | Reversal despite weak crush    |
+| Wheat                | Unclear                  | Mixed trade, no clear driver   |
+| Live Cattle          | Short-term influencer - UP   | Equity spillover from peace    |
+| Lean Hogs            | Short-term influencer - DOWN | Continued weakness             |
+| Gold                 | Short-term influencer - UP   | Dollar weakness                |
+| Platinum             | Short-term influencer - DOWN | Broader liquidation            |
+| Cotton               | Short-term influencer - UP   | Ignored outside market weakness|
+| Sugar                | Short-term influencer - DOWN | Crude oil spillover            |
+| Cocoa                | Short-term influencer - UP   | Dollar weakness, short-covering|
+| Coffee               | Short-term influencer - UP   | Brazil harvest delays          |
+| US Dollar Index      | Short-term influencer - DOWN | US-Iran peace deal             |
