@@ -1,0 +1,131 @@
+News Briefing for: 2026-06-18
+Generated at: 2026-06-19 09:27:08
+LLM Used: DeepSeek (deepseek-reasoner)
+Source JSON: 20260618_barchart_all-commodities_news.json
+Cost info: Prompt tokens: 4076, Completion tokens: 4296, Total tokens: 8372
+Model Processing Time: 41.89 seconds
+
+---
+
+### Daily Financial Briefing: 20260618
+
+#### **Energy**
+1.  **Crude Oil**
+    - **Price Movement:** Declined. July WTI crude oil closed down -0.19 (-0.25%) on Thursday. Intraday it tumbled to a 3.5-month low on news that the Strait of Hormuz reopened.
+    - **Key Drivers:** US-Iran peace deal and the reopening of the Strait of Hormuz, which eased supply disruption fears. Crude oil weakness also pressured sugar and cotton prices.
+    - **Reverse Factors:** July RBOB gasoline closed up +0.0853 (+2.93%), showing strength in the refined product market which could support crude. The peace deal's permanence is not guaranteed.
+    - **Classification:** Short-term influencer - DOWN
+
+2.  **Natural Gas**
+    - **Price Movement:** Rose significantly. July Nymex natural gas closed up +0.088 (+2.80%).
+    - **Key Drivers:** A smaller-than-expected increase in weekly storage levels as reported by the EIA.
+    - **Reverse Factors:** None mentioned in the articles.
+    - **Classification:** Short-term influencer - UP
+
+#### **Grains**
+1.  **Corn**
+    - **Price Movement:** Declined. Corn futures posted losses of 3 ½ to 5 ¾ cents across most contracts on Thursday. July held onto a 4 ¾ cent weekly gain. The CmdtyView national average Cash Corn price was down 3 1/2 cents at $3.86.
+    - **Key Drivers:** Weakness into the long weekend. Profit-taking and positioning ahead of the US holiday.
+    - **Reverse Factors:** July contract still showing a weekly gain, and Wednesday’s close was strong with contracts up 5 ¼ to 7 ¼, suggesting underlying demand.
+    - **Classification:** Short-term influencer - DOWN
+
+2.  **Soybeans**
+    - **Price Movement:** Declined. Soybeans posted losses of 6 ½ to 9 ¼ cents across the board on Thursday. July held for a 9 ¼ cent weekly gain. The national average Cash Bean price was down 8 1/2 cents at $10.71.
+    - **Key Drivers:** The new-crop November 2026 soybean futures have “run out of upside momentum” and are approaching a test of support. Dollar strength and crude oil weakness are potential contributing factors.
+    - **Reverse Factors:** Weekly gains remain positive, and early Thursday losses (11-12 cents) were slightly pared by the close.
+    - **Classification:** Short-term influencer - DOWN
+
+3.  **Wheat**
+    - **Price Movement:** Declined. Chicago SRW contracts were down 1 ½ to 7 ¼ cents at the close. July still up 21 ¼ cents on the week.
+    - **Key Drivers:** Weakness into the long weekend across the three exchanges. Profit-taking and positioning ahead of the holiday.
+    - **Reverse Factors:** Strong weekly gains for July contract suggest a bullish underlying trend.
+    - **Classification:** Short-term influencer - DOWN
+
+#### **Livestock**
+1.  **Hogs**
+    - **Price Movement:** Mixed. Front-month lean hog futures were 5 to 27 cents higher on Thursday, while deferred months were down 12 to 32 cents. July was still down $2.42 on the week. The national base hog price was reported at $97.32, down 18 cents from the previous day.
+    - **Key Drivers:** Mixed trade with buyers coming in for front months, but deferred contracts showed weakness. End-of-week positioning.
+    - **Reverse Factors:** The weekly loss for July ($2.42) indicates overall bearish pressure despite Thursday’s front-month bounce.
+    - **Classification:** Unclear
+
+2.  **Cattle**
+    - **Price Movement:** Declined. Live cattle futures posted Thursday losses of 82 cents to $2.22 at the close. August held for gains of $5.45 this week. The Fed Cattle online auction showed no sales on the 1,466 head offered.
+    - **Key Drivers:** Placements coming in below estimates, but the failure of the Fed Cattle online auction to generate sales weighed on prices.
+    - **Reverse Factors:** August contract is still showing a strong weekly gain of $5.45, indicating bullish sentiment in the deferred months.
+    - **Classification:** Short-term influencer - DOWN
+
+#### **Metals**
+1.  **Gold**
+    - **Price Movement:** Declined. Gold prices retreated as the dollar rallied.
+    - **Key Drivers:** The FOMC projected higher interest rates later this year (hawkish policy update), which strengthened the dollar and pressured gold.
+    - **Reverse Factors:** None mentioned in the articles.
+    - **Classification:** Long-term influencer - DOWN
+
+#### **Softs**
+1.  **Cotton**
+    - **Price Movement:** Declined. Cotton futures posted 4 to 85 point losses in most contracts on Thursday. July was still up 311 points on the week. The market is considered “still headed lower” by analysts.
+    - **Key Drivers:** Weaker crude oil prices and a stronger US dollar index. One article stated December cotton futures present a “selling opportunity on fresh price weakness.”
+    - **Reverse Factors:** Weekly gains are still positive (July up 311 points), offering a potential buffer against the bearish sentiment.
+    - **Classification:** Short-term influencer - DOWN
+
+2.  **Sugar**
+    - **Price Movement:** Declined. July NY world sugar #11 closed down -0.26 (-1.88%), matching a 1.75-month low.
+    - **Key Drivers:** Dollar strength and weakness in crude oil prices.
+    - **Reverse Factors:** None mentioned in the articles.
+    - **Classification:** Short-term influencer - DOWN
+
+3.  **Cocoa**
+    - **Price Movement:** Mixed. July ICE NY cocoa closed down -1 (-0.02%), while July ICE London cocoa #7 closed up +35 (+1.11%).
+    - **Key Drivers:** Currency fluctuations. NY cocoa was under pressure from a stronger dollar, while London cocoa saw a counter-move higher.
+    - **Reverse Factors:** The divergence between NY and London suggests regional currency dynamics are the primary driver.
+    - **Classification:** Unclear
+
+4.  **Coffee**
+    - **Price Movement:** Mixed. July arabica coffee closed down -2.75 (-0.99%), while July robusta coffee closed up +5 (+0.14%).
+    - **Key Drivers:** A rally in the dollar erased early gains for arabica. Robusta managed a small gain despite the dollar strength.
+    - **Reverse Factors:** Continued dollar strength could further pressure arabica.
+    - **Classification:** Short-term influencer - DOWN
+
+#### **Currencies & Stocks**
+1.  **US Dollar**
+    - **Price Movement:** Rose significantly. The dollar index (DXY00) rallied to a 13-month high, finishing up by 0.80%.
+    - **Key Drivers:** Carryover support from Wednesday when the FOMC projected higher interest rates later this year (hawkish policy update).
+    - **Reverse Factors:** None mentioned in the articles.
+    - **Classification:** Long-term influencer - UP
+
+---
+
+### **Summary & Key Themes**
+- **Dominant Dollar Strength:** The US dollar rallied to a 13-month high on the back of a hawkish Fed policy update, which was a key driver pressuring gold, sugar, coffee, and cotton prices.
+- **Broad Commodity Weakness:** Most commodity markets (corn, soybeans, wheat, cotton, sugar, crude oil) saw declines on Thursday, partially attributed to profit-taking and positioning ahead of the US long weekend (Friday holiday).
+- **Geopolitical Impact on Energy:** Crude oil prices fell due to a US-Iran peace deal and the reopening of the Strait of Hormuz, easing supply disruption fears.
+- **Mixed Signals in Livestock:** Hogs and cattle posted mixed results, with front-month strength contrasting with deferred-month weakness and failed cattle auctions.
+
+### **Risks Highlighted**
+1. Continued hawkish stance from the Fed leading to further dollar appreciation and sustained pressure on commodity prices.
+2. The durability of the US-Iran peace deal and stability in the Strait of Hormuz, as any reversal could spike crude oil prices again.
+3. The end of the 2026 soybean rally, as new-crop futures have “run out of upside momentum” and are approaching a test of support.
+
+### **Watch Next**
+1. Impact of the US holiday (Friday) on trading volumes and potential catch-up movements when markets reopen.
+2. Further clarity on the Fed’s interest rate path and its effect on the dollar and gold.
+3. Weekly storage reports and geopolitical developments in the Middle East that could affect energy prices.
+
+---
+
+### **Price Movement Classification Table**
+| Product          | Classification          | Reason                      |
+|------------------|-------------------------|-----------------------------|
+| Crude Oil        | Short-term influencer - DOWN | Peace deal & Hormuz reopening |
+| Natural Gas      | Short-term influencer - UP   | Smaller storage increase    |
+| Corn             | Short-term influencer - DOWN | Long weekend profit-taking  |
+| Soybeans         | Short-term influencer - DOWN | Loss of upside momentum     |
+| Wheat            | Short-term influencer - DOWN | Long weekend profit-taking  |
+| Hogs             | Unclear                 | Mixed trade across contracts |
+| Cattle           | Short-term influencer - DOWN | Failed online cattle auction|
+| Gold             | Long-term influencer - DOWN  | Hawkish Fed rate outlook    |
+| Cotton           | Short-term influencer - DOWN | Dollar & crude oil weakness |
+| Sugar            | Short-term influencer - DOWN | Dollar strength, weak crude |
+| Cocoa            | Unclear                 | Mixed on currency moves     |
+| Coffee           | Short-term influencer - DOWN | Dollar rally erased gains   |
+| US Dollar        | Long-term influencer - UP   | Hawkish Fed policy update   |
