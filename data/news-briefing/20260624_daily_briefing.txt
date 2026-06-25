@@ -1,0 +1,131 @@
+News Briefing for: 2026-06-24
+Generated at: 2026-06-25 08:21:52
+LLM Used: DeepSeek (deepseek-reasoner)
+Source JSON: 20260624_barchart_all-commodities_news.json
+Cost info: Prompt tokens: 3838, Completion tokens: 5498, Total tokens: 9336
+Model Processing Time: 48.66 seconds
+
+---
+
+### Daily Financial Briefing: 20260624
+
+#### **Energy**
+1. **Crude Oil**
+   - **Price Movement:** August WTI crude oil closed down -$2.87 (-3.92%); August RBOB gasoline closed down -$0.0669 (-2.34%).
+   - **Key Drivers:** Persian Gulf oil flows accelerated, boosting global supply.
+   - **Reverse Factors:** No specific reverse factors mentioned in the articles.
+   - **Classification:** Short-term influencer - DOWN
+
+2. **Natural Gas**
+   - **Price Movement:** July Nymex natural gas closed up +$0.074 (+2.35%).
+   - **Key Drivers:** Warmer US weather forecasts increased potential demand from electricity generation.
+   - **Reverse Factors:** Cooler weather forecasts or profit-taking after the rally could reverse gains.
+   - **Classification:** Short-term influencer - UP
+
+#### **Grains**
+1. **Wheat**
+   - **Price Movement:** Chicago SRW contracts steady to a penny lower; KC HRW nearby July down a penny; other contracts fractionally lower.
+   - **Key Drivers:** No specific driver provided in the articles.
+   - **Reverse Factors:** No factors mentioned.
+   - **Classification:** Unclear
+
+2. **Soybeans**
+   - **Price Movement:** Contracts down 6¾ to 9 cents; cmdtyView national average Cash Bean price down 7¾ cents at $10.58¼.
+   - **Key Drivers:** No specific driver provided in the articles.
+   - **Reverse Factors:** No factors mentioned.
+   - **Classification:** Unclear
+
+3. **Corn**
+   - **Price Movement:** Front months losses of 1 to 2¾ cents; deferred contracts steady to ¾ cent higher; cmdtyView national average Cash Corn price down 1¾ cents at $3.78¼.
+   - **Key Drivers:** No specific driver provided in the articles.
+   - **Reverse Factors:** No factors mentioned.
+   - **Classification:** Unclear
+
+#### **Livestock**
+1. **Lean Hogs**
+   - **Price Movement:** Mixed trade – front months down 30 to 52 cents; deferred contracts up 10 to 40 cents.
+   - **Key Drivers:** No clear driver; mixed action across contracts.
+   - **Reverse Factors:** No specific reverse factors mentioned.
+   - **Classification:** Unclear
+
+2. **Live Cattle**
+   - **Price Movement:** Up 52 cents to $1.32 higher; cash trade saw light $260 live and $408 dressed in the north.
+   - **Key Drivers:** Cash market strength supported by reported sales.
+   - **Reverse Factors:** Potential profit-taking or lack of follow-through cash trade.
+   - **Classification:** Short-term influencer - UP
+
+#### **Metals**
+1. **Gold**
+   - **Price Movement:** Sharp decline (implied by headline “hammers gold”); specific change not provided in the articles.
+   - **Key Drivers:** Speculation of tighter Fed policy boosted the dollar (up 0.20% to a new 13-month high), pressuring gold.
+   - **Reverse Factors:** Dovish Fed commentary or profit-taking could reverse the decline.
+   - **Classification:** Short-term influencer - DOWN
+
+#### **Softs**
+1. **Sugar**
+   - **Price Movement:** July NY world sugar #11 closed unchanged; Aug London ICE white sugar #5 closed up +3.20 (+0.73%).
+   - **Key Drivers:** Weak monsoon rains in India raised concerns about sugar production.
+   - **Reverse Factors:** Improvement in monsoon rains could ease supply worries.
+   - **Classification:** Long-term influencer - UP
+
+2. **Cocoa**
+   - **Price Movement:** Sep ICE NY cocoa closed up +328 (+7.06%); July ICE London cocoa closed up +246 (+7.05%).
+   - **Key Drivers:** Excessive rain in Ivory Coast threatened cocoa supply.
+   - **Reverse Factors:** Drier weather returning could relieve supply concerns.
+   - **Classification:** Long-term influencer - UP
+
+3. **Coffee**
+   - **Price Movement:** Sep arabica coffee closed up +1.24 (+0.45%); July ICE robusta coffee closed up +127 (+3.55%).
+   - **Key Drivers:** Delayed Brazil harvest and tight ICE inventories underpinned prices.
+   - **Reverse Factors:** Progress in harvest or inventory buildup could ease tightness.
+   - **Classification:** Long-term influencer - UP
+
+4. **Cotton**
+   - **Price Movement:** Front months suffered losses of 187 to 247 points.
+   - **Key Drivers:** Crude oil fell (down $3.34/bbl to $69.87) and the US dollar index rose (up $0.147 to $101.320), creating macro headwinds.
+   - **Reverse Factors:** A reversal in crude oil or dollar direction could support cotton.
+   - **Classification:** Short-term influencer - DOWN
+
+#### **Currencies & Stocks**
+1. **US Dollar Index**
+   - **Price Movement:** Rose by +0.20% to a new 13-month high.
+   - **Key Drivers:** Speculation of tighter Fed policy provided carryover support.
+   - **Reverse Factors:** Dovish Fed shift could reverse the rally.
+   - **Classification:** Short-term influencer - UP
+
+---
+
+### **Summary & Key Themes**
+- **Broad commodity weakness** in energy and grains, led by a stronger dollar and falling crude oil.
+- **Soft commodities rally** due to weather‑driven supply concerns (weak India monsoon, excessive Ivory Coast rain, delayed Brazil harvest).
+- **Livestock mixed** – cattle rallied on cash strength, while hogs showed no clear direction.
+- **Dollar surge** to a 13‑month high on Fed tightening speculation weighed on gold and other dollar‑denominated assets.
+
+### **Risks Highlighted**
+1. **Tighter Fed policy** could continue to strengthen the dollar and pressure commodities further.
+2. **Persian Gulf oil flows accelerating** risk keeping crude oil under pressure.
+3. **Weather uncertainties** – weak rains in India, excessive rain in Ivory Coast, and delayed Brazil harvest could either worsen or improve, affecting softs prices.
+
+### **Watch Next**
+1. **EIA weekly inventory reports** mentioned for corn (Articles 6, 18) and crude oil (implied by supply data).
+2. **Fed policy signals** – any further speculation or official comments could move the dollar and gold.
+3. **Weather updates** for India, Ivory Coast, and Brazil – key for sugar, cocoa, and coffee.
+
+---
+
+### **Price Movement Classification Table**
+| Product          | Classification          | Reason                      |
+|------------------|-------------------------|-----------------------------|
+| Crude Oil        | Short-term influencer - DOWN | Persian Gulf supply increase |
+| Natural Gas      | Short-term influencer - UP   | Warmer US weather forecasts |
+| Wheat            | Unclear                 | No driver provided          |
+| Soybeans         | Unclear                 | No driver provided          |
+| Corn             | Unclear                 | No driver provided          |
+| Lean Hogs        | Unclear                 | Mixed trade, no clear driver|
+| Live Cattle      | Short-term influencer - UP   | Cash market strength        |
+| Gold             | Short-term influencer - DOWN | Stronger dollar/Fed speculation |
+| Sugar            | Long-term influencer - UP    | Weak India monsoon          |
+| Cocoa            | Long-term influencer - UP    | Excessive Ivory Coast rain  |
+| Coffee           | Long-term influencer - UP    | Delayed harvest, tight inventories |
+| Cotton           | Short-term influencer - DOWN | Weaker crude, stronger dollar |
+| US Dollar Index  | Short-term influencer - UP   | Tighter Fed speculation     |
