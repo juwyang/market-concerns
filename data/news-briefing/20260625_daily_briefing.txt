@@ -1,0 +1,130 @@
+News Briefing for: 2026-06-25
+Generated at: 2026-06-26 08:29:31
+LLM Used: DeepSeek (deepseek-reasoner)
+Source JSON: 20260625_barchart_all-commodities_news.json
+Cost info: Prompt tokens: 3271, Completion tokens: 5610, Total tokens: 8881
+Model Processing Time: 51.26 seconds
+
+---
+
+### Daily Financial Briefing: 20260625
+
+#### **Energy**
+1.  **Crude Oil & Gasoline**
+    - **Price Movement:** August WTI crude closed up +1.58 (+2.25%) and August RBOB gasoline closed up +0.1109 (+3.97%) on Thursday. Earlier, crude was reported up $1.13/bbl to $71.47.
+    - **Key Drivers:** Erased early losses and rallied. The article title cites "concerns of reopening of Strait of Hormuz," but no specific driver is detailed in the summary.
+    - **Reverse Factors:** No counter-arguments or risks mentioned in the provided text.
+    - **Classification:** `Unclear`
+
+2.  **Natural Gas**
+    - **Price Movement:** July Nymex natural gas closed up +0.122 (+3.79%) to a 2.5‑week high.
+    - **Key Drivers:** Hot US weather forecasts that may increase cooling demand.
+    - **Reverse Factors:** None mentioned in the provided text.
+    - **Classification:** `Short-term influencer - UP`
+
+#### **Grains**
+1.  **Corn**
+    - **Price Movement:** Futures rallied into Thursday’s close, up 4¼ to 8½ cents on the session. The national average cash corn price was 8¾ cents higher at $3.87.
+    - **Key Drivers:** A drier window opening up in the weather forecast.
+    - **Reverse Factors:** None explicitly stated in the articles. However, the June WASDE report analysis (Article 17) notes that new‑crop December corn futures recently reached a 2026 low and are approaching critical technical support levels, suggesting potential downside risk.
+    - **Classification:** `Short-term influencer - UP`
+
+2.  **Soybeans**
+    - **Price Movement:** Soybeans were up 16½ to 22 cents across the board at Thursday’s close. The cmdtyView national average cash bean price was up 20½ cents at $10.79¾. Soymeal futures rose $1.40 to $4.90.
+    - **Key Drivers:** A drier start to July in the weather outlook.
+    - **Reverse Factors:** No counter-arguments cited in the provided articles.
+    - **Classification:** `Short-term influencer - UP`
+
+3.  **Wheat**
+    - **Price Movement:** The wheat complex closed mostly higher. Chicago SRW contracts up 4½ to 5½ cents; KC HRW futures up 3 (unspecified). Early Thursday showed slight losses but late‑session strength reversed them.
+    - **Key Drivers:** Late‑session buying, but no specific catalyst is given in the articles.
+    - **Reverse Factors:** No risks or reverse factors mentioned.
+    - **Classification:** `Unclear`
+
+#### **Livestock**
+1.  **Hogs**
+    - **Price Movement:** Lean hog futures posted Thursday losses of a dime to $1.15 in the front months, while other contracts were steady to 37 cents higher. USDA national base hog price reported at $95.29.
+    - **Key Drivers:** Not explicitly stated in the provided articles; front‑month weakness noted.
+    - **Reverse Factors:** None mentioned.
+    - **Classification:** `Unclear`
+
+2.  **Cattle**
+    - **Price Movement:** Live cattle were steady to $1.40 higher on Thursday, with December down a dime. Cash trade saw very light volume at $260 live and $408 dressed in the north, with a few bids at $255 on Thursday.
+    - **Key Drivers:** No specific driver given for Thursday’s gains; follows a Wednesday rally.
+    - **Reverse Factors:** No risks or reverse factors mentioned.
+    - **Classification:** `Unclear`
+
+#### **Softs**
+1.  **Cotton**
+    - **Price Movement:** Cotton futures posted gains of 21 to 71 points across most contracts on Thursday, with July up 131 points. Early morning gains of 80 to 90 points were reported.
+    - **Key Drivers:** Strength in crude oil (up $1.13/bbl to $71.47) and a weaker US dollar index (down 0.19% to 0.17%).
+    - **Reverse Factors:** None mentioned in the articles.
+    - **Classification:** `Short-term influencer - UP`
+
+2.  **Sugar**
+    - **Price Movement:** July NY world sugar #11 closed up +0.13 (+0.97%), while Aug London white sugar #5 closed down -0.10 (-0.02%). Prices settled mixed, consolidating above Monday’s 2‑month lows.
+    - **Key Drivers:** Consolidation after recent lows; no explicit driver given.
+    - **Reverse Factors:** None mentioned.
+    - **Classification:** `Unclear`
+
+3.  **Cocoa**
+    - **Price Movement:** September ICE NY cocoa closed up +274 (+5.51%) and July ICE London cocoa #7 closed up +173 (+4.63%). Extended a two‑week rally.
+    - **Key Drivers:** West African crop concerns driving supply fears.
+    - **Reverse Factors:** No counter-arguments cited.
+    - **Classification:** `Long-term influencer - UP`
+
+4.  **Coffee**
+    - **Price Movement:** September arabica coffee closed down -0.80 (-0.29%), while September robusta coffee closed up +57 (+1.58%). Settled mixed.
+    - **Key Drivers:** Rains disrupting the Brazil coffee harvest are supportive for prices, though arabica traded lower.
+    - **Reverse Factors:** No explicit reverse factors mentioned; the mixed move suggests divergent market views.
+    - **Classification:** `Unclear`
+
+#### **Currencies & Stocks**
+1.  **US Dollar Index**
+    - **Price Movement:** The dollar index (DXY00) fell by -0.19% to -0.17% on Thursday.
+    - **Key Drivers:** Today’s stock rally reduced liquidity demand for the dollar; benign inflation news may keep the Fed accommodative.
+    - **Reverse Factors:** None explicitly mentioned. A reversal in stock market strength could restore dollar demand.
+    - **Classification:** `Short-term influencer - DOWN`
+
+2.  **Sunrun (Stock)**
+    - **Price Movement:** No specific price change provided, but the article describes a sharp shift in growth narrative and investor sentiment.
+    - **Key Drivers:** A massive 16‑gigawatt virtual power deal with Tesla.
+    - **Reverse Factors:** No counter-arguments mentioned.
+    - **Classification:** `Long-term influencer - UP`
+
+---
+
+### **Summary & Key Themes**
+- **Weather‑Driven Rallies in Grains and Natural Gas:** Corn and soybeans gained on forecasts of a drier start to July; natural gas surged on hot US weather expectations.
+- **Dollar Weakness Lifts Commodities:** The dollar index fell on stock market strength and benign inflation news, providing a tailwind for dollar‑denominated commodities like cotton and oil.
+- **Supply Concerns Boost Cocoa:** West African crop worries pushed cocoa prices to a two‑week rally, with gains of over 5%.
+- **Mixed Performance in Softs and Livestock:** Sugar consolidated, coffee was mixed, and hog/cattle movements lacked clear catalysts.
+
+### **Risks Highlighted**
+1. Corn futures are approaching critical technical support levels, posing a risk of further decline if those levels are broken (Article 17).
+2. Rains disrupting the Brazil coffee harvest threaten supply and quality (Article 21).
+3. West African crop concerns continue to create supply risks for cocoa, though rapid price surges may invite profit‑taking (Article 20).
+
+### **Watch Next**
+1. Weather forecasts for early July, especially a drier window for US corn and soybeans and hot temperatures for natural gas demand.
+2. Further updates on West African cocoa crop conditions and the progress of the Brazil coffee harvest.
+3. Any new US inflation data or Fed commentary following today’s benign inflation report.
+
+---
+
+### **Price Movement Classification Table**
+| Product                 | Classification                | Reason                     |
+|-------------------------|-------------------------------|----------------------------|
+| Crude Oil & Gasoline    | `Unclear`                     | No clear driver in text    |
+| Natural Gas             | `Short-term influencer - UP`  | Hot US weather forecasts   |
+| Corn                    | `Short-term influencer - UP`  | Drier weather window       |
+| Soybeans                | `Short-term influencer - UP`  | Drier start to July        |
+| Wheat                   | `Unclear`                     | No catalyst provided       |
+| Hogs                    | `Unclear`                     | No driver given            |
+| Cattle                  | `Unclear`                     | No driver given            |
+| Cotton                  | `Short-term influencer - UP`  | Stronger crude, weaker USD |
+| Sugar                   | `Unclear`                     | Consolidation, no driver   |
+| Cocoa                   | `Long-term influencer - UP`   | West African crop concerns |
+| Coffee                  | `Unclear`                     | Mixed price moves          |
+| US Dollar Index         | `Short-term influencer - DOWN`| Stock rally, benign inflation |
+| Sunrun                  | `Long-term influencer - UP`   | Major Tesla deal           |
