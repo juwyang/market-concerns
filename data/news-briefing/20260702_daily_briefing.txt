@@ -1,0 +1,132 @@
+News Briefing for: 2026-07-02
+Generated at: 2026-07-03 08:08:20
+LLM Used: DeepSeek (deepseek-reasoner)
+Source JSON: 20260702_barchart_all-commodities_news.json
+Cost info: Prompt tokens: 4112, Completion tokens: 6884, Total tokens: 10996
+Model Processing Time: 65.51 seconds
+
+---
+
+### Daily Financial Briefing: 20260702
+
+#### **Energy**
+1.  **Crude Oil (WTI)**
+    - **Price Movement:** August WTI crude oil closed up +0.11 (+0.16%) on Thursday.
+    - **Key Drivers:** Dollar weakness following a weaker-than-expected US June payroll report.
+    - **Reverse Factors:** Global oil supplies normalizing (Article 18) could pressure prices. Gasoline prices fell.
+    - **Classification:** Short-term influencer - UP
+
+2.  **Gasoline (RBOB)**
+    - **Price Movement:** August RBOB gasoline closed down -0.0279 (-0.95%) on Thursday.
+    - **Key Drivers:** No explicit driver cited in the articles for gasoline’s decline.
+    - **Reverse Factors:** Crude oil’s recovery could offer support.
+    - **Classification:** Unclear
+
+3.  **Natural Gas**
+    - **Price Movement:** August Nymex natural gas closed down -0.024 (-0.75%), falling to a 2-week low.
+    - **Key Drivers:** Weekly US natural gas storage rose more than expected.
+    - **Reverse Factors:** None explicitly mentioned.
+    - **Classification:** Short-term influencer - DOWN
+
+#### **Grains**
+1.  **Corn**
+    - **Price Movement:** Mixed on Thursday; front months ¼ to 4 cents higher, deferreds down as much as 2¾ cents. September up 1¼ cents on the week.
+    - **Key Drivers:** No clear driver; traders squaring positions ahead of the holiday weekend.
+    - **Reverse Factors:** None explicitly mentioned.
+    - **Classification:** Unclear
+
+2.  **Soybeans**
+    - **Price Movement:** Front month losses of ½ to 5½ cents; back months lower. November down 8½ cents on the week.
+    - **Key Drivers:** Likely profit-taking or pre-holiday positioning. No explicit driver given.
+    - **Reverse Factors:** Another record-high crush (Article 21) signals strong demand and may support prices.
+    - **Classification:** Short-term influencer - DOWN
+
+3.  **Wheat**
+    - **Price Movement:** Mixed on Thursday; Chicago SRW contracts saw fractional to 1½ cent losses, while KC HRW futures held up. September up a dime on the week.
+    - **Key Drivers:** No clear driver; HRW market showing relative strength.
+    - **Reverse Factors:** None explicitly mentioned.
+    - **Classification:** Unclear
+
+#### **Livestock**
+1.  **Lean Hogs**
+    - **Price Movement:** Front months rallied 50 cents to $1.70; deferreds declined 7 to 30 cents. July up 92 cents on the week.
+    - **Key Drivers:** Not explicitly stated; cash price support (USDA national base hog price reported at $95.47).
+    - **Reverse Factors:** Deferreds’ weakness signals mixed sentiment.
+    - **Classification:** Short-term influencer - UP
+
+2.  **Live Cattle**
+    - **Price Movement:** Closed with losses of $2.05 to $2.60 on Thursday; August down $6.60 on the week.
+    - **Key Drivers:** Wholesale beef weakness.
+    - **Reverse Factors:** Cash sales picked up at $403 dressed in the north, which could provide support.
+    - **Classification:** Short-term influencer - DOWN
+
+#### **Softs**
+1.  **Cotton**
+    - **Price Movement:** Closed 20 to 72 points higher on Thursday; December up 74 points on the week.
+    - **Key Drivers:** US dollar index weakness (down $0.506 to $100.650).
+    - **Reverse Factors:** Market will observe the July 4th holiday; potential for uncertainty and position adjustments.
+    - **Classification:** Short-term influencer - UP
+
+2.  **Sugar**
+    - **Price Movement:** October NY world sugar #11 closed down -0.14 (-0.93%); London white sugar #5 up +0.04% (mixed).
+    - **Key Drivers:** Pressure from weakness in crude oil.
+    - **Reverse Factors:** London sugar firmed; crude oil recovered slightly.
+    - **Classification:** Short-term influencer - DOWN
+
+3.  **Cocoa**
+    - **Price Movement:** September ICE NY cocoa closed down -56 (-1.10%); London cocoa down -71 (-1.86%).
+    - **Key Drivers:** Pre-weekend long liquidation and elevated ICE inventories.
+    - **Reverse Factors:** None explicitly mentioned.
+    - **Classification:** Short-term influencer - DOWN
+
+4.  **Coffee (Arabica)**
+    - **Price Movement:** September arabica coffee closed down -8.70 (-2.81%); robusta up +0.32% (mixed).
+    - **Key Drivers:** Profit-taking and long liquidation after reaching fresh 4.75-month highs.
+    - **Reverse Factors:** Robusta coffee rose, indicating mixed sentiment.
+    - **Classification:** Short-term influencer - DOWN
+
+#### **Currencies & Stocks**
+1.  **US Dollar Index**
+    - **Price Movement:** Fell to a 2-week low, finishing down -0.52% on Thursday.
+    - **Key Drivers:** Weaker-than-expected US June payroll report dampened speculation of Fed tightening.
+    - **Reverse Factors:** None explicitly mentioned.
+    - **Classification:** Short-term influencer - DOWN
+
+---
+
+### **Summary & Key Themes**
+- **Holiday Positioning:** Several markets (cotton, soybeans, corn, cocoa, coffee) were influenced by traders squaring positions ahead of the July 4th long weekend, leading to mixed and often cautious price action.
+- **Dollar Weakness Dominates:** A soft US June payroll report sent the dollar index to a 2-week low, boosting commodity prices like crude oil and cotton, while pressuring others indirectly.
+- **Divergence in Livestock:** Lean hogs rallied on front-month cash strength, while live cattle fell due to wholesale beef weakness, highlighting sector-specific dynamics.
+- **Grains and Softs Mixed:** Corn and wheat ended flat to mixed, while soybeans slipped. Soft commodities like sugar, cocoa, and coffee declined on profit-taking, inventory builds, and crude-linked pressure.
+
+### **Risks Highlighted**
+1. Elevated ICE inventories for cocoa could continue to weigh on prices.
+2. Rising US natural gas storage levels may keep natural gas under pressure.
+3. Normalizing global oil supplies pose a downside risk to crude oil’s recovery.
+4. Weak US jobs data could signal broader economic slowdown, potentially dampening demand for commodities.
+
+### **Watch Next**
+1. **July 4th Holiday:** Markets will be closed on Friday (July 3rd? Actually July 4th is Saturday, but observed Friday). Impact on positioning after the break.
+2. **US Jobs Data:** Further revisions or related economic indicators (e.g., weekly jobless claims) as markets digest the weak payroll report.
+3. **Weekly US Natural Gas Storage Report** (next release) for continued inventory trends.
+4. **Cocoa ICE Inventory Levels** – any changes could affect price direction.
+
+---
+
+### **Price Movement Classification Table**
+| Product          | Classification          | Reason                      |
+|------------------|-------------------------|-----------------------------|
+| Crude Oil (WTI)  | Short-term influencer - UP | Dollar weakness             |
+| Gasoline (RBOB)  | Unclear                 | No clear driver             |
+| Natural Gas      | Short-term influencer - DOWN | Storage build               |
+| Corn             | Unclear                 | Mixed trade, no driver      |
+| Soybeans         | Short-term influencer - DOWN | Pre-holiday profit-taking   |
+| Wheat            | Unclear                 | Mixed, no clear driver      |
+| Lean Hogs        | Short-term influencer - UP | Cash price support          |
+| Live Cattle      | Short-term influencer - DOWN | Wholesale beef weakness     |
+| Cotton           | Short-term influencer - UP | Dollar weakness             |
+| Sugar            | Short-term influencer - DOWN | Crude oil pressure          |
+| Cocoa            | Short-term influencer - DOWN | Long liquidation, inventories|
+| Coffee (Arabica) | Short-term influencer - DOWN | Profit-taking from highs    |
+| US Dollar Index  | Short-term influencer - DOWN | Weak jobs report            |
