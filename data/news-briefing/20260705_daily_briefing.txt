@@ -1,0 +1,50 @@
+News Briefing for: 2026-07-05
+Generated at: 2026-07-06 08:58:28
+LLM Used: DeepSeek (deepseek-reasoner)
+Source JSON: 20260705_barchart_all-commodities_news.json
+Cost info: Prompt tokens: 1204, Completion tokens: 798, Total tokens: 2002
+Model Processing Time: 8.59 seconds
+
+---
+
+### Daily Financial Briefing: 20260705
+
+#### **Energy**
+- No news articles provided for this category.
+
+#### **Grains**
+- No news articles provided for this category.
+
+#### **Livestock**
+- No news articles provided for this category.
+
+#### **Metals**
+- No news articles provided for this category.
+
+#### **Softs**
+- No news articles provided for this category.
+
+#### **Currencies & Stocks**
+1.  **Taiwan Semiconductor (TSM)**
+    - **Price Movement:** No price movement reported in the provided articles.
+    - **Key Drivers:** Upcoming Q2 earnings release on July 16, which investors will watch closely.
+    - **Reverse Factors:** Actual earnings results could disappoint or exceed expectations, altering sentiment. No other countervailing factors mentioned.
+    - **Classification:** Unclear – no price movement data is available in the article to classify.
+
+---
+
+### **Summary & Key Themes**
+- The only financial event highlighted is Taiwan Semiconductor’s Q2 earnings print scheduled for mid-July, indicating a focus on semiconductor sector performance.
+
+### **Risks Highlighted**
+1. No explicit risks are mentioned in the provided news articles.
+
+### **Watch Next**
+1. Taiwan Semiconductor’s Q2 earnings release on July 16.
+
+---
+
+### **Price Movement Classification Table**
+| Product                  | Classification | Reason                      |
+|--------------------------|----------------|-----------------------------|
+| Taiwan Semiconductor     | Unclear        | No price movement reported  |
