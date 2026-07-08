@@ -1,0 +1,136 @@
+News Briefing for: 2026-07-07
+Generated at: 2026-07-08 07:26:42
+LLM Used: DeepSeek (deepseek-reasoner)
+Source JSON: 20260707_barchart_all-commodities_news.json
+Cost info: Prompt tokens: 3488, Completion tokens: 2782, Total tokens: 6270
+Model Processing Time: 30.93 seconds
+
+---
+
+### Daily Financial Briefing: 20260707
+
+#### Energy
+1.  **Crude Oil**
+    - **Price Movement:** Rose significantly. August WTI crude oil closed up +1.89 (+2.76%). August RBOB gasoline closed down -0.0494 (-1.64%).
+    - **Key Drivers:** Supply disruptions following attacks on ships in the Strait of Hormuz.
+    - **Reverse Factors:** Gasoline prices settled lower, indicating a mixed demand outlook.
+    - **Classification:** Short-term influencer - UP
+
+2.  **Natural Gas**
+    - **Price Movement:** Rose moderately. August Nymex natural gas closed up +0.020 (+0.62%).
+    - **Key Drivers:** Carryover support from a rally in European natural gas prices after a Qatari-related event.
+    - **Reverse Factors:** Not mentioned in the articles.
+    - **Classification:** Short-term influencer - UP
+
+#### Grains
+1.  **Wheat**
+    - **Price Movement:** Rose moderately. Chicago SRW contracts were 3 ¼ to 7 ¼ cents higher; KC HRW futures were 1 ¼ to 4 ¾ cents higher.
+    - **Key Drivers:** Late session strength; weather problems creating a buying opportunity.
+    - **Reverse Factors:** Market showed mixed early action; weaker export data.
+    - **Classification:** Short-term influencer - UP
+
+2.  **Soybeans**
+    - **Price Movement:** Rose moderately. Contracts posted 2 to 9 ¾ cent gains, with nearby July up 14 ½ cents. The national average Cash Bean price was up 10 1/4 cents at $11.46.
+    - **Key Drivers:** Late session strength.
+    - **Reverse Factors:** Midday trade was mixed, with new crop November down a penny.
+    - **Classification:** Short-term influencer - UP
+
+3.  **Corn**
+    - **Price Movement:** Rose moderately. Futures extended the rally, closing 3 ½ to 6 ¾ cents higher. The national average Cash Corn price was a nickel higher at $4.13.
+    - **Key Drivers:** Continued rally.
+    - **Reverse Factors:** Not mentioned in the articles.
+    - **Classification:** Short-term influencer - UP
+
+#### Livestock
+1.  **Hogs**
+    - **Price Movement:** Declined mostly. Lean hog futures posted losses of 35 cents to $1.60, though nearby July was up a dime. The CME Lean Hog Index was back down 12 cents.
+    - **Key Drivers:** Lower trade overall.
+    - **Reverse Factors:** Nearby July contract strength and a reported USDA base hog price of $96.42.
+    - **Classification:** Short-term influencer - DOWN
+
+2.  **Cattle**
+    - **Price Movement:** Declined moderately. Live cattle futures posted losses of 10 to 67 cents. Feeder cattle futures also moved lower.
+    - **Key Drivers:** Lower trade on the day.
+    - **Reverse Factors:** Not mentioned in the articles.
+    - **Classification:** Short-term influencer - DOWN
+
+#### Metals
+1.  **Platinum**
+    - **Price Movement:** No specific daily change provided. The article notes the price has plunged from a new record high in early 2026.
+    - **Key Drivers:** Precious metals have remained in bearish trends since late January 2026 highs; the price plunge threatens the long-term bullish trend.
+    - **Reverse Factors:** Not mentioned in the articles.
+    - **Classification:** Long-term influencer - DOWN
+
+#### Softs
+1.  **Cotton**
+    - **Price Movement:** Rose significantly, nearing limit gains. Futures closed 99 to 299 points higher.
+    - **Key Drivers:** Extended rally.
+    - **Reverse Factors:** Outside markets were mixed.
+    - **Classification:** Short-term influencer - UP
+
+2.  **Sugar**
+    - **Price Movement:** Declined moderately. October NY world sugar #11 closed down -0.08 (-0.53%). August London ICE white sugar #5 closed down -12.50 (-2.56%).
+    - **Key Drivers:** Long liquidation pressures; technical selling on overbought conditions.
+    - **Reverse Factors:** An early advance was given up.
+    - **Classification:** Short-term influencer - DOWN
+
+3.  **Cocoa**
+    - **Price Movement:** Rose moderately. September ICE NY cocoa closed up +65 (+1.14%). September ICE London cocoa #7 closed up +43 (+1.02%).
+    - **Key Drivers:** Support from adverse West African weather risks, extended a sharp three-week rally to 6-month highs.
+    - **Reverse Factors:** Not mentioned in the articles.
+    - **Classification:** Long-term influencer - UP
+
+4.  **Coffee**
+    - **Price Movement:** Declined sharply. September arabica coffee closed down -32.35 (-9.24%). September robusta coffee closed down -172 (-4.25%).
+    - **Key Drivers:** Gave back more than half of Monday's surge; profit-taking after a parabolic move.
+    - **Reverse Factors:** Not mentioned in the articles.
+    - **Classification:** Short-term influencer - DOWN
+
+#### Currencies & Stocks
+1.  **US Dollar**
+    - **Price Movement:** Rose slightly. The dollar index rose by +0.24% on Tuesday.
+    - **Key Drivers:** Weakness in stocks boosting liquidity demand for the currency; higher crude oil prices; hawkish comments from New York Fed’s Williams.
+    - **Reverse Factors:** Not mentioned in the articles.
+    - **Classification:** Short-term influencer - UP
+
+---
+
+### Summary & Key Themes
+- **Geopolitical Supply Disruptions:** Crude oil prices surged sharply higher following attacks on ships in the Strait of Hormuz, a key choke point for global oil supply.
+- **Weather-Driven Support for Soft Commodities & Grains:** Adverse West African weather underpinned a prolonged rally in cocoa prices, while weather problems were cited as a buying opportunity for wheat.
+- **Profit-Taking and Technical Reversals:** Coffee prices experienced a sharp decline, giving back more than half of the previous day's parabolic surge, and sugar fell on long liquidation following overbought conditions.
+- **Mixed Livestock Markets:** Both hog and cattle futures posted losses, breaking from the broader rally seen in grains and energy.
+- **Dollar Strength Amid Risk-Off Tone:** The US dollar edged higher, supported by a weaker stock market and hawkish Fed commentary.
+
+### Risks Highlighted
+1. **Geopolitical escalation in the Strait of Hormuz** disrupting crude oil supply chains further.
+2. **Adverse weather in West Africa** threatening cocoa production and supply.
+3. **Overbought market conditions** leading to technical selling and reversals, as seen in sugar and coffee.
+4. **Weakness in global stock markets** potentially boosting safe-haven demand for the dollar and affecting commodity prices.
+5. **Bearish trends in precious metals**, with platinum threatening a long-term bullish trend after a record high.
+
+### Watch Next
+1. **Crop Progress data** for cotton, as Monday’s report showed 49% of the crop in a certain condition.
+2. **European natural gas prices** for continued carryover support to US nat-gas.
+3. **Further developments in the Strait of Hormuz** for impacts on crude oil and gasoline prices.
+4. **Technical levels in platinum** to see if the price pullback breaks the long-term bullish structure.
+5. **Export data for wheat**, given a noted weaker report that was offset by other support.
+
+---
+
+### Price Movement Classification Table
+| Product          | Classification          | Reason                      |
+|------------------|-------------------------|-----------------------------|
+| Crude Oil        | Short-term influencer - UP | Ship attacks on Strait of Hormuz |
+| Natural Gas      | Short-term influencer - UP | European nat-gas carryover     |
+| Wheat            | Short-term influencer - UP | Weather buying opportunity      |
+| Soybeans         | Short-term influencer - UP | Late session strength          |
+| Corn             | Short-term influencer - UP | Continued rally                |
+| Hogs             | Short-term influencer - DOWN | Mostly lower trade                |
+| Cattle           | Short-term influencer - DOWN | Lower trade on the day           |
+| Platinum         | Long-term influencer - DOWN | Bearish trends since January     |
+| Cotton           | Short-term influencer - UP | Extended rally                  |
+| Sugar            | Short-term influencer - DOWN | Long liquidation pressures       |
+| Cocoa            | Long-term influencer - UP | West African weather risks     |
+| Coffee           | Short-term influencer - DOWN | Profit-taking after surge       |
+| US Dollar        | Short-term influencer - UP | Weak stocks & hawkish comments |
