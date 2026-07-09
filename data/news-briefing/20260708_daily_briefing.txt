@@ -1,0 +1,148 @@
+News Briefing for: 2026-07-08
+Generated at: 2026-07-09 08:36:15
+LLM Used: DeepSeek (deepseek-reasoner)
+Source JSON: 20260708_barchart_all-commodities_news.json
+Cost info: Prompt tokens: 3899, Completion tokens: 5229, Total tokens: 9128
+Model Processing Time: 50.58 seconds
+
+---
+
+### Daily Financial Briefing: 20260708
+
+#### **Energy**
+
+1. **Crude Oil (WTI) & Gasoline**
+   - **Price Movement:** WTI crude closed up +$3.08 (+4.37%), RBOB gasoline closed up +$0.1495 (+5.06%).
+   - **Key Drivers:** Escalation of US-Iran hostilities (Articles 1, 10, 21); geopolitical risk premium; strategic reserve buildup (Article 8).
+   - **Reverse Factors:** Bears point to stagnating demand and depleting cheap reserves, which could cap further upside (Article 8).
+   - **Classification:** Short-term influencer - UP
+
+2. **Natural Gas**
+   - **Price Movement:** August Nymex closed down -$0.053 (-1.62%).
+   - **Key Drivers:** Outlook for a larger-than-normal increase in weekly US inventories (Article 11).
+   - **Reverse Factors:** None mentioned.
+   - **Classification:** Short-term influencer - DOWN
+
+#### **Grains**
+
+1. **Wheat**
+   - **Price Movement:** Chicago SRW down 7¾–10¾ cents; KC HRW down 5½–7¾ cents.
+   - **Key Drivers:** Weakness across the three wheat markets; no specific catalyst cited (Article 4).
+   - **Reverse Factors:** None mentioned.
+   - **Classification:** Unclear
+
+2. **Soybeans**
+   - **Price Movement:** Down fractionally to 5½ cents at the close.
+   - **Key Drivers:** “Buyers of the Chinese rumor were selling the fact” – profit-taking after earlier gains on Chinese demand speculation (Article 5).
+   - **Reverse Factors:** Early gains later faded; new-crop weakness noted at midday (Article 17).
+   - **Classification:** Short-term influencer - DOWN
+
+3. **Corn**
+   - **Price Movement:** Contracts down 3–8¾ cents.
+   - **Key Drivers:** Correction after rallying nearly 40 cents off the lows last week (Article 6).
+   - **Reverse Factors:** None mentioned.
+   - **Classification:** Short-term influencer - DOWN
+
+4. **Cotton**
+   - **Price Movement:** Contracts 6 to 73 points lower (modest weakness).
+   - **Key Drivers:** Correction from near limit gains earlier; no specific fundamental reason given (Article 1).
+   - **Reverse Factors:** Outside markets were stronger (crude oil up), which could have supported cotton but did not (Article 1).
+   - **Classification:** Unclear
+
+#### **Livestock**
+
+1. **Lean Hogs**
+   - **Price Movement:** Closed with gains of $1.05 to $3.87.
+   - **Key Drivers:** USDA national base hog price reported at $97.79, up $1.37 from the prior day; CME Lean Hog Index strength (Article 2).
+   - **Reverse Factors:** None mentioned.
+   - **Classification:** Short-term influencer - UP
+
+2. **Live Cattle**
+   - **Price Movement:** Contracts 35 to 85 cents lower.
+   - **Key Drivers:** Cash market slow with very little action early in the week; Fed Cattle Exchange auction lackluster (Article 3).
+   - **Reverse Factors:** None mentioned.
+   - **Classification:** Unclear
+
+#### **Softs**
+
+1. **Sugar**
+   - **Price Movement:** NY world sugar #11 closed down -0.03 (-0.20%); London white sugar #5 closed up +4.70 (+0.99%) – mixed.
+   - **Key Drivers:** NY sugar pressured by India’s monsoon rains improving (Article 12); London sugar supported by crude oil surge (Article 18).
+   - **Reverse Factors:** Crude oil rally could provide ethanol demand support (Article 18).
+   - **Classification:** Short-term influencer - DOWN (NY sugar)
+
+2. **Cocoa**
+   - **Price Movement:** NY cocoa closed up +293 (+5.09%); London cocoa up +228 (+5.35%).
+   - **Key Drivers:** West African crop concerns and weather risks pushing prices sharply higher for a third session (Articles 13, 19).
+   - **Reverse Factors:** None mentioned.
+   - **Classification:** Short-term influencer - UP
+
+3. **Coffee**
+   - **Price Movement:** Arabica closed down -7.80 (-2.46%); robusta closed down -131 (-3.38%).
+   - **Key Drivers:** Speculation that the recent rally was overdone; overbought conditions spurring technical selling (Articles 14, 20).
+   - **Reverse Factors:** None mentioned.
+   - **Classification:** Short-term influencer - DOWN
+
+#### **Currencies & Stocks**
+
+1. **US Dollar Index (DXY)**
+   - **Price Movement:** Fell by -0.05% on Wednesday.
+   - **Key Drivers:** Stocks rebounded from early sell-off, reducing liquidity demand for the dollar (Article 9).
+   - **Reverse Factors:** Middle East hostilities could boost safe-haven demand for the dollar (Article 22).
+   - **Classification:** Short-term influencer - DOWN
+
+2. **Plug Power (PLUG)**
+   - **Price Movement:** No price change reported.
+   - **Key Drivers:** Major green hydrogen win in Australia provides a fresh catalyst (Article 7).
+   - **Reverse Factors:** None mentioned.
+   - **Classification:** Unclear
+
+3. **Edison International**
+   - **Price Movement:** No price change reported.
+   - **Key Drivers:** Upcoming Q2 2026 earnings expected to show a single-digit rise in profits (Article 23).
+   - **Reverse Factors:** None mentioned.
+   - **Classification:** Unclear
+
+---
+
+### **Summary & Key Themes**
+- **Geopolitical tension dominates energy markets:** US-Iran hostilities drove crude oil and gasoline sharply higher, while natural gas fell on inventory outlook.
+- **Grains correct after recent rallies:** Corn and soybeans pulled back from earlier gains (Chinese rumor “sold the fact”), wheat weakened without clear catalyst.
+- **Softs mixed on weather and technical factors:** Cocoa surged on West African crop risks; coffee tumbled on profit-taking; sugar pressured by improved Indian monsoon but supported by crude.
+- **Livestock split:** Hogs rallied on firm cash prices, while cattle eased due to slow cash trade.
+- **Dollar slips as stocks rebound:** Equity recovery reduced safe-haven demand, though geopolitical risks provide a counterbalance.
+
+### **Risks Highlighted**
+1. Stagnating demand could cap further oil upside despite geopolitical floor (Article 8).
+2. Larger-than-normal US natural gas inventories weigh on nat‑gas prices (Article 11).
+3. Improving Indian monsoon rains may pressure sugar supply (Article 12).
+4. West African weather risks threaten cocoa output (Articles 13, 19).
+5. Overbought coffee conditions risk additional technical selling (Article 20).
+6. Slow cash cattle market suggests lack of bullish conviction (Article 3).
+
+### **Watch Next**
+1. Further developments in US-Iran hostilities and their impact on crude oil supply.
+2. Chinese demand for soybeans – whether the “rumor” of buying materializes.
+3. Weekly US natural gas storage report for inventory confirmation.
+4. Edison International’s Q2 2026 earnings release later this month.
+5. Crop weather updates for West Africa (cocoa) and India (sugar).
+
+---
+
+### **Price Movement Classification Table**
+| Product          | Classification          | Reason                      |
+|------------------|-------------------------|-----------------------------|
+| Crude Oil & Gasoline | Short-term influencer - UP | US-Iran geopolitical risk   |
+| Natural Gas      | Short-term influencer - DOWN | Larger inventory outlook    |
+| Wheat            | Unclear                 | No clear driver given       |
+| Soybeans         | Short-term influencer - DOWN | Sell‑the‑news (China rumor) |
+| Corn             | Short-term influencer - DOWN | Correction after rally      |
+| Cotton           | Unclear                 | No fundamental reason cited |
+| Lean Hogs        | Short-term influencer - UP | Strong cash price data      |
+| Live Cattle      | Unclear                 | Slow cash market            |
+| Sugar (NY)       | Short-term influencer - DOWN | Improved India monsoon      |
+| Cocoa            | Short-term influencer - UP | West African weather risks  |
+| Coffee           | Short-term influencer - DOWN | Overbought/profit-taking    |
+| US Dollar Index  | Short-term influencer - DOWN | Equity rebound reduces demand |
+| Plug Power       | Unclear                 | No price data provided      |
+| Edison International | Unclear              | No price data provided      |
