@@ -1,0 +1,139 @@
+News Briefing for: 2026-07-10
+Generated at: 2026-07-11 07:10:45
+LLM Used: DeepSeek (deepseek-reasoner)
+Source JSON: 20260710_barchart_all-commodities_news.json
+Cost info: Prompt tokens: 3471, Completion tokens: 5671, Total tokens: 9142
+Model Processing Time: 48.23 seconds
+
+---
+
+### Daily Financial Briefing: 20260710
+
+#### **Energy**
+1.  **Crude Oil**
+    - **Price Movement:** Closed down -0.67% to -1.22% (WTI); gasoline also declined.
+    - **Key Drivers:** US-Iran peace talks set to continue, reducing geopolitical risk premium.
+    - **Reverse Factors:** Fragile Middle East situation could escalate, reversing the decline if talks break down.
+    - **Classification:** Short-term influencer - DOWN
+
+2.  **Natural Gas**
+    - **Price Movement:** Closed down -2.39%, hitting a 1.5-month low.
+    - **Key Drivers:** Cooler US weather reducing cooling demand and ample supplies.
+    - **Reverse Factors:** Shoulder season is over; cooling demand is expected to increase natural gas requirements.
+    - **Classification:** Short-term influencer - DOWN
+
+#### **Grains**
+1.  **Wheat**
+    - **Price Movement:** Double-digit gains; Chicago SRW up 15¼ to 20¾ cents (closing).
+    - **Key Drivers:** Russian rumors (potential supply concerns) driving the rally.
+    - **Reverse Factors:** If rumors prove false or are resolved, gains could fade.
+    - **Classification:** Short-term influencer - UP
+
+2.  **Soybeans**
+    - **Price Movement:** Up fractionally to 16¾ cents; September weekly rally of 55½ cents.
+    - **Key Drivers:** USDA report better than expected, providing bullish support.
+    - **Reverse Factors:** Future supply data or revisions could alter the outlook.
+    - **Classification:** Short-term influencer - UP
+
+3.  **Corn**
+    - **Price Movement:** Up 2½ to 10¼ cents; September up 16½ cents.
+    - **Key Drivers:** Friendlier than expected USDA data (bullish report).
+    - **Reverse Factors:** 12 deliveries against July futures indicate potential selling pressure.
+    - **Classification:** Short-term influencer - UP
+
+#### **Livestock**
+1.  **Lean Hogs**
+    - **Price Movement:** Mixed; some contracts up 85 cents, others down 67 cents; August up 25 cents on the week.
+    - **Key Drivers:** USDA national base hog price rose $1.25 in the Friday PM report.
+    - **Reverse Factors:** Mixed trend suggests lack of clear direction; no specific reversal factor mentioned.
+    - **Classification:** Unclear
+
+2.  **Live Cattle**
+    - **Price Movement:** Losses of $1.05 to $1.30; August down $4.02 for the week.
+    - **Key Drivers:** No explicit driver given for the decline; cash trade picked up at $247-248.
+    - **Reverse Factors:** Stronger cash trade could support futures and reverse the decline.
+    - **Classification:** Unclear
+
+#### **Softs**
+1.  **Cotton**
+    - **Price Movement:** Gains of 45 to 99 points (closed higher).
+    - **Key Drivers:** Market shrugged off production increase from WASDE, having already accounted for larger acreage.
+    - **Reverse Factors:** The production hike itself remains a bearish factor that could reassert.
+    - **Classification:** Short-term influencer - UP
+
+2.  **Sugar**
+    - **Price Movement:** NY world sugar down -1.59%; London white sugar down -2.40%.
+    - **Key Drivers:** Weakness in crude oil spurred a slump in sugar prices (ethanol linkage).
+    - **Reverse Factors:** A recovery in crude oil could lift sugar prices.
+    - **Classification:** Short-term influencer - DOWN
+
+3.  **Cocoa**
+    - **Price Movement:** NY cocoa down -6.04%; London cocoa down -6.37%.
+    - **Key Drivers:** Robust cocoa supplies from Ivory Coast weighing on prices.
+    - **Reverse Factors:** Supply could tighten if arrival data changes; not explicitly mentioned.
+    - **Classification:** Long-term influencer - DOWN
+
+4.  **Coffee**
+    - **Price Movement:** Arabica down -3.92%; robusta down -4.72%.
+    - **Key Drivers:** Rising margin requirements hammering prices, forcing liquidation in volatile trading.
+    - **Reverse Factors:** Margin requirements may ease; volatile trading can swing in either direction.
+    - **Classification:** Short-term influencer - DOWN
+
+#### **Currencies & Stocks**
+1.  **Dollar Index (DXY)**
+    - **Price Movement:** Recovered from a 1-week low, closed up +0.07%.
+    - **Key Drivers:** Safe-haven demand due to fragile and uncertain situation in the Middle East (US-Iran risks).
+    - **Reverse Factors:** Successful peace talks could reduce safe-haven demand.
+    - **Classification:** Short-term influencer - UP
+
+2.  **Exelon**
+    - **Price Movement:** No price data provided (earnings preview).
+    - **Key Drivers:** Analysts anticipate double-digit bottom-line growth in Q2 2026 earnings.
+    - **Reverse Factors:** Earnings could miss expectations.
+    - **Classification:** Unclear
+
+3.  **Ameren**
+    - **Price Movement:** No price data provided (earnings preview).
+    - **Key Drivers:** Analysts anticipate single-digit bottom-line growth in upcoming earnings.
+    - **Reverse Factors:** Earnings could disappoint.
+    - **Classification:** Unclear
+
+---
+
+### **Summary & Key Themes**
+- **USDA Reports Fuel Grains Rally:** Corn, soybeans, and wheat all posted gains on Friday, driven by friendlier-than-expected USDA data (corn, soybeans) and Russian supply rumors (wheat).
+- **Geopolitical Crosscurrents:** The fragile Middle East situation boosted safe-haven demand for the dollar, while ongoing US-Iran peace talks pressured crude oil prices.
+- **Softs Under Pressure:** Cocoa fell sharply on robust Ivory Coast supplies; coffee declined due to rising margin requirements; sugar slumped in sympathy with crude oil weakness.
+- **Livestock Mixed to Lower:** Lean hogs were mixed despite higher cash hog prices; live cattle fell even as cash trade picked up.
+
+### **Risks Highlighted**
+1. US-Iran peace talks could break down, reversing crude oil’s decline and the dollar’s safe-haven bid.
+2. Robust cocoa supplies from Ivory Coast may persist, keeping cocoa prices under pressure.
+3. Rising margin requirements in coffee could trigger further volatile sell-offs.
+4. Cooler weather may continue to depress natural gas demand, extending the 1.5-month low.
+5. Cotton’s production increase (WASDE) could weigh on prices if demand does not keep pace.
+
+### **Watch Next**
+1. Exelon and Ameren earnings releases later this month (July 2026).
+2. Further developments in US-Iran peace talks and their impact on crude oil and the dollar.
+3. US weather forecasts, as cooling demand is expected to increase natural gas requirements.
+
+---
+
+### **Price Movement Classification Table**
+| Product          | Classification          | Reason                      |
+|------------------|-------------------------|-----------------------------|
+| Crude Oil        | Short-term influencer - DOWN | Peace talks reducing risk premium |
+| Natural Gas      | Short-term influencer - DOWN | Cooler weather & ample supplies |
+| Wheat            | Short-term influencer - UP | Russian rumors of supply concern |
+| Soybeans         | Short-term influencer - UP | Better-than-expected USDA report |
+| Corn             | Short-term influencer - UP | Bull-friendly USDA data |
+| Lean Hogs        | Unclear                 | Mixed price trend            |
+| Live Cattle      | Unclear                 | Decline despite cash strength |
+| Cotton           | Short-term influencer - UP | Shrugged off production hike |
+| Sugar            | Short-term influencer - DOWN | Weakness in crude oil |
+| Cocoa            | Long-term influencer - DOWN | Robust Ivory Coast supplies |
+| Coffee           | Short-term influencer - DOWN | Rising margin requirements |
+| Dollar Index     | Short-term influencer - UP | Safe-haven from Middle East risks |
+| Exelon           | Unclear                 | No price movement data       |
+| Ameren           | Unclear                 | No price movement data       |
