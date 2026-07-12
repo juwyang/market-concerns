@@ -1,0 +1,35 @@
+News Briefing for: 2026-07-11
+Generated at: 2026-07-12 07:26:48
+LLM Used: DeepSeek (deepseek-reasoner)
+Source JSON: 20260711_barchart_all-commodities_news.json
+Cost info: Prompt tokens: 1196, Completion tokens: 837, Total tokens: 2033
+Model Processing Time: 8.76 seconds
+
+---
+
+### Daily Financial Briefing: 20260711
+
+#### **Currencies & Stocks**
+1.  **FuelCell Energy (FCEL)**
+    - **Price Movement:** Declined significantly (sell-off) following the news.
+    - **Key Drivers:** Pricing of a $225 million upsized public offering, leading to dilution concerns and immediate selling pressure.
+    - **Reverse Factors:** No counter-arguments mentioned in the article. Potential future use of proceeds for growth initiatives could support the stock, but this is not discussed.
+    - **Classification:** Short-term influencer - DOWN
+
+---
+
+### **Summary & Key Themes**
+- A single major corporate action (upsized equity offering) drove a sell-off in FuelCell Energy stock, reflecting immediate dilution concerns.
+
+### **Risks Highlighted**
+1. Dilution risk from the $225 million upsized public offering, which pressured the stock price.
+
+### **Watch Next**
+1. No upcoming events or indicators were mentioned in the provided articles; monitor the completion of the offering and any subsequent company updates on use of proceeds.
+
+---
+
+### **Price Movement Classification Table**
+| Product          | Classification          | Reason                      |
+|------------------|-------------------------|-----------------------------|
+| FuelCell Energy (FCEL) | Short-term influencer - DOWN | Upsized public offering    |
