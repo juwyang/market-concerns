@@ -1,0 +1,137 @@
+News Briefing for: 2026-07-14
+Generated at: 2026-07-15 07:13:35
+LLM Used: DeepSeek (deepseek-reasoner)
+Source JSON: 20260714_barchart_all-commodities_news.json
+Cost info: Prompt tokens: 4363, Completion tokens: 3380, Total tokens: 7743
+Model Processing Time: 36.21 seconds
+
+---
+
+### Daily Financial Briefing: 20260714
+
+#### **Energy**
+1.  **Crude Oil & Gasoline**
+    - **Price Movement:** Rose significantly. August WTI crude closed up +1.20 (+1.54%), and August RBOB gasoline closed up +0.0610 (+1.93%). Earlier in the day, crude was up +0.81 (+1.04%) and gasoline up +0.0466 (+1.47%).
+    - **Key Drivers:** The primary driver is the collapse of the US-Iran truce and continued US-Iran hostilities, which added to Monday’s gains and pushed crude to a 1-month high.
+    - **Reverse Factors:** The benign US CPI report weakened the dollar, which can provide a supportive tailwind for commodities but a dovish Fed policy could be a factor. A potential de-escalation of geopolitical tensions could reverse the upward trend.
+    - **Classification:** `Short-term influencer - UP`
+
+2.  **Natural Gas**
+    - **Price Movement:** Rose slightly. August Nymex natural gas closed up +0.007 (+0.24%), consolidating above Monday’s 2-month low.
+    - **Key Drivers:** The price rise was linked to consolidation above a recent low, and the outlook for cooler US temperatures.
+    - **Reverse Factors:** The consolidation and the fact that prices are near a 2-month low suggests limited upward momentum. A warmer temperature forecast could reverse this slight gain.
+    - **Classification:** `Short-term influencer - UP`
+
+#### **Grains**
+1.  **Corn**
+    - **Price Movement:** Declined modestly. Futures closed with contracts down ¾ to 2 ¾ cents. At midday, contracts were down 2 to 2 ½ cents. Earlier in the morning, prices were down 5 to 6 cents.
+    - **Key Drivers:** Losses were driven by improving crop conditions, as noted by crop ratings improving and lower cash prices.
+    - **Reverse Factors:** The market recovered from early lows, suggesting support may be present. The expiration of July futures could lead to increased volatility.
+    - **Classification:** `Short-term influencer - DOWN`
+
+2.  **Soybeans**
+    - **Price Movement:** Declined moderately. Contracts closed 1 to 4 cents lower. At midday, losses were 1 to 3 ¼ cents. The national average Cash Bean price was down 3 ¾ cents to $11.46.
+    - **Key Drivers:** Prices slipped lower as crop conditions were seen recovering. Soymeal and Soy Oil futures were also weaker.
+    - **Reverse Factors:** July soybeans expired with a gain, and open interest suggested new buying earlier in the week, indicating some underlying support.
+    - **Classification:** `Short-term influencer - DOWN`
+
+3.  **Wheat**
+    - **Price Movement:** Rose. The wheat complex posted gains across all three exchanges. Chicago SRW contracts were up 4 1/4 to 9 3/4 cents. KC HRW futures were 7 1/2 to 11 3/4 cents higher. At midday, gains were 10 to 12 cents.
+    - **Key Drivers:** Wheat extended its strength, rallying across the board. (No specific fundamental driver is cited in the provided articles beyond the price action).
+    - **Reverse Factors:** Earlier in the day, wheat was showing losses, suggesting the uptrend may be fragile. Profit-taking could occur after the recent strength.
+    - **Classification:** `Unclear`
+
+#### **Livestock**
+1.  **Lean Hogs**
+    - **Price Movement:** Mixed. Futures closed with contracts up 35 cents to 40 cents lower. The USDA national base hog price was reported at $98.56, down 22 cents from the prior day.
+    - **Key Drivers:** The market was mixed, with weakness in the cash market (base price down) and mixed performance in futures.
+    - **Reverse Factors:** The CME Lean Hog Index and other contract months showed some gains, indicating a lack of a clear directional trend.
+    - **Classification:** `Unclear`
+
+2.  **Live Cattle**
+    - **Price Movement:** Fell. Futures closed down $1.60 to $3.30 on Tuesday. At midday, losses were $2.25 to $2.90. Cash trade has not yet started for the week.
+    - **Key Drivers:** Continued weakness was attributed to a slide in beef prices and lower cash trade expectations. Last week’s cash trade was $7-8 lower.
+    - **Reverse Factors:** Feeder cattle futures were up, which could signal a potential recovery in live cattle prices if the trend continues.
+    - **Classification:** `Short-term influencer - DOWN`
+
+#### **Softs**
+1.  **Cotton**
+    - **Price Movement:** Declined moderately. Futures ended Tuesday down 23 to 74 points. At midday, contracts were up 27 to 40 points.
+    - **Key Drivers:** The market slipped lower into the close despite a midday bounce. Strength in the US dollar index acted as a headwind.
+    - **Reverse Factors:** The midday bounce showed intraday strength, and crude oil was up, which can provide support. The market had been back to higher trade at midday.
+    - **Classification:** `Unclear`
+
+2.  **Coffee**
+    - **Price Movement:** Mixed and volatile. September arabica coffee closed down -3.90 (-1.18%), while September robusta coffee closed up +15 (+0.39%). Earlier in the day, prices were moving sharply higher, with arabica up +11.00 (+3.33%) and robusta up +116 (+3.03%).
+    - **Key Drivers:** Volatility and mixed settlement. Earlier, prices jumped on Brazilian Real strength. After a correction from the October 2025 record high, coffee found a bottom and exploded over $1 higher in July.
+    - **Reverse Factors:** The sharp intraday pullback from highs suggests volatility and potential profit-taking. The market had posted 5.5-month highs recently, which can lead to profit-taking.
+    - **Classification:** `Unclear`
+
+3.  **Sugar**
+    - **Price Movement:** Rose. October NY world sugar #11 closed up +0.13 (+0.88%). August London white sugar #5 closed up +0.30 (+0.06%).
+    - **Key Drivers:** Prices settled higher after Brazil approved a higher ethanol blend in gasoline, which can divert more sugarcane to ethanol production, reducing sugar supply.
+    - **Reverse Factors:** The move was relatively small and could be subject to profit-taking if the ethanol policy does not significantly alter supply expectations.
+    - **Classification:** `Short-term influencer - UP`
+
+4.  **Cocoa**
+    - **Price Movement:** Fell. September NY cocoa closed down -36 (-0.62%), and September London cocoa closed down -21 (-0.48%).
+    - **Key Drivers:** Prices moved lower for a third session amid ample supplies from Ivory Coast.
+    - **Reverse Factors:** The supply concerns have eased, but any disruption to Ivory Coast supply could reverse the current trend.
+    - **Classification:** `Long-term influencer - DOWN`
+
+#### **Currencies & Stocks**
+1.  **US Dollar (DXY00)**
+    - **Price Movement:** Declined. The dollar index fell by -0.32% on Tuesday and was down -0.55% for the day.
+    - **Key Drivers:** The dollar retreated after the US June CPI report was benign (rose less than expected), a dovish factor for Fed policy.
+    - **Reverse Factors:** A future hawkish shift in Fed rhetoric or stronger economic data could reverse the dollar’s decline.
+    - **Classification:** `Short-term influencer - DOWN`
+
+2.  **Gold**
+    - **Price Movement:** Rallied. The articles state that gold rallied as the US CPI report trailed estimates.
+    - **Key Drivers:** The benign CPI report, which weakened the dollar and is a dovish factor for Fed policy.
+    - **Reverse Factors:** A stronger dollar or a more hawkish Fed stance in the future could weigh on gold prices.
+    - **Classification:** `Short-term influencer - UP`
+
+3.  **Bloom Energy (BE)**
+    - **Price Movement:** Fell sharply before recovering. Shares fell as much as 12% after a short seller report before recovering.
+    - **Key Drivers:** Short seller Hunterbrook alleged that Bloom Energy downplayed its reliance on Chinese supply chains for scandium oxide, a key input for its fuel cells.
+    - **Reverse Factors:** The stock recovered from its lows, indicating that the market may not fully believe the allegations or sees value at the lower price.
+    - **Classification:** `Short-term influencer - DOWN`
+
+---
+
+### **Summary & Key Themes**
+- **Geopolitical Tensions Drive Energy:** The collapse of the US-Iran truce pushed crude oil and gasoline prices to multi-week highs.
+- **Benign US CPI Weakens Dollar, Boosts Gold:** The lower-than-expected June CPI report caused a decline in the US dollar and a rally in gold, suggesting expectations of a less hawkish Fed.
+- **Mixed to Lower Agricultural Commodities:** Grain markets (corn, soybeans) slipped on improved crop conditions, while livestock (cattle) continued to fall on weak beef prices. Wheat was an outlier, posting gains.
+- **Soft Commodities Show Divergent Trends:** Sugar rose on a policy change in Brazil, cocoa fell on ample supply, and coffee experienced significant volatility.
+
+### **Risks Highlighted**
+1. **Supply Chain Disruption Risk:** Bloom Energy faces a risk from its reliance on Chinese supply chains for a key input, which could lead to production issues or reputational damage.
+2. **Geopolitical Risk:** The ongoing US-Iran hostilities present a direct risk to crude oil supply and can further escalate, driving prices higher.
+3. **Demand Shock Risk:** While not directly stated, the benign CPI report could signal weaker-than-expected economic growth, which could reduce demand for commodities.
+
+### **Watch Next**
+1. **Further US-Iran Developments:** The status of the truce and potential for further escalation will be a key driver for crude oil.
+2. **Future US Economic Data:** The benign CPI report will keep markets focused on upcoming data to gauge the Fed's next move.
+3. **Crop Progress Reports:** The improvement in crop ratings for corn and soybeans will continue to be monitored to assess the final yield outlook.
+
+---
+
+### **Price Movement Classification Table**
+| Product            | Classification            | Reason                       |
+|--------------------|---------------------------|------------------------------|
+| Crude Oil          | Short-term influencer - UP | US-Iran truce collapse       |
+| Natural Gas        | Short-term influencer - UP | Consolidation above low / weather outlook |
+| Corn               | Short-term influencer - DOWN | Improving crop conditions    |
+| Soybeans           | Short-term influencer - DOWN | Improving crop conditions    |
+| Wheat              | Unclear                   | No clear driver cited        |
+| Lean Hogs          | Unclear                   | Mixed market and cash prices |
+| Live Cattle        | Short-term influencer - DOWN | Continued beef price slide   |
+| Cotton             | Unclear                   | Mixed day, bounce and close weak |
+| Coffee             | Unclear                   | Mixed, volatile trade        |
+| Sugar              | Short-term influencer - UP | Brazil ethanol blend increase |
+| Cocoa              | Long-term influencer - DOWN | Ample Ivory Coast supplies   |
+| US Dollar          | Short-term influencer - DOWN | Benign US CPI report         |
+| Gold               | Short-term influencer - UP | Benign US CPI report         |
+| Bloom Energy       | Short-term influencer - DOWN | Short seller attack on supply chain |
