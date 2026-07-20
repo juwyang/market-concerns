@@ -1,0 +1,50 @@
+News Briefing for: 2026-07-19
+Generated at: 2026-07-20 07:56:08
+LLM Used: DeepSeek (deepseek-reasoner)
+Source JSON: 20260719_barchart_all-commodities_news.json
+Cost info: Prompt tokens: 1183, Completion tokens: 555, Total tokens: 1738
+Model Processing Time: 5.49 seconds
+
+---
+
+### Daily Financial Briefing: 20260719
+
+#### **Energy**
+*No articles provided for this category.*
+
+#### **Grains**
+*No articles provided for this category.*
+
+#### **Livestock**
+1.  **US Cattle**
+    - **Price Movement:** Not specified in the provided article.
+    - **Key Drivers:** The article describes US cattle markets as "a riddle, wrapped in a mystery, inside an enigma," implying complexity and lack of clarity.
+    - **Reverse Factors:** No specific reverse factors are mentioned.
+    - **Classification:** Unclear
+
+#### **Metals**
+*No articles provided for this category.*
+
+#### **Softs**
+*No articles provided for this category.*
+
+#### **Currencies & Stocks**
+*No articles provided for this category.*
+
+---
+
+### **Summary & Key Themes**
+- The only article available characterizes US cattle markets as highly ambiguous and difficult to interpret.
+
+### **Risks Highlighted**
+1. Uncertainty surrounding US cattle market dynamics, as highlighted by the "enigma" description.
+
+### **Watch Next**
+1. Further news or reports that could clarify the drivers behind US cattle price movements.
+
+---
+
+### **Price Movement Classification Table**
+| Product    | Classification | Reason                  |
+|------------|----------------|-------------------------|
+| US Cattle  | Unclear        | No specific data given. |
