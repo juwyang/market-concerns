@@ -1,0 +1,127 @@
+News Briefing for: 2026-07-20
+Generated at: 2026-07-21 07:31:15
+LLM Used: DeepSeek (deepseek-reasoner)
+Source JSON: 20260720_barchart_all-commodities_news.json
+Cost info: Prompt tokens: 4369, Completion tokens: 5336, Total tokens: 9705
+Model Processing Time: 46.48 seconds
+
+---
+
+### Daily Financial Briefing: 20260720
+
+#### **Energy**
+1. **Crude Oil (WTI)**
+   - **Price Movement:** August WTI crude oil closed up +0.74 (+0.90%). August RBOB gasoline closed down -0.0037 (-0.11%).
+   - **Key Drivers:** Escalation of hostilities between the US and Iran boosted crude oil prices, raising inflation expectations and supporting the dollar.
+   - **Reverse Factors:** A possible US-Iran truce proposal reported by Reuters erased early gains, suggesting potential for a sharp reversal if diplomatic progress is made.
+   - **Classification:** Short-term influencer - UP
+
+2. **Natural Gas**
+   - **Price Movement:** August Nymex natural gas closed down -0.051 (-1.75%), just above last Thursday’s 2-month low.
+   - **Key Drivers:** Prices retreated under pressure from concerns over a tropical storm risk, which could reduce demand.
+   - **Reverse Factors:** No specific counter-factors mentioned; a storm could alternatively disrupt supply.
+   - **Classification:** Short-term influencer - DOWN
+
+#### **Grains**
+1. **Corn**
+   - **Price Movement:** Corn futures closed with gains of 2 to 5 ½ cents. National average cash corn price up a nickel at $4.18 ¾.
+   - **Key Drivers:** Strength from a USDA-reported private export sale of 100,000 MT of corn. The market also started the week with momentum.
+   - **Reverse Factors:** Prices slipped back from the highs during the session, indicating potential profit-taking.
+   - **Classification:** Short-term influencer - UP
+
+2. **Soybeans**
+   - **Price Movement:** Soybeans rallied, with contracts posting gains of 20 to 23 ¼ cents (other contracts up 10 ¾ to 18 ¼ cents). National average cash bean price up 23 ¼ cents.
+   - **Key Drivers:** Rally driven by more export business; also rebounded from Thursday’s losses.
+   - **Reverse Factors:** No specific reverse factors mentioned; potential for profit-taking after the strong move.
+   - **Classification:** Short-term influencer - UP
+
+3. **Wheat**
+   - **Price Movement:** Wheat complex mostly lower. Chicago SRW contracts fell 4 ¼ to 8 ¾ cents. KC HRW futures were down 4 ¼ to 5 cents (midday). Spring wheat held up.
+   - **Key Drivers:** Winter wheat weakness weighed on the complex; no explicit fundamental driver provided in the articles.
+   - **Reverse Factors:** Modest morning strength and spring wheat resilience suggest possible rotation, but the close was lower.
+   - **Classification:** Unclear
+
+#### **Livestock**
+1. **Cattle**
+   - **Price Movement:** Live cattle futures closed $2.10 to $3.10 higher on Monday. Feeder cattle also moved higher.
+   - **Key Drivers:** Bounce higher following last week’s losses. Cash trade has yet to begin for the new week, and beef prices showed a midday bounce.
+   - **Reverse Factors:** Previous week’s cash trade settled lower ($238–240 in the north, $237–238 in the south); the “trainwreck” narrative suggests underlying weakness.
+   - **Classification:** Short-term influencer - UP
+
+2. **Lean Hogs**
+   - **Price Movement:** Lean hog futures were mixed: front months down as much as 37 cents, other contracts up as much as $1.07.
+   - **Key Drivers:** Mixed action with no single driver cited. USDA national base hog price reported at $98.89, down from Friday’s $99.32.
+   - **Reverse Factors:** Seasonal pattern (October hogs tend to decline July 22–August 3 in 14 of 15 years) and softening summer demand could pressure prices.
+   - **Classification:** Unclear
+
+#### **Softs**
+1. **Cotton**
+   - **Price Movement:** Cotton futures up 9 to 37 points across most contracts at the close. Earlier in the day gains were larger (34–63 points midday, 130–145 points morning).
+   - **Key Drivers:** Support from rising crude oil prices and a slightly higher US dollar index. Monday afternoon’s Crop Progress report showed 73% of... (text cut off).
+   - **Reverse Factors:** The stronger dollar is typically a headwind for cotton; also managed money positions may shift.
+   - **Classification:** Short-term influencer - UP
+
+2. **Sugar**
+   - **Price Movement:** October NY world sugar #11 closed down -0.01 (-0.13%); London white sugar #5 closed down -2.70 (-0.57%).
+   - **Key Drivers:** Dollar strength and earlier crude oil weakness pressured prices. The market consolidated recent losses.
+   - **Reverse Factors:** No specific reverse factors mentioned; crude oil later closed higher, which could support sugar.
+   - **Classification:** Short-term influencer - DOWN
+
+3. **Cocoa**
+   - **Price Movement:** September ICE NY cocoa closed down -13 (-0.23%); London cocoa #7 closed up +1 (+0.02%).
+   - **Key Drivers:** Prices under modest pressure from a stronger dollar and rising ICE inventories.
+   - **Reverse Factors:** London cocoa managed a slight gain, indicating some divergence.
+   - **Classification:** Short-term influencer - DOWN
+
+4. **Coffee**
+   - **Price Movement:** September arabica coffee closed up +4.25 (+1.33%); robusta coffee up +7 (+0.18%).
+   - **Key Drivers:** Supported by delays in Brazil’s coffee harvest, pushing prices higher despite a stronger dollar.
+   - **Reverse Factors:** No specific reverse factors mentioned; harvest progress could resume.
+   - **Classification:** Short-term influencer - UP
+
+#### **Currencies & Stocks**
+1. **US Dollar Index**
+   - **Price Movement:** Dollar index (DXY00) rose by +0.18% (+0.17% per another article) on Monday.
+   - **Key Drivers:** Strength driven by higher T-note yields and rising crude oil prices (due to US-Iran hostilities), which raised inflation expectations.
+   - **Reverse Factors:** A possible US-Iran truce proposal could reduce crude prices and inflation expectations, weakening the dollar.
+   - **Classification:** Short-term influencer - UP
+
+---
+
+### **Summary & Key Themes**
+- **Geopolitical Tensions Drive Markets:** Escalation of US-Iran hostilities boosted crude oil and the dollar, with a potential truce proposal adding uncertainty.
+- **Grains Rally on Export Demand:** Corn and soybeans gained on private export sales and renewed buying, while wheat slipped lower.
+- **Livestock Rebounds After Weak Week:** Cattle bounced sharply from last week’s losses; hogs were mixed with seasonal headwinds looming.
+- **Softs Mixed:** Coffee rose on Brazil harvest delays, but sugar and cocoa fell under dollar strength; cotton eked out gains aided by crude oil.
+- **Dollar Strength a Common Thread:** The stronger dollar weighed on several commodities (sugar, cocoa) but was offset by other factors for crude oil and cotton.
+
+### **Risks Highlighted**
+1. **Potential US-Iran Truce:** A truce proposal could reverse crude oil gains and weaken the dollar, impacting multiple markets.
+2. **Tropical Storm Risk for Natural Gas:** Concern that a storm could reduce demand, pressuring nat-gas prices further.
+3. **Seasonal Hog Weakness:** October hogs historically decline in late July/early August due to softening demand and expanding supply.
+4. **Rising Cocoa Inventories:** Increasing ICE inventories add to downward pressure on cocoa prices.
+
+### **Watch Next**
+1. **Crop Progress Reports:** Monday’s (and upcoming) USDA data on cotton, corn, and soybeans.
+2. **Cash Cattle Trade:** This week’s cash trade levels will indicate if the cattle bounce is sustainable.
+3. **Brazil Coffee Harvest Progress:** Delays are supporting coffee; any acceleration could reverse gains.
+4. **US-Iran Diplomatic Developments:** Any truce announcement could shift crude oil and dollar trends.
+5. **Earnings Reports:** Atmos Energy and NiSource earnings releases are upcoming (no specific date given).
+
+---
+
+### **Price Movement Classification Table**
+| Product          | Classification          | Reason                      |
+|------------------|-------------------------|-----------------------------|
+| Crude Oil (WTI)  | Short-term influencer - UP | US-Iran escalation       |
+| Natural Gas      | Short-term influencer - DOWN | Tropical storm risk      |
+| Corn             | Short-term influencer - UP | Export sale news          |
+| Soybeans         | Short-term influencer - UP | Export business           |
+| Wheat            | Unclear                 | No clear driver           |
+| Cattle           | Short-term influencer - UP | Technical bounce          |
+| Lean Hogs        | Unclear                 | Mixed action              |
+| Cotton           | Short-term influencer - UP | Crude oil support         |
+| Sugar            | Short-term influencer - DOWN | Dollar strength           |
+| Cocoa            | Short-term influencer - DOWN | Dollar strength, inventories |
+| Coffee           | Short-term influencer - UP | Brazil harvest delay      |
+| US Dollar Index  | Short-term influencer - UP | Geopolitical tensions     |
