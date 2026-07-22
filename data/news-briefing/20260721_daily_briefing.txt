@@ -1,0 +1,138 @@
+News Briefing for: 2026-07-21
+Generated at: 2026-07-22 07:32:53
+LLM Used: DeepSeek (deepseek-reasoner)
+Source JSON: 20260721_barchart_all-commodities_news.json
+Cost info: Prompt tokens: 3561, Completion tokens: 3372, Total tokens: 6933
+Model Processing Time: 29.23 seconds
+
+---
+
+### Daily Financial Briefing: 20260721
+
+#### **Energy**
+1.  **Crude Oil (WTI)**
+    - **Price Movement:** Rose significantly. August WTI crude oil closed up +1.68 (+2.02%), reaching a 5-week high.
+    - **Key Drivers:** Escalation of hostilities between the US and Iran, raising threats to global crude supplies and boosting inflation expectations.
+    - **Reverse Factors:** A potential de-escalation of US-Iran tensions would remove a key supply risk, possibly reversing gains.
+    - **Classification:** Short-term influencer - UP
+
+2.  **Natural Gas**
+    - **Price Movement:** Rose slightly. August Nymex natural gas closed up +0.005 (+0.17%), consolidating above a recent 2.25-month low.
+    - **Key Drivers:** Prices fluctuated on tropical storm risk.
+    - **Reverse Factors:** The article notes prices are under pressure from other factors.
+    - **Classification:** Short-term influencer - UP
+
+#### **Grains**
+1.  **Wheat**
+    - **Price Movement:** Rose. Chicago SRW contracts were up 4 to 5 cents, KC HRW futures up 9 to 10 ½ cents.
+    - **Key Drivers:** Shrugging off early weakness, with bulls powering through for midday gains.
+    - **Reverse Factors:** Profit-taking or renewed weakness could occur after the late rally.
+    - **Classification:** Short-term influencer - UP
+
+2.  **Soybeans**
+    - **Price Movement:** Declined moderately. Posted Turnaround Tuesday losses of 3 to 6 1/2 cents.
+    - **Key Drivers:** Turnaround Tuesday price action.
+    - **Reverse Factors:** The article notes prices pulled off early lows, suggesting underlying support.
+    - **Classification:** Short-term influencer - DOWN
+
+3.  **Corn**
+    - **Price Movement:** Rose slightly. Futures were up 2 to 3 ¼ cents across the front months.
+    - **Key Drivers:** Found strength late in the session, with the national average Cash Corn price up 3 ¼ cents at $4.21.
+    - **Reverse Factors:** Early morning trade saw prices slipping back, indicating initial weakness.
+    - **Classification:** Short-term influencer - UP
+
+#### **Livestock**
+1.  **Lean Hogs**
+    - **Price Movement:** Rose modestly. Futures were up 17 to 42 cents. The national base hog price rose $1.33 to $100.22.
+    - **Key Drivers:** Modest strength in the market.
+    - **Reverse Factors:** No specific reverse factors were mentioned in the source text.
+    - **Classification:** Unclear
+
+2.  **Live Cattle**
+    - **Price Movement:** Mixed to slightly lower. Futures were down 10 to 30 cents in modest Turnaround Tuesday weakness.
+    - **Key Drivers:** Turnaround Tuesday weakness. Cash trade has yet to kick off for the week.
+    - **Reverse Factors:** The resumption of cash trade later in the week could provide price support.
+    - **Classification:** Short-term influencer - DOWN
+
+#### **Metals**
+1.  **Gold**
+    - **Price Movement:** Declined (plunged). The article describes prices as "fading away" despite persistent inflation.
+    - **Key Drivers:** The article implies that persistent inflation is not enough to support prices.
+    - **Reverse Factors:** The continued inflationary pressure cited in the article could eventually support gold prices.
+    - **Classification:** Short-term influencer - DOWN
+
+#### **Softs**
+1.  **Cotton**
+    - **Price Movement:** Rose significantly. Futures rallied, with contracts 145 to 159 points higher.
+    - **Key Drivers:** Higher crude oil prices and a stronger US dollar index.
+    - **Reverse Factors:** A reversal in crude oil prices or the dollar could remove support.
+    - **Classification:** Short-term influencer - UP
+
+2.  **Sugar**
+    - **Price Movement:** Rose. October NY world sugar #11 closed up +0.06 (+0.40%), and London white sugar closed up +0.45%.
+    - **Key Drivers:** Supported by strength in crude oil prices.
+    - **Reverse Factors:** A decline in crude oil prices would remove key support.
+    - **Classification:** Short-term influencer - UP
+
+3.  **Cocoa**
+    - **Price Movement:** Rose. September NY cocoa closed up +87 (+1.58%), and London cocoa closed up +1.86%.
+    - **Key Drivers:** Short covering as prices consolidated above last week’s lows.
+    - **Reverse Factors:** A lack of fundamental support could limit further gains once short covering ends.
+    - **Classification:** Short-term influencer - UP
+
+4.  **Coffee (Arabica & Robusta)**
+    - **Price Movement:** Declined. September arabica coffee closed down -2.45 (-0.75%), and robusta coffee closed down -66 (-1.70%).
+    - **Key Drivers:** Forecasts for dry weather in Brazil erased early gains.
+    - **Reverse Factors:** A forecast for rains in Brazil, which could delay harvest, had earlier pushed arabica prices higher.
+    - **Classification:** Short-term influencer - DOWN
+
+#### **Currencies & Stocks**
+1.  **US Dollar Index (DXY)**
+    - **Price Movement:** Rose slightly. The dollar index rose by +0.23% on Tuesday.
+    - **Key Drivers:** Higher crude oil prices due to US-Iran hostilities, which raises inflation expectations.
+    - **Reverse Factors:** A de-escalation of geopolitical tensions could lead to a decline in crude and the dollar.
+    - **Classification:** Short-term influencer - UP
+
+2.  **Fervo Energy (FRVO)**
+    - **Price Movement:** No specific price movement for the day was given. The article notes that Jefferies has flipped bullish, giving the stock a new 'Buy' rating.
+    - **Key Drivers:** Analyst upgrade from Jefferies.
+    - **Reverse Factors:** The article notes the stock has "stumbled since its IPO," indicating prior weakness.
+    - **Classification:** Unclear
+
+---
+
+### **Summary & Key Themes**
+- **Geopolitical Tensions Drive Crude & Dollar:** The escalation of US-Iran hostilities is the dominant theme, pushing crude oil prices higher and supporting the US dollar.
+- **Crude Oil Spillover Effect:** Rising crude oil prices are providing support to other commodities, particularly sugar and cotton.
+- **Mixed Grains & Livestock:** Grains showed a mixed performance with wheat and corn rallying late, while soybeans eased. Livestock was also mixed, with hogs showing modest strength and cattle slipping.
+- **Weather and Technical Factors Key for Softs:** Cocoa is being driven by short covering, while coffee prices reversed on weather forecasts for Brazil.
+
+### **Risks Highlighted**
+1. **Escalation of US-Iran Hostilities:** A further escalation could disrupt global crude supplies and fuel inflation.
+2. **Weather Uncertainty:** Tropical storm risk for natural gas and dry weather forecasts for coffee in Brazil pose risks to supply.
+3. **Persistent Inflation:** While gold is falling, the article notes persistent inflation is a drag on the global economy.
+
+### **Watch Next**
+1. **US-Iran Conflict Developments:** Any news on de-escalation or further hostilities will be key for crude oil and the dollar.
+2. **Cash Cattle Trade:** The market is waiting for cash trade to kick off this week to gauge demand.
+3. **Weather Forecasts:** Tropical storm developments and Brazilian weather (for coffee and sugar) remain important near-term catalysts.
+
+---
+
+### **Price Movement Classification Table**
+| Product | Classification | Reason |
+|---|---|---|
+| Crude Oil (WTI) | Short-term influencer - UP | US-Iran conflict |
+| Natural Gas | Short-term influencer - UP | Tropical storm risk |
+| Wheat | Short-term influencer - UP | Late-session rally |
+| Soybeans | Short-term influencer - DOWN | Turnaround Tuesday |
+| Corn | Short-term influencer - UP | Late-session strength |
+| Lean Hogs | Unclear | Modest strength |
+| Live Cattle | Short-term influencer - DOWN | Turnaround Tuesday weakness |
+| Gold | Short-term influencer - DOWN | Fading despite inflation |
+| Cotton | Short-term influencer - UP | Crude oil, dollar support |
+| Sugar | Short-term influencer - UP | Crude oil strength |
+| Cocoa | Short-term influencer - UP | Short covering |
+| Coffee (Arabica/Robusta) | Short-term influencer - DOWN | Brazil dry weather forecast |
+| US Dollar Index | Short-term influencer - UP | Higher crude prices |
+| Fervo Energy (FRVO) | Unclear | Analyst upgrade |
