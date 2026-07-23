@@ -1,0 +1,130 @@
+News Briefing for: 2026-07-22
+Generated at: 2026-07-23 07:31:21
+LLM Used: DeepSeek (deepseek-reasoner)
+Source JSON: 20260722_barchart_all-commodities_news.json
+Cost info: Prompt tokens: 4399, Completion tokens: 2781, Total tokens: 7180
+Model Processing Time: 29.51 seconds
+
+---
+
+### Daily Financial Briefing: 20260722
+
+#### **Energy**
+1.  **Crude Oil**
+    - **Price Movement:** Rose significantly. September WTI crude oil closed up +2.49 (+2.95%), and September RBOB gasoline closed up +0.0186 (+0.58%). Crude posted a 6-week high.
+    - **Key Drivers:** Escalating global supply risks underpinned prices.
+    - **Reverse Factors:** The articles do not mention specific reversal factors. However, the rally to a 6-week high may invite profit-taking or be tempered by future demand data.
+    - **Classification:** Short-term influencer - UP
+
+2.  **Natural Gas**
+    - **Price Movement:** Rose moderately. August Nymex natural gas closed up +0.060 (+2.09%).
+    - **Key Drivers:** Forecasts for hotter US weather, potentially boosting nat-gas demand.
+    - **Reverse Factors:** The weather-driven catalyst is temporary; a shift in forecasts could reverse gains.
+    - **Classification:** Short-term influencer - UP
+
+#### **Grains**
+1.  **Wheat**
+    - **Price Movement:** Rose significantly, rallying to near 3-year highs. Chicago SRW contracts were up 21 to 27 cents. The KC complex led the way to fresh highs.
+    - **Key Drivers:** Black Sea export limitations and the Black Sea conflict.
+    - **Reverse Factors:** The articles do not specify reversal factors, but a de-escalation of the Black Sea conflict could remove support.
+    - **Classification:** Short-term influencer - UP
+
+2.  **Soybeans**
+    - **Price Movement:** Rose, hitting fresh 2-year highs. August contracts rallied to $12.38, with nearbys up 11 ¾ to 16 ¼ cents.
+    - **Key Drivers:** Front month buying and spillover support from the broader grain rally.
+    - **Reverse Factors:** Turnaround Tuesday losses were noted earlier in the week, indicating potential for pullbacks.
+    - **Classification:** Short-term influencer - UP
+
+3.  **Corn**
+    - **Price Movement:** Rose moderately. Corn futures rallied 8 to 9 1/2 cents into the close, holding near intraday highs.
+    - **Key Drivers:** Spillover support from double-digit gains in wheat.
+    - **Reverse Factors:** The rally is largely dependent on continued strength in wheat, which is tied to geopolitical tensions.
+    - **Classification:** Short-term influencer - UP
+
+4.  **Soybean Meal**
+    - **Price Movement:** Heading higher, trading at a 9-week high based on December futures.
+    - **Key Drivers:** The articles suggest a buying opportunity on price strength, but specific drivers are not detailed.
+    - **Reverse Factors:** None specified in the provided articles.
+    - **Classification:** Unclear
+
+#### **Livestock**
+1.  **Live Cattle**
+    - **Price Movement:** Declined significantly, hitting fresh 2026 lows. Contracts were down $3.02 to $4.10 across the board.
+    - **Key Drivers:** Continued liquidation and selling resumed.
+    - **Reverse Factors:** Cash trade was noted at $230-232, which could provide a floor if it establishes a new price level.
+    - **Classification:** Short-term influencer - DOWN
+
+2.  **Lean Hogs**
+    - **Price Movement:** Rose moderately in a steady rally. Most contracts saw gains of 20 to 75 cents, with August the exception, down a nickel.
+    - **Key Drivers:** USDA’s national base hog price was reported higher at $101.08, up 86 cents from the previous day.
+    - **Reverse Factors:** The August contract being an exception to the rally suggests some contract-specific weakness.
+    - **Classification:** Short-term influencer - UP
+
+#### **Softs**
+1.  **Cotton**
+    - **Price Movement:** Rose. Futures saw gains of 42 to 100 points across most contracts.
+    - **Key Drivers:** Higher crude oil prices and a lower US dollar index.
+    - **Reverse Factors:** The Cotlook A Index was up, but limited rainfall from the NOAA 7-day QPF could pressure supply.
+    - **Classification:** Short-term influencer - UP
+
+2.  **Sugar**
+    - **Price Movement:** Declined moderately. October NY world sugar #11 closed down -0.14 (-0.94%), and London white sugar down -4.60 (-0.98%).
+    - **Key Drivers:** Improved monsoon rains in India undercut prices.
+    - **Reverse Factors:** A reversal in monsoon rainfall patterns could reignite supply concerns.
+    - **Classification:** Short-term influencer - DOWN
+
+3.  **Cocoa**
+    - **Price Movement:** Declined sharply, plunging to fresh 2-month lows. September ICE NY cocoa closed down -279 (-4.98%).
+    - **Key Drivers:** Tepid global demand and abundant supplies.
+    - **Reverse Factors:** The articles do not mention specific reversal factors. A shift in demand or supply disruption could halt the decline.
+    - **Classification:** Short-term influencer - DOWN
+
+4.  **Coffee**
+    - **Price Movement:** Declined moderately. September arabica coffee closed down -5.45 (-1.69%), and robusta fell to a 2-week low.
+    - **Key Drivers:** The outlook for Brazil’s coffee harvest to accelerate.
+    - **Reverse Factors:** None specified; the decline is tied to harvest pace, which is a temporary factor.
+    - **Classification:** Short-term influencer - DOWN
+
+#### **Currencies & Stocks**
+1.  **US Dollar Index**
+    - **Price Movement:** Declined slightly. The dollar index fell by -0.04% to -0.10%.
+    - **Key Drivers:** A mild recovery in the euro ahead of the ECB meeting and a recovery in the yen from a 39-year low on prospect of faster interest rate hikes from Japan.
+    - **Reverse Factors:** The ECB meeting outcome or a reversal in yen strengthening could support the dollar.
+    - **Classification:** Short-term influencer - DOWN
+
+---
+
+### **Summary & Key Themes**
+- **Grains Rally on Supply Fears:** The grains complex experienced a strong rally, led by wheat which surged to near 3-year highs driven by Black Sea export limitations.
+- **Geopolitical and Weather Tensions Drive Energy:** Crude oil prices rose sharply due to escalating global supply risks, while natural gas was supported by hot US weather forecasts.
+- **Divergent Performance in Livestock:** Live cattle sold off to fresh 2026 lows, while lean hogs continued a steady rally.
+- **Pressure on Soft Commodities from Favorable Weather:** Sugar, cocoa, and coffee all declined due to improved monsoon rains in India, weak demand and ample cocoa supplies, and an accelerating Brazilian coffee harvest, respectively.
+
+### **Risks Highlighted**
+1. **Black Sea Export Limitations:** The conflict in the Black Sea region is a key risk factor underpinning wheat prices and could disrupt grain supplies further.
+2. **Escalating Global Supply Risks:** Underpin crude oil prices, creating an upside risk for energy costs.
+3. **Improved Monsoon Rains in India:** A downside risk for sugar prices as the weather improves crop prospects.
+
+### **Watch Next**
+1. **ECB Meeting:** The outcome of the upcoming European Central Bank meeting is expected to influence the euro and therefore the US dollar.
+2. **Monsoon Progress in India:** Continued improvement in monsoon rains will be a key factor for sugar prices.
+3. **US Weather Forecasts:** Hot weather forecasts will continue to be a driver for natural gas demand.
+
+---
+
+### **Price Movement Classification Table**
+| Product          | Classification          | Reason                      |
+|------------------|-------------------------|-----------------------------|
+| Crude Oil        | Short-term influencer - UP | Global supply risks       |
+| Natural Gas      | Short-term influencer - UP | Hot US weather forecast    |
+| Wheat            | Short-term influencer - UP | Black Sea export limits    |
+| Soybeans         | Short-term influencer - UP | Front month buying/spillover |
+| Corn             | Short-term influencer - UP | Spillover from wheat       |
+| Soybean Meal     | Unclear                  | Insufficient driver detail |
+| Live Cattle      | Short-term influencer - DOWN | Liquidation/selling resumes |
+| Lean Hogs        | Short-term influencer - UP | Higher USDA base hog price |
+| Cotton           | Short-term influencer - UP | Higher crude/lower dollar  |
+| Sugar            | Short-term influencer - DOWN | Improved India monsoon rains |
+| Cocoa            | Short-term influencer - DOWN | Weak demand/abundant supply |
+| Coffee           | Short-term influencer - DOWN | Brazil harvest acceleration|
+| US Dollar Index  | Short-term influencer - DOWN | Euro/yen recovery          |
