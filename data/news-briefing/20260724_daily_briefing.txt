@@ -1,0 +1,9 @@
+News Briefing for: 2026-07-24
+Generated at: 2026-07-25 07:12:52
+LLM Used: DeepSeek (deepseek-reasoner)
+Source JSON: 20260724_barchart_all-commodities_news.json
+Cost info: Unavailable due to exception: Error code: 400 - {'error': {'message': 'The supported API model names are deepseek-v4-pro or deepseek-v4-flash, but you passed deepseek-reasoner.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_request_error'}}
+
+---
+
+An error occurred while communicating with DeepSeek API: Error code: 400 - {'error': {'message': 'The supported API model names are deepseek-v4-pro or deepseek-v4-flash, but you passed deepseek-reasoner.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_request_error'}}
