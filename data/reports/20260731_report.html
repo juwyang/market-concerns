@@ -1,0 +1,574 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Daily Financial Briefing - 2026-07-31</title>
+    <style>
+        /* --- General & Reset --- */
+        :root {
+            --bg-color: #f0f2f5;
+            --card-bg: #ffffff;
+            --text-color: #333333;
+            --header-color: #1a2c4e;
+            --border-color: #e0e0e0;
+            --green-color: #28a745;
+            --red-color: #dc3545;
+            --gray-color: #6c757d;
+            --green-bg: #e9f7ec;
+            --red-bg: #fdebec;
+            --gray-bg: #f8f9fa;
+        }
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+            margin: 0;
+            background-color: var(--bg-color);
+            color: var(--text-color);
+            line-height: 1.6;
+        }
+        * {
+            box-sizing: border-box;
+        }
+
+        /* --- Layout --- */
+        .dashboard-container {
+            display: flex;
+            flex-wrap: wrap;
+            padding: 20px;
+            gap: 20px;
+        }
+        .column {
+            display: flex;
+            flex-direction: column;
+            gap: 20px;
+        }
+        .column-left { flex: 1 1 300px; }
+        .column-main { flex: 2 1 500px; }
+        .column-right { flex: 1 1 300px; }
+
+        /* --- Cards --- */
+        .card {
+            background-color: var(--card-bg);
+            border-radius: 8px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+            padding: 20px;
+            border: 1px solid var(--border-color);
+        }
+        .card h2 {
+            margin-top: 0;
+            color: var(--header-color);
+            font-size: 1.2rem;
+            border-bottom: 1px solid var(--border-color);
+            padding-bottom: 10px;
+            margin-bottom: 15px;
+        }
+
+        /* --- Left Column: Market Snapshot --- */
+        .summary-table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+        .summary-table th, .summary-table td {
+            text-align: left;
+            padding: 10px 8px;
+            border-bottom: 1px solid var(--border-color);
+            font-size: 0.9rem;
+        }
+        .summary-table th {
+            font-weight: 600;
+        }
+        .summary-table tr:last-child td {
+            border-bottom: none;
+        }
+        .status-badge {
+            padding: 4px 10px;
+            border-radius: 12px;
+            font-weight: 700;
+            font-size: 0.8rem;
+            color: var(--card-bg);
+            text-transform: uppercase;
+        }
+
+        /* --- Main Column: Commodity Details --- */
+        .main-header {
+            text-align: center;
+            margin-bottom: 20px;
+        }
+        .main-header h1 {
+            color: var(--header-color);
+            margin: 0;
+        }
+        .main-header p {
+            color: var(--gray-color);
+            font-size: 1.1rem;
+            margin-top: 5px;
+        }
+        .category-header {
+            text-transform: uppercase;
+            color: var(--gray-color);
+            letter-spacing: 1px;
+            margin-top: 20px;
+            margin-bottom: 10px;
+            font-size: 1rem;
+        }
+        .commodity-card .card-header h3 {
+            margin: 0;
+            font-size: 1.15rem;
+            color: var(--header-color);
+        }
+        .price-info {
+            display: flex;
+            align-items: baseline;
+            gap: 15px;
+            margin: 15px 0;
+        }
+        .price-movement {
+            font-size: 1.5rem;
+            font-weight: 700;
+        }
+        .price-detail {
+            font-size: 0.95rem;
+            color: var(--gray-color);
+        }
+        .arrow-up::before { content: '▲'; font-size: 0.6em; }
+        .arrow-down::before { content: '▼'; font-size: 0.6em; }
+        .drivers-section h4 {
+            margin-bottom: 5px;
+            margin-top: 15px;
+            font-size: 0.9rem;
+            color: var(--header-color);
+        }
+        .drivers-section ul {
+            margin: 0;
+            padding-left: 20px;
+            font-size: 0.9rem;
+        }
+        .classification-badge {
+            margin-top: 15px;
+            padding: 5px 12px;
+            border-radius: 5px;
+            display: inline-block;
+            font-size: 0.8rem;
+            font-weight: 500;
+            color: var(--text-color);
+        }
+
+        /* --- Right Column: Summaries --- */
+        .right-column-list {
+            padding-left: 20px;
+            margin: 0;
+            font-size: 0.9rem;
+        }
+        .right-column-list li {
+            margin-bottom: 10px;
+        }
+
+        /* --- Color Utilities --- */
+        .bg-green { background-color: var(--green-color); }
+        .bg-red { background-color: var(--red-color); }
+        .bg-gray { background-color: var(--gray-color); }
+        .color-green { color: var(--green-color); }
+        .color-red { color: var(--red-color); }
+        .classification-badge.bg-green { background-color: var(--green-bg); color: var(--green-color); border: 1px solid var(--green-color); }
+        .classification-badge.bg-red { background-color: var(--red-bg); color: var(--red-color); border: 1px solid var(--red-color); }
+        .classification-badge.bg-gray { background-color: var(--gray-bg); color: var(--gray-color); border: 1px solid #ccc; }
+        
+        /* --- Responsive Design --- */
+        @media (max-width: 1024px) {
+            .column-left, .column-right { flex: 1 1 100%; order: 3; }
+            .column-main { flex: 2 1 100%; order: 1; }
+            .main-header { order: 0; width: 100%; }
+        }
+        @media (max-width: 768px) {
+            .dashboard-container {
+                flex-direction: column;
+                padding: 10px;
+                gap: 10px;
+            }
+            .column {
+                gap: 10px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="dashboard-container">
+        <!-- ======================= LEFT COLUMN ======================== -->
+        <aside class="column column-left">
+            <div class="card">
+                <h2>Market Snapshot</h2>
+                <table class="summary-table">
+                    <thead>
+                        <tr>
+                            <th>Product</th>
+                            <th>Movement</th>
+                            <th>Reason</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        
+                        <tr>
+                            <td>Crude Oil (WTI)</td>
+                            <td><span class="status-badge bg-green">UP</span></td>
+                            <td>Global supply disruptions</td>
+                        </tr>
+                        <tr>
+                            <td>RBOB Gasoline</td>
+                            <td><span class="status-badge bg-gray">UNCLEAR</span></td>
+                            <td>No stated driver</td>
+                        </tr>
+                        <tr>
+                            <td>Natural Gas</td>
+                            <td><span class="status-badge bg-red">DOWN</span></td>
+                            <td>Abundant inventories</td>
+                        </tr>
+                        <tr>
+                            <td>Wheat</td>
+                            <td><span class="status-badge bg-red">DOWN</span></td>
+                            <td>Month-end money outflow</td>
+                        </tr>
+                        <tr>
+                            <td>Soybeans</td>
+                            <td><span class="status-badge bg-red">DOWN</span></td>
+                            <td>Grain complex month-end pressure</td>
+                        </tr>
+                        <tr>
+                            <td>Corn</td>
+                            <td><span class="status-badge bg-red">DOWN</span></td>
+                            <td>Wheat spillover, rains, month-end</td>
+                        </tr>
+                        <tr>
+                            <td>Lean Hogs</td>
+                            <td><span class="status-badge bg-gray">UNCLEAR</span></td>
+                            <td>No stated driver</td>
+                        </tr>
+                        <tr>
+                            <td>Live Cattle</td>
+                            <td><span class="status-badge bg-green">UP</span></td>
+                            <td>Firm cash trade</td>
+                        </tr>
+                        <tr>
+                            <td>Cotton</td>
+                            <td><span class="status-badge bg-green">UP</span></td>
+                            <td>Export sales support</td>
+                        </tr>
+                        <tr>
+                            <td>Sugar</td>
+                            <td><span class="status-badge bg-green">UP</span></td>
+                            <td>India monsoon concerns</td>
+                        </tr>
+                        <tr>
+                            <td>Cocoa</td>
+                            <td><span class="status-badge bg-green">UP</span></td>
+                            <td>Ghana supply concerns</td>
+                        </tr>
+                        <tr>
+                            <td>Coffee</td>
+                            <td><span class="status-badge bg-green">UP</span></td>
+                            <td>Tighter ICE inventories</td>
+                        </tr>
+                        <tr>
+                            <td>US Dollar</td>
+                            <td><span class="status-badge bg-green">UP</span></td>
+                            <td>Higher yields / hawkish comments</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+        </aside>
+
+        <!-- ======================= MIDDLE COLUMN ======================== -->
+        <main class="column column-main">
+            <header class="main-header">
+                <h1>Daily Financial Briefing</h1>
+                <p>Date: 2026-07-31</p>
+            </header>
+            <section><h2 class="category-header">ENERGY</h2>
+                <div class="card commodity-card">
+                    <div class="card-header">
+                        <h3>Crude Oil (WTI)</h3>
+                    </div>
+                    
+            <div class="price-info">
+                <div class="price-movement color-green">+1.29%</div>
+                <div class="price-detail">September WTI crude oil closed up +1.08 (+1.29%) on Friday. A related report noted crude oil was back up $3.21 per barrel.</div>
+            </div>
+        
+                    <div class="drivers-section">
+                        <h4>Key Drivers</h4>
+                        <ul><li>Global supply disruptions underpinned crude oil prices.</li></ul>
+                        <h4>Reverse Factors</h4>
+                        <ul><li>RBOB gasoline settled lower, leaving energy prices mixed; an easing of supply disruptions could reverse crude oil gains.</li></ul>
+                    </div>
+                    <div class="classification-badge bg-green">
+                        Short-term influencer - UP
+                    </div>
+                </div>
+                <div class="card commodity-card">
+                    <div class="card-header">
+                        <h3>RBOB Gasoline</h3>
+                    </div>
+                    
+            <div class="price-info">
+                <div class="price-movement color-grey">-0.55%</div>
+                <div class="price-detail">September RBOB gasoline closed down -0.0171 (-0.55%) on Friday.</div>
+            </div>
+        
+                    <div class="drivers-section">
+                        <h4>Key Drivers</h4>
+                        <ul><li>No specific driver for gasoline was provided; prices settled mixed alongside higher crude oil.</li></ul>
+                        <h4>Reverse Factors</h4>
+                        <ul><li>Stronger crude oil costs could provide support if the gasoline decline reverses.</li></ul>
+                    </div>
+                    <div class="classification-badge bg-gray">
+                        Unclear
+                    </div>
+                </div>
+                <div class="card commodity-card">
+                    <div class="card-header">
+                        <h3>Natural Gas</h3>
+                    </div>
+                    
+            <div class="price-info">
+                <div class="price-movement color-red">-0.40%</div>
+                <div class="price-detail">September Nymex natural gas closed down -0.011 (-0.40%) on Friday, posting modest losses.</div>
+            </div>
+        
+                    <div class="drivers-section">
+                        <h4>Key Drivers</h4>
+                        <ul><li>Abundant US nat-gas inventories and signs of adequate supplies weighed on prices; EIA inventories were cited as of July 24.</li></ul>
+                        <h4>Reverse Factors</h4>
+                        <ul><li>No explicit counter-factors were noted; any shift in weather or supply could change the inventory outlook.</li></ul>
+                    </div>
+                    <div class="classification-badge bg-red">
+                        Long-term influencer - DOWN
+                    </div>
+                </div></section><section><h2 class="category-header">GRAINS</h2>
+                <div class="card commodity-card">
+                    <div class="card-header">
+                        <h3>Wheat</h3>
+                    </div>
+                    
+            <div class="price-info">
+                <div class="price-movement color-red"></div>
+                <div class="price-detail">Wheat declined to close out July, with Chicago SRW contracts down 18 ¼ to 24 ¼ cents at the close. Intraday losses were as large as 27-28 cents.</div>
+            </div>
+        
+                    <div class="drivers-section">
+                        <h4>Key Drivers</h4>
+                        <ul><li>Month-end money came out of positions; wheat gave back Thursday’s gains across the three exchanges.</li></ul>
+                        <h4>Reverse Factors</h4>
+                        <ul><li>Thursday’s gains were tied to increased Black Sea tensions, and those geopolitical concerns could re-emerge.</li></ul>
+                    </div>
+                    <div class="classification-badge bg-red">
+                        Short-term influencer - DOWN
+                    </div>
+                </div>
+                <div class="card commodity-card">
+                    <div class="card-header">
+                        <h3>Soybeans</h3>
+                    </div>
+                    
+            <div class="price-info">
+                <div class="price-movement color-red"></div>
+                <div class="price-detail">Soybeans posted losses of 1 to 5 ¼ cents across most contracts on Friday; midday losses were 6 to 9 ½ cents. August was down 76 cents on the week, while November was down 66 cents but still gained 43 ¾ cents on the month.</div>
+            </div>
+        
+                    <div class="drivers-section">
+                        <h4>Key Drivers</h4>
+                        <ul><li>The soybean article highlighted week-end weakness; broader grain-market pressure was linked to wheat spillover and month-end position squaring.</li></ul>
+                        <h4>Reverse Factors</h4>
+                        <ul><li>The national average cash bean price was up 8 ½ cents at $11.40, showing cash-market strength despite futures weakness.</li></ul>
+                    </div>
+                    <div class="classification-badge bg-red">
+                        Short-term influencer - DOWN
+                    </div>
+                </div>
+                <div class="card commodity-card">
+                    <div class="card-header">
+                        <h3>Corn</h3>
+                    </div>
+                    
+            <div class="price-info">
+                <div class="price-movement color-red"></div>
+                <div class="price-detail">Corn futures posted losses of 1 ½ to 5 cents on Friday; midday losses were 6-8 cents. September and December both closed the week down 23 ½ cents.</div>
+            </div>
+        
+                    <div class="drivers-section">
+                        <h4>Key Drivers</h4>
+                        <ul><li>Spillover weakness from wheat, rains, and month-end pressure weighed on prices.</li></ul>
+                        <h4>Reverse Factors</h4>
+                        <ul><li>No explicit counter-factors were mentioned; a shift in weather or demand sentiment could ease the pressure.</li></ul>
+                    </div>
+                    <div class="classification-badge bg-red">
+                        Short-term influencer - DOWN
+                    </div>
+                </div></section><section><h2 class="category-header">LIVESTOCK</h2>
+                <div class="card commodity-card">
+                    <div class="card-header">
+                        <h3>Lean Hogs</h3>
+                    </div>
+                    
+            <div class="price-info">
+                <div class="price-movement color-grey"></div>
+                <div class="price-detail">Lean hog futures were 22 cents to $1.50 higher across the board on Friday. August hogs were down $4 on the week.</div>
+            </div>
+        
+                    <div class="drivers-section">
+                        <h4>Key Drivers</h4>
+                        <ul><li>Futures rallied into the weekend, though no explicit driver was given in the article.</li></ul>
+                        <h4>Reverse Factors</h4>
+                        <ul><li>USDA’s national base hog price was down 64 cents to $100.41, and weaker cash prices could weigh on futures.</li></ul>
+                    </div>
+                    <div class="classification-badge bg-gray">
+                        Unclear
+                    </div>
+                </div>
+                <div class="card commodity-card">
+                    <div class="card-header">
+                        <h3>Live Cattle / Feeder Cattle</h3>
+                    </div>
+                    
+            <div class="price-info">
+                <div class="price-movement color-green"></div>
+                <div class="price-detail">Live cattle futures were mixed at the close, with contracts up 52 cents to 20 cents lower. August was up $4.67 on the week. Feeder cattle futures extended gains.</div>
+            </div>
+        
+                    <div class="drivers-section">
+                        <h4>Key Drivers</h4>
+                        <ul><li>USDA cash trade was picked up at $232-233, with some up to $235; feeder cattle strength was also noted.</li></ul>
+                        <h4>Reverse Factors</h4>
+                        <ul><li>The mixed live cattle close and the Thursday Fed Cattle Exchange online auction showing no sales could signal some uncertainty.</li></ul>
+                    </div>
+                    <div class="classification-badge bg-green">
+                        Short-term influencer - UP
+                    </div>
+                </div></section><section><h2 class="category-header">METALS</h2></section><section><h2 class="category-header">SOFTS</h2>
+                <div class="card commodity-card">
+                    <div class="card-header">
+                        <h3>Cotton</h3>
+                    </div>
+                    
+            <div class="price-info">
+                <div class="price-movement color-green"></div>
+                <div class="price-detail">Cotton futures rallied into month-end, closing 53 to 112 points higher. December managed a 181-point gain on the week. At midday, contracts were 40-60 points higher.</div>
+            </div>
+        
+                    <div class="drivers-section">
+                        <h4>Key Drivers</h4>
+                        <ul><li>Export sales data was cited, and crude oil strength provided support.</li></ul>
+                        <h4>Reverse Factors</h4>
+                        <ul><li>The US dollar index was higher, which could be a headwind for cotton export competitiveness.</li></ul>
+                    </div>
+                    <div class="classification-badge bg-green">
+                        Short-term influencer - UP
+                    </div>
+                </div>
+                <div class="card commodity-card">
+                    <div class="card-header">
+                        <h3>Sugar</h3>
+                    </div>
+                    
+            <div class="price-info">
+                <div class="price-movement color-green">+1.59%</div>
+                <div class="price-detail">October NY world sugar #11 closed up +0.23 (+1.59%); October London white sugar #5 closed up +4.90 (+1.07%).</div>
+            </div>
+        
+                    <div class="drivers-section">
+                        <h4>Key Drivers</h4>
+                        <ul><li>Short covering and concerns that India monsoon rains will remain subpar boosted prices.</li></ul>
+                        <h4>Reverse Factors</h4>
+                        <ul><li>No explicit reversal factors were noted; sharp gains could invite profit-taking.</li></ul>
+                    </div>
+                    <div class="classification-badge bg-green">
+                        Short-term influencer - UP
+                    </div>
+                </div>
+                <div class="card commodity-card">
+                    <div class="card-header">
+                        <h3>Cocoa</h3>
+                    </div>
+                    
+            <div class="price-info">
+                <div class="price-movement color-green">+5.58%</div>
+                <div class="price-detail">September ICE NY cocoa closed up +285 (+5.58%); September ICE London cocoa #7 closed up +201 (+5.28%).</div>
+            </div>
+        
+                    <div class="drivers-section">
+                        <h4>Key Drivers</h4>
+                        <ul><li>Concerns over cocoa production and potential disruption to global cocoa supplies, including Ghana production concerns, lifted prices.</li></ul>
+                        <h4>Reverse Factors</h4>
+                        <ul><li>No explicit counter-factors were mentioned; an easing of supply concerns could trigger a pullback.</li></ul>
+                    </div>
+                    <div class="classification-badge bg-green">
+                        Short-term influencer - UP
+                    </div>
+                </div>
+                <div class="card commodity-card">
+                    <div class="card-header">
+                        <h3>Coffee</h3>
+                    </div>
+                    
+            <div class="price-info">
+                <div class="price-movement color-green">+2.80%</div>
+                <div class="price-detail">September arabica coffee closed up +9.05 (+2.80%); September ICE robusta coffee closed up +2 (+0.05%).</div>
+            </div>
+        
+                    <div class="drivers-section">
+                        <h4>Key Drivers</h4>
+                        <ul><li>Tighter ICE inventories and concerns over near-term arabica supplies supported prices.</li></ul>
+                        <h4>Reverse Factors</h4>
+                        <ul><li>Robusta coffee’s gain was minimal, suggesting the tightness may be concentrated in arabica; any inventory relief could reverse gains.</li></ul>
+                    </div>
+                    <div class="classification-badge bg-green">
+                        Short-term influencer - UP
+                    </div>
+                </div></section><section><h2 class="category-header">CURRENCIES & STOCKS</h2>
+                <div class="card commodity-card">
+                    <div class="card-header">
+                        <h3>US Dollar</h3>
+                    </div>
+                    
+            <div class="price-info">
+                <div class="price-movement color-green">+0.04%</div>
+                <div class="price-detail">The dollar index rose +0.04% on Friday, recovering from a 6-week low. It had been up +0.46% in earlier trading.</div>
+            </div>
+        
+                    <div class="drivers-section">
+                        <h4>Key Drivers</h4>
+                        <ul><li>Higher T-note yields strengthened the dollar’s interest rate differentials; strength in US economic reports and hawkish Logan comments also supported.</li></ul>
+                        <h4>Reverse Factors</h4>
+                        <ul><li>The rebound comes from a 6-week low, and any pullback in yields or weaker data could reduce support.</li></ul>
+                    </div>
+                    <div class="classification-badge bg-green">
+                        Short-term influencer - UP
+                    </div>
+                </div></section>
+        </main>
+
+        <!-- ======================= RIGHT COLUMN ======================== -->
+        <aside class="column column-right">
+            <div class="card">
+                <h2><i class="fa-solid fa-lightbulb"></i>Key Themes</h2>
+                <ul class="right-column-list theme-list">
+                    <li>Month-end positioning pressured grain markets, with wheat, soybeans, and corn all closing lower.</li><li>Crude oil advanced on supply disruptions, while gasoline and natural gas declined, leaving energy mixed.</li><li>Soft commodities broadly rallied: cotton, sugar, cocoa, and coffee finished higher on supply-related concerns.</li><li>Livestock markets were mixed to firm, with cattle supported by cash trade and hogs rallying despite lower cash hog prices.</li><li>The US dollar posted modest gains after a 6-week low, supported by higher yields and hawkish commentary.</li><li>No metals coverage was provided in the source articles.</li>
+                </ul>
+            </div>
+            <div class="card">
+                <h2><i class="fa-solid fa-triangle-exclamation"></i>Risks Highlighted</h2>
+                <ul class="right-column-list risk-list">
+                    <li>Increased Black Sea tensions could re-ignite wheat supply fears after Friday’s selloff.</li><li>Subpar India monsoon rains threaten sugar production prospects.</li><li>Ghana production concerns and potential cocoa supply disruptions remain a key upside risk for cocoa prices.</li><li>Abundant US natural gas inventories could continue to pressure nat-gas prices.</li><li>A firmer dollar driven by higher T-note yields could weigh on commodity markets.</li><li>Lower USDA national base hog prices could undermine the hog futures rally.</li><li>The Thursday Fed Cattle Exchange auction showed no sales, leaving cash cattle demand uncertain.</li>
+                </ul>
+            </div>
+            <div class="card">
+                <h2><i class="fa-solid fa-binoculars"></i>Watch Next</h2>
+                <ul class="right-column-list watch-list">
+                    <li>Cotton export sales data updates.</li><li>USDA cash trade reports and Fed Cattle Exchange auction results for cattle.</li><li>EIA natural gas inventory data, referenced as of July 24.</li><li>India monsoon rain forecasts for sugar crop development.</li><li>ICE inventory levels for coffee and cocoa supply news.</li><li>T-note yields and hawkish Logan commentary for dollar direction.</li><li>Black Sea tensions and their impact on wheat prices.</li>
+                </ul>
+            </div>
+        </aside>
+    </div>
+</body>
+</html>
+        

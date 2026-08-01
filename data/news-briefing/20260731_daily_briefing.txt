@@ -1,0 +1,143 @@
+News Briefing for: 2026-07-31
+Generated at: 2026-08-01 07:27:45
+LLM Used: DeepSeek (deepseek-reasoner)
+Source JSON: 20260731_barchart_all-commodities_news.json
+Cost info: Prompt tokens: 3667, Completion tokens: 16895, Total tokens: 20562
+Model Processing Time: 143.03 seconds
+
+---
+
+### Daily Financial Briefing: 20260731
+
+#### **Energy**
+1. **Crude Oil (WTI)**
+   - **Price Movement:** September WTI crude oil closed up +1.08 (+1.29%) on Friday. A related report noted crude oil was back up $3.21 per barrel.
+   - **Key Drivers:** Global supply disruptions underpinned crude oil prices.
+   - **Reverse Factors:** RBOB gasoline settled lower, leaving energy prices mixed; an easing of supply disruptions could reverse crude oil gains.
+   - **Classification:** Short-term influencer - UP
+
+2. **RBOB Gasoline**
+   - **Price Movement:** September RBOB gasoline closed down -0.0171 (-0.55%) on Friday.
+   - **Key Drivers:** No specific driver for gasoline was provided; prices settled mixed alongside higher crude oil.
+   - **Reverse Factors:** Stronger crude oil costs could provide support if the gasoline decline reverses.
+   - **Classification:** Unclear
+
+3. **Natural Gas**
+   - **Price Movement:** September Nymex natural gas closed down -0.011 (-0.40%) on Friday, posting modest losses.
+   - **Key Drivers:** Abundant US nat-gas inventories and signs of adequate supplies weighed on prices; EIA inventories were cited as of July 24.
+   - **Reverse Factors:** No explicit counter-factors were noted; any shift in weather or supply could change the inventory outlook.
+   - **Classification:** Long-term influencer - DOWN
+
+#### **Grains**
+1. **Wheat**
+   - **Price Movement:** Wheat declined to close out July, with Chicago SRW contracts down 18 ¼ to 24 ¼ cents at the close. Intraday losses were as large as 27-28 cents.
+   - **Key Drivers:** Month-end money came out of positions; wheat gave back Thursday’s gains across the three exchanges.
+   - **Reverse Factors:** Thursday’s gains were tied to increased Black Sea tensions, and those geopolitical concerns could re-emerge.
+   - **Classification:** Short-term influencer - DOWN
+
+2. **Soybeans**
+   - **Price Movement:** Soybeans posted losses of 1 to 5 ¼ cents across most contracts on Friday; midday losses were 6 to 9 ½ cents. August was down 76 cents on the week, while November was down 66 cents but still gained 43 ¾ cents on the month.
+   - **Key Drivers:** The soybean article highlighted week-end weakness; broader grain-market pressure was linked to wheat spillover and month-end position squaring.
+   - **Reverse Factors:** The national average cash bean price was up 8 ½ cents at $11.40, showing cash-market strength despite futures weakness.
+   - **Classification:** Short-term influencer - DOWN
+
+3. **Corn**
+   - **Price Movement:** Corn futures posted losses of 1 ½ to 5 cents on Friday; midday losses were 6-8 cents. September and December both closed the week down 23 ½ cents.
+   - **Key Drivers:** Spillover weakness from wheat, rains, and month-end pressure weighed on prices.
+   - **Reverse Factors:** No explicit counter-factors were mentioned; a shift in weather or demand sentiment could ease the pressure.
+   - **Classification:** Short-term influencer - DOWN
+
+#### **Livestock**
+1. **Lean Hogs**
+   - **Price Movement:** Lean hog futures were 22 cents to $1.50 higher across the board on Friday. August hogs were down $4 on the week.
+   - **Key Drivers:** Futures rallied into the weekend, though no explicit driver was given in the article.
+   - **Reverse Factors:** USDA’s national base hog price was down 64 cents to $100.41, and weaker cash prices could weigh on futures.
+   - **Classification:** Unclear
+
+2. **Live Cattle / Feeder Cattle**
+   - **Price Movement:** Live cattle futures were mixed at the close, with contracts up 52 cents to 20 cents lower. August was up $4.67 on the week. Feeder cattle futures extended gains.
+   - **Key Drivers:** USDA cash trade was picked up at $232-233, with some up to $235; feeder cattle strength was also noted.
+   - **Reverse Factors:** The mixed live cattle close and the Thursday Fed Cattle Exchange online auction showing no sales could signal some uncertainty.
+   - **Classification:** Short-term influencer - UP
+
+#### **Metals**
+- No metals-related articles were included in the provided source.
+
+#### **Softs**
+1. **Cotton**
+   - **Price Movement:** Cotton futures rallied into month-end, closing 53 to 112 points higher. December managed a 181-point gain on the week. At midday, contracts were 40-60 points higher.
+   - **Key Drivers:** Export sales data was cited, and crude oil strength provided support.
+   - **Reverse Factors:** The US dollar index was higher, which could be a headwind for cotton export competitiveness.
+   - **Classification:** Short-term influencer - UP
+
+2. **Sugar**
+   - **Price Movement:** October NY world sugar #11 closed up +0.23 (+1.59%); October London white sugar #5 closed up +4.90 (+1.07%).
+   - **Key Drivers:** Short covering and concerns that India monsoon rains will remain subpar boosted prices.
+   - **Reverse Factors:** No explicit reversal factors were noted; sharp gains could invite profit-taking.
+   - **Classification:** Short-term influencer - UP
+
+3. **Cocoa**
+   - **Price Movement:** September ICE NY cocoa closed up +285 (+5.58%); September ICE London cocoa #7 closed up +201 (+5.28%).
+   - **Key Drivers:** Concerns over cocoa production and potential disruption to global cocoa supplies, including Ghana production concerns, lifted prices.
+   - **Reverse Factors:** No explicit counter-factors were mentioned; an easing of supply concerns could trigger a pullback.
+   - **Classification:** Short-term influencer - UP
+
+4. **Coffee**
+   - **Price Movement:** September arabica coffee closed up +9.05 (+2.80%); September ICE robusta coffee closed up +2 (+0.05%).
+   - **Key Drivers:** Tighter ICE inventories and concerns over near-term arabica supplies supported prices.
+   - **Reverse Factors:** Robusta coffee’s gain was minimal, suggesting the tightness may be concentrated in arabica; any inventory relief could reverse gains.
+   - **Classification:** Short-term influencer - UP
+
+#### **Currencies & Stocks**
+1. **US Dollar**
+   - **Price Movement:** The dollar index rose +0.04% on Friday, recovering from a 6-week low. It had been up +0.46% in earlier trading.
+   - **Key Drivers:** Higher T-note yields strengthened the dollar’s interest rate differentials; strength in US economic reports and hawkish Logan comments also supported.
+   - **Reverse Factors:** The rebound comes from a 6-week low, and any pullback in yields or weaker data could reduce support.
+   - **Classification:** Short-term influencer - UP
+
+---
+
+### **Summary & Key Themes**
+- Month-end positioning pressured grain markets, with wheat, soybeans, and corn all closing lower.
+- Crude oil advanced on supply disruptions, while gasoline and natural gas declined, leaving energy mixed.
+- Soft commodities broadly rallied: cotton, sugar, cocoa, and coffee finished higher on supply-related concerns.
+- Livestock markets were mixed to firm, with cattle supported by cash trade and hogs rallying despite lower cash hog prices.
+- The US dollar posted modest gains after a 6-week low, supported by higher yields and hawkish commentary.
+- No metals coverage was provided in the source articles.
+
+### **Risks Highlighted**
+1. Increased Black Sea tensions could re-ignite wheat supply fears after Friday’s selloff.
+2. Subpar India monsoon rains threaten sugar production prospects.
+3. Ghana production concerns and potential cocoa supply disruptions remain a key upside risk for cocoa prices.
+4. Abundant US natural gas inventories could continue to pressure nat-gas prices.
+5. A firmer dollar driven by higher T-note yields could weigh on commodity markets.
+6. Lower USDA national base hog prices could undermine the hog futures rally.
+7. The Thursday Fed Cattle Exchange auction showed no sales, leaving cash cattle demand uncertain.
+
+### **Watch Next**
+1. Cotton export sales data updates.
+2. USDA cash trade reports and Fed Cattle Exchange auction results for cattle.
+3. EIA natural gas inventory data, referenced as of July 24.
+4. India monsoon rain forecasts for sugar crop development.
+5. ICE inventory levels for coffee and cocoa supply news.
+6. T-note yields and hawkish Logan commentary for dollar direction.
+7. Black Sea tensions and their impact on wheat prices.
+
+---
+
+### **Price Movement Classification Table**
+| Product            | Classification          | Reason                      |
+|--------------------|-------------------------|-----------------------------|
+| Crude Oil (WTI)    | Short-term influencer - UP | Global supply disruptions   |
+| RBOB Gasoline      | Unclear                 | No stated driver            |
+| Natural Gas        | Long-term influencer - DOWN | Abundant inventories      |
+| Wheat              | Short-term influencer - DOWN | Month-end money outflow   |
+| Soybeans           | Short-term influencer - DOWN | Grain complex month-end pressure |
+| Corn               | Short-term influencer - DOWN | Wheat spillover, rains, month-end |
+| Lean Hogs          | Unclear                 | No stated driver            |
+| Live Cattle        | Short-term influencer - UP | Firm cash trade             |
+| Cotton             | Short-term influencer - UP | Export sales support        |
+| Sugar              | Short-term influencer - UP | India monsoon concerns      |
+| Cocoa              | Short-term influencer - UP | Ghana supply concerns       |
+| Coffee             | Short-term influencer - UP | Tighter ICE inventories     |
+| US Dollar          | Short-term influencer - UP | Higher yields / hawkish comments |
