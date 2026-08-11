@@ -1,0 +1,176 @@
+News Briefing for: 2026-08-10
+Generated at: 2026-08-11 05:54:01
+LLM Used: DeepSeek (deepseek-reasoner)
+Source JSON: 20260810_barchart_all-commodities_news.json
+Cost info: Prompt tokens: 4447, Completion tokens: 18363, Total tokens: 22810
+Model Processing Time: 153.55 seconds
+
+---
+
+### Daily Financial Briefing: 20260810
+
+#### **Energy**
+1. **Crude Oil (WTI)**
+    - **Price Movement:** Rose sharply. September WTI crude closed up +3.95 (+5.05%) on Monday; a separate report cited crude up $4.12/barrel into the close.
+    - **Key Drivers:** Middle East tensions and doubts about the reopening of the Strait of Hormuz are curbing global oil supply expectations.
+    - **Reverse Factors:** A reopening or de-escalation in the Strait of Hormuz could quickly unwind the supply-risk premium.
+    - **Classification:** Short-term influencer - UP
+
+2. **Gasoline (RBOB)**
+    - **Price Movement:** Rose sharply. September RBOB gasoline closed up +0.1501 (+5.03%) on Monday.
+    - **Key Drivers:** Follow-through strength from crude oil’s surge on Middle East supply concerns.
+    - **Reverse Factors:** If crude supply fears ease, gasoline prices could give back the risk premium.
+    - **Classification:** Short-term influencer - UP
+
+3. **Natural Gas**
+    - **Price Movement:** Rose sharply. September Nymex natural gas closed up +0.132 (+4.96%) on Monday.
+    - **Key Drivers:** Forecasts for much hotter US weather, which could boost natural gas demand.
+    - **Reverse Factors:** A moderation in hot-weather forecasts could lower expected demand and reverse gains.
+    - **Classification:** Short-term influencer - UP
+
+#### **Grains**
+1. **Corn**
+    - **Price Movement:** Held within a penny of unchanged, with contracts down ¾ cent to +1 cent. Cash corn fell ½ cent to $4.08.
+    - **Key Drivers:** Early morning gains of 2-3 cents faded; USDA reported a private export sale.
+    - **Reverse Factors:** Early upside did not hold, and a firmer dollar could continue to pressure grains.
+    - **Classification:** Unclear
+
+2. **Soybeans**
+    - **Price Movement:** Closed with modest gains, up 1¼ to 5¾ cents. The national average cash bean price rose 3½ cents to $11.36¼.
+    - **Key Drivers:** A reported sale of soybeans to China on Friday and slipping crop ratings supported prices.
+    - **Reverse Factors:** US soybean export inspections are down year over year, and Chinese diplomatic criticism described American farmers as victims of US trade policy.
+    - **Classification:** Short-term influencer - UP
+
+3. **Soymeal**
+    - **Price Movement:** Lower at midday; futures were down $1.20 to $2.50. No closing quote was provided in the articles.
+    - **Key Drivers:** No explicit driver was cited.
+    - **Reverse Factors:** Soybean futures were firmer, which could eventually lend support to soymeal.
+    - **Classification:** Unclear
+
+4. **Wheat**
+    - **Price Movement:** Mixed on Monday. Winter wheats held firm, while spring wheat slipped. Chicago SRW contracts rose by fractional to 4 cents; KC HRW futures were mostly higher.
+    - **Key Drivers:** Early rally momentum faded; no single explicit driver was cited.
+    - **Reverse Factors:** Wheat fell back from overnight highs, suggesting fading momentum, and spring wheat weakness may persist.
+    - **Classification:** Unclear
+
+#### **Livestock**
+1. **Lean Hogs**
+    - **Price Movement:** Higher on Monday, with contracts up 20 cents to $1.55. USDA’s national base hog price was reported at $96.68, down 99 cents from the prior day.
+    - **Key Drivers:** Futures posted strength despite the lower cash price; no explicit demand-related driver was cited.
+    - **Reverse Factors:** Cash hog prices were falling, and earlier weekly losses were steep, with August down $3.35 on the week.
+    - **Classification:** Unclear
+
+2. **Live Cattle**
+    - **Price Movement:** Higher on Monday, with contracts up 82 cents to $1.80 across most months.
+    - **Key Drivers:** No deliveries were issued on first notice day for August live cattle futures, and cash trade picked up.
+    - **Reverse Factors:** Reports noted that overall production levels lag and daily charts suggest bulls are losing their grasp.
+    - **Classification:** Short-term influencer - UP
+
+#### **Metals**
+No metals data was provided in the source articles.
+
+#### **Softs**
+1. **Cotton**
+    - **Price Movement:** Slipped into Monday’s close, with contracts down 46 to 55 points. Earlier Monday trade had been up 2-29 points, and Friday had seen gains of 120-130 points.
+    - **Key Drivers:** No explicit driver was cited; a firmer dollar and higher crude oil were noted alongside the move.
+    - **Reverse Factors:** Early Monday strength and Friday’s gains suggest recent upside momentum could resume.
+    - **Classification:** Unclear
+
+2. **Sugar**
+    - **Price Movement:** Slightly higher. October NY world sugar #11 closed up +0.02 (+0.12%); London white sugar #5 closed up +2.70 (+0.83%).
+    - **Key Drivers:** Global weather risks underpinned prices and extended a week-long surge.
+    - **Reverse Factors:** If weather risk premiums fade, sugar prices could give back some of the recent gains.
+    - **Classification:** Short-term influencer - UP
+
+3. **Cocoa**
+    - **Price Movement:** Higher. September NY cocoa closed up +39 (+0.67%); London cocoa #7 closed up +5 (+0.12%), after erasing early losses.
+    - **Key Drivers:** The outlook for smaller West African cocoa production supported prices, along with fund buying.
+    - **Reverse Factors:** If the West African production outlook improves, supply concerns would ease.
+    - **Classification:** Long-term influencer - UP
+
+4. **Arabica Coffee**
+    - **Price Movement:** Lower. September arabica coffee closed down -3.25 (-0.97%).
+    - **Key Drivers:** Brazil’s coffee harvest is expected to accelerate, and drier Brazil weather turned prices lower.
+    - **Reverse Factors:** One article highlighted bullish daily chart patterns and called coffee a potential buying opportunity.
+    - **Classification:** Short-term influencer - DOWN
+
+5. **Robusta Coffee**
+    - **Price Movement:** Slightly higher. September ICE robusta coffee closed up +19 (+0.50%).
+    - **Key Drivers:** No specific driver was cited; the market settled mixed against arabica’s decline.
+    - **Reverse Factors:** Arabica weakness could spill over, and no standalone support factor was mentioned.
+    - **Classification:** Unclear
+
+#### **Currencies & Stocks**
+1. **US Dollar Index**
+    - **Price Movement:** Rose. DXY00 was up +0.29% on Monday; one report cited the dollar index $0.272 higher.
+    - **Key Drivers:** Higher T-note yields strengthened the dollar’s interest rate differentials, and crude oil’s surge added support.
+    - **Reverse Factors:** If Treasury yields decline or crude oil gains fade, the dollar could lose support.
+    - **Classification:** Short-term influencer - UP
+
+2. **Constellation Energy**
+    - **Price Movement:** No specific price change was provided in the article.
+    - **Key Drivers:** The company is locking in long-term nuclear power contracts as AI drives electricity demand higher, with expansion through Calpine.
+    - **Reverse Factors:** No explicit countervailing factors were mentioned.
+    - **Classification:** Unclear
+
+3. **Evergy**
+    - **Price Movement:** No specific daily price change was provided. The stock has underperformed the broader market over the past year.
+    - **Key Drivers:** Analysts are cautiously optimistic about the stock’s prospects.
+    - **Reverse Factors:** The noted underperformance remains a risk to sentiment.
+    - **Classification:** Unclear
+
+4. **Vistra Corp**
+    - **Price Movement:** No specific daily price change was provided. The stock’s underperformance was highlighted.
+    - **Key Drivers:** Robust underlying fundamentals could support a trend reversal and open up a contrarian options trade.
+    - **Reverse Factors:** The stock’s underperformance still poses a risk.
+    - **Classification:** Unclear
+
+---
+
+### **Summary & Key Themes**
+- Energy markets were dominated by Middle East supply fears: crude and gasoline both rallied more than 5%, while natural gas rose on hot US weather forecasts.
+- Grains were mixed to modestly firm: soybeans gained on a China sale and slipping ratings, corn was nearly unchanged, wheat closed mixed, and soymeal was lower.
+- Livestock firmed, with live cattle supported by cash trade and no deliveries, while lean hog futures rose despite a lower cash hog price.
+- Soft commodities were mixed: cocoa and sugar gained, arabica coffee fell, cotton slipped, and robusta coffee edged higher.
+- The US dollar firmed on higher T-note yields and crude strength, while utility/power stocks remained in focus on AI-driven electricity demand.
+
+### **Risks Highlighted**
+1. Middle East tensions, particularly doubts about reopening the Strait of Hormuz, keep global oil supply at risk.
+2. Hot US weather forecasts and global weather risks could disrupt demand and supply dynamics for natural gas and soft commodities.
+3. Smaller West African cocoa production threatens supply expectations.
+4. US soybean export inspections are down year over year, and Chinese diplomatic criticism describes “tortuous” US trade policy as hurting American farmers.
+5. A firmer dollar and higher Treasury yields could pressure commodity prices.
+6. Livestock production levels lag, with cash hog prices falling and chart momentum fading for cattle and hogs.
+
+### **Watch Next**
+1. Weekly Crop Progress data, which could affect cotton and grains.
+2. Follow-through on US soybean export sales, especially any further China buying.
+3. USDA base hog prices and cash livestock trade dynamics.
+4. The pace of Brazil’s coffee harvest and whether dry weather accelerates it.
+5. West African cocoa production and weather outlook.
+6. Hot US weather forecasts for natural gas demand.
+7. Developments around the Strait of Hormuz and Middle East supply risks.
+
+---
+
+### **Price Movement Classification Table**
+| Product            | Classification          | Reason                           |
+|--------------------|-------------------------|----------------------------------|
+| Crude Oil (WTI)    | Short-term influencer - UP | Middle East supply risk          |
+| Gasoline (RBOB)    | Short-term influencer - UP | Follows crude supply fears       |
+| Natural Gas        | Short-term influencer - UP | Hot weather demand forecast      |
+| Corn               | Unclear                 | No clear driver; near flat       |
+| Soybeans           | Short-term influencer - UP | China sale / ratings slip       |
+| Soymeal            | Unclear                 | No explicit driver               |
+| Wheat              | Unclear                 | Mixed winter/spring wheat trade  |
+| Lean Hogs          | Unclear                 | No explicit driver               |
+| Live Cattle        | Short-term influencer - UP | Cash trade / no deliveries       |
+| Cotton             | Unclear                 | No clear driver cited            |
+| Sugar              | Short-term influencer - UP | Global weather risks             |
+| Cocoa              | Long-term influencer - UP | Smaller W. African output outlook |
+| Arabica Coffee     | Short-term influencer - DOWN | Brazil harvest acceleration   |
+| Robusta Coffee     | Unclear                 | No specific driver               |
+| US Dollar Index    | Short-term influencer - UP | Higher yields / crude support    |
+| Constellation Energy | Unclear               | No price data                    |
+| Evergy             | Unclear                 | No price data                    |
+| Vistra Corp        | Unclear                 | No price data                    |
