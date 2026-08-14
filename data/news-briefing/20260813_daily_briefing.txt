@@ -1,0 +1,149 @@
+News Briefing for: 2026-08-13
+Generated at: 2026-08-14 06:14:08
+LLM Used: DeepSeek (deepseek-reasoner)
+Source JSON: 20260813_barchart_all-commodities_news.json
+Cost info: Prompt tokens: 3847, Completion tokens: 16869, Total tokens: 20716
+Model Processing Time: 198.90 seconds
+
+---
+
+### Daily Financial Briefing: 20260813
+
+#### **Energy**
+1. **WTI Crude Oil**
+   - **Price Movement:** Declined moderately, with September WTI closing down -2.02 (-2.43%).
+   - **Key Drivers:** Persian Gulf tensions eased slightly; there were no overnight reports of new military action.
+   - **Reverse Factors:** A fresh escalation or new military reports in the region could quickly restore a geopolitical risk premium.
+   - **Classification:** Short-term influencer - DOWN
+
+2. **RBOB Gasoline**
+   - **Price Movement:** Declined, with September RBOB gasoline closing down -0.0257 (-0.81%).
+   - **Key Drivers:** Followed crude oil lower as Persian Gulf tensions eased slightly.
+   - **Reverse Factors:** Any renewed supply disruption concerns in the region could reverse the decline.
+   - **Classification:** Short-term influencer - DOWN
+
+3. **Natural Gas**
+   - **Price Movement:** Declined significantly, closing down -0.077 (-2.75%).
+   - **Key Drivers:** A bearish EIA weekly inventory report showed a +36 bcf rise in nat-gas inventories, larger than expected.
+   - **Reverse Factors:** Future inventory reports or demand shifts could alter the supply outlook.
+   - **Classification:** Short-term influencer - DOWN
+
+#### **Grains**
+1. **Corn**
+   - **Price Movement:** Declined, with futures falling 5 to 9 cents; cash corn was down 9 cents at $4.18 1/4.
+   - **Key Drivers:** Corn reverted lower after Wednesday's rally; Corn Belt weather and the upcoming Trump-Xi summit remain in focus.
+   - **Reverse Factors:** A U.S. soybean crop weather scare in August could reignite bullish enthusiasm; another analysis says bulls are back in charge of corn and December futures present a buying opportunity on more price strength.
+   - **Classification:** Short-term influencer - DOWN
+
+2. **Soybeans**
+   - **Price Movement:** Mixed trade, with contracts closing 3 ½ cents higher to 2 3/4 cents lower; cash bean price was up 4 1/2 cents.
+   - **Key Drivers:** No clear single driver; earlier strength faded after Wednesday's 6 to 17 ¼ cent gains, which occurred despite a neutral/slightly bearish USDA report; open interest was down 2,948 contracts.
+   - **Reverse Factors:** Corn Belt weather and the upcoming Trump-Xi summit are cited as potential drivers; a U.S. soybean crop weather scare in August could reignite bullish enthusiasm.
+   - **Classification:** Unclear
+
+3. **Wheat**
+   - **Price Movement:** Declined by the close; Chicago SRW was steady to 2 ¼ cents lower, and KC HRW saw fractional to 3 cent losses after early strength.
+   - **Key Drivers:** Black Sea tensions shifted/softened, prompting the wheat complex to fade lower into the close.
+   - **Reverse Factors:** Re-escalation of Black Sea tensions could snap wheat prices back higher.
+   - **Classification:** Short-term influencer - DOWN
+
+#### **Livestock**
+1. **Lean Hogs**
+   - **Price Movement:** Declined, with losses of 20 cents to $1.70 across most contracts.
+   - **Key Drivers:** No specific bearish driver was cited; futures fell despite the USDA national base hog price rising $1.56 to $97.37.
+   - **Reverse Factors:** Further strength in cash hog prices could support futures.
+   - **Classification:** Unclear
+
+2. **Live Cattle**
+   - **Price Movement:** Declined, with contracts down $1.52 to $4.35.
+   - **Key Drivers:** Weaker cash trade and news that Tyson announced more closures.
+   - **Reverse Factors:** Cash trade has picked up, and no deliveries were issued against August futures on Wednesday.
+   - **Classification:** Short-term influencer - DOWN
+
+#### **Metals**
+1. **Silver**
+   - **Price Movement:** No explicit daily change given; silver is trading at $66 per ounce, over $55 below its late January 2026 high.
+   - **Key Drivers:** The parabolic rally in 2025/early 2026 turned into an "implosive correction" threatening critical long-term support.
+   - **Reverse Factors:** If the critical support level holds, a rebound is possible; a break could extend the correction.
+   - **Classification:** Short-term influencer - DOWN
+
+#### **Softs**
+1. **Cotton**
+   - **Price Movement:** Declined modestly, with futures down 41 to 90 points across most contracts.
+   - **Key Drivers:** No explicit driver was cited; the article notes crude oil was down $2.06, the US dollar index was $0.054 lower, and Export Sales totaled 778,939.
+   - **Reverse Factors:** A lower US dollar and export sales data could be supportive if demand improves.
+   - **Classification:** Unclear
+
+2. **Sugar**
+   - **Price Movement:** Rose significantly; October NY sugar #11 closed up +0.40 (+2.44%), and London white sugar #5 closed up +11.00 (+2.17%).
+   - **Key Drivers:** Continued weather-related risks to sugar supplies.
+   - **Reverse Factors:** Prices remained below Wednesday's levels; an easing of weather risks could pressure prices.
+   - **Classification:** Short-term influencer - UP
+
+3. **Cocoa**
+   - **Price Movement:** Rose; September NY cocoa closed up +29 (+0.52%), and London cocoa closed up +10 (+0.24%).
+   - **Key Drivers:** Continued recovery/retracing after Tuesday's sharp drop tied to beneficial West African weather.
+   - **Reverse Factors:** Beneficial West African weather remains a bearish supply factor that could resume downward pressure.
+   - **Classification:** Short-term influencer - UP
+
+4. **Coffee**
+   - **Price Movement:** Declined; September arabica coffee closed down -7.00 (-2.06%), and robusta coffee closed down -103 (-2.73%).
+   - **Key Drivers:** Colombian coffee exports partially resumed, easing supply concerns after Tuesday's 1-month high.
+   - **Reverse Factors:** If the export resumption stalls or new supply disruptions emerge, prices could reverse higher.
+   - **Classification:** Short-term influencer - DOWN
+
+#### **Currencies & Stocks**
+1. **US Dollar Index**
+   - **Price Movement:** Ended little changed / slightly lower, down -0.09 (-0.09%).
+   - **Key Drivers:** A dovish US PPI report lowered the odds of a September Fed rate hike to 35% from 40%.
+   - **Reverse Factors:** A Fed rate hike is still possible at 35% odds; additional rate-supportive data could boost the dollar.
+   - **Classification:** Short-term influencer - DOWN
+
+---
+
+### **Summary & Key Themes**
+- Commodity markets were broadly lower, with crude, gasoline, natural gas, corn, wheat, cotton, hogs, cattle, and coffee declining; sugar and cocoa rallied, while soybeans were mixed.
+- Geopolitical risk premiums eased in energy and wheat, as Persian Gulf tensions softened and Black Sea tensions shifted.
+- The US dollar stayed under mild pressure after a dovish PPI report, with September Fed rate hike odds dropping to 35%.
+- Weather remains a key swing factor: weather risks supported sugar, beneficial West African weather pressured cocoa earlier, and Corn Belt weather/Trump-Xi summit headlines are driving grains.
+- Supply-side news drove soft commodities: Colombian coffee exports partially resumed, pressuring coffee, while cocoa recovered and sugar remained supported.
+
+### **Risks Highlighted**
+1. Persian Gulf tensions could re-escalate, reversing crude and gasoline declines.
+2. Black Sea tensions could shift again, impacting wheat prices.
+3. Tyson's additional closures could weigh on cattle demand.
+4. Sugar remains exposed to weather-related supply risks.
+5. Coffee supply could be disrupted again if Colombian export resumption stalls.
+6. A potential U.S. soybean crop weather scare in August could reignite bullish grains sentiment.
+7. The upcoming Trump-Xi summit could alter trade expectations for grains.
+8. Silver's test of critical long-term support poses a technical risk of further downside.
+
+### **Watch Next**
+1. Upcoming Trump-Xi summit and trade/tariff headlines.
+2. August U.S. soybean crop weather conditions.
+3. Persian Gulf and Black Sea geopolitical updates.
+4. Colombian coffee export progress.
+5. Next EIA natural gas inventory report.
+6. Federal Reserve signals after the dovish PPI report.
+7. Cattle cash trade and Tyson closure developments.
+8. Silver price action around its critical support level.
+
+---
+
+### **Price Movement Classification Table**
+| Product | Classification | Reason |
+|--------|----------------|--------|
+| WTI Crude Oil | Short-term influencer - DOWN | Persian Gulf tensions ease |
+| RBOB Gasoline | Short-term influencer - DOWN | Follows crude lower |
+| Natural Gas | Short-term influencer - DOWN | Bearish EIA inventory build |
+| Corn | Short-term influencer - DOWN | Reversion after Wednesday rally |
+| Soybeans | Unclear | Mixed trade, no explicit catalyst |
+| Wheat | Short-term influencer - DOWN | Black Sea tensions shift |
+| Lean Hogs | Unclear | Futures fell despite higher cash |
+| Live Cattle | Short-term influencer - DOWN | Weaker cash, Tyson closures |
+| Silver | Short-term influencer - DOWN | Correction after parabolic rally |
+| Cotton | Unclear | No explicit driver cited |
+| Sugar | Short-term influencer - UP | Weather-related supply risks |
+| Cocoa | Short-term influencer - UP | Technical recovery after drop |
+| Coffee | Short-term influencer - DOWN | Colombian exports partially resume |
+| US Dollar Index | Short-term influencer - DOWN | Dovish PPI report |
