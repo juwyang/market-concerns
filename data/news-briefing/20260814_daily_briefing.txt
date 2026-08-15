@@ -1,0 +1,145 @@
+News Briefing for: 2026-08-14
+Generated at: 2026-08-15 05:23:48
+LLM Used: DeepSeek (deepseek-reasoner)
+Source JSON: 20260814_barchart_all-commodities_news.json
+Cost info: Prompt tokens: 4617, Completion tokens: 12977, Total tokens: 17594
+Model Processing Time: 119.81 seconds
+
+---
+
+### Daily Financial Briefing: 20260814
+
+#### **Energy**
+1.  **Crude Oil & Gasoline**
+    - **Price Movement:** Rose on Friday. September WTI crude closed up +1.15 (+1.42%); September RBOB gasoline closed up +0.0561 (+1.79%). Earlier in the day, WTI was up +0.63 (+0.78%).
+    - **Key Drivers:** Continued Iranian disruption of vessel traffic in the Strait of Hormuz, along with reported incidents involving Abu Dhabi oil vessels, supported prices.
+    - **Reverse Factors:** If Strait of Hormuz tensions de-escalate, crude and gasoline prices could quickly give back geopolitical risk premiums.
+    - **Classification:** Short-term influencer - UP
+
+2.  **Natural Gas**
+    - **Price Movement:** Rose slightly on Friday. September Nymex natural gas closed up +0.006 (+0.22%).
+    - **Key Drivers:** Forecasts of warm US weather in the final weeks of August suggested stronger near-term nat-gas demand.
+    - **Reverse Factors:** The market is expected to shift focus from the 2026 cooling season to the 2026/2027 heating season, which could alter demand expectations.
+    - **Classification:** Short-term influencer - UP
+
+#### **Grains**
+1.  **Wheat**
+    - **Price Movement:** Rose strongly on Friday. Chicago SRW contracts closed up 11 3/4 to 22 cents, with a weekly gain of 35 cents. KC HRW futures led the rally. Midday reports showed SRW up 23 to 25 cents.
+    - **Key Drivers:** Renewed Black Sea headlines, including Russia rejecting Ukraine’s proposal, supportive European futures, and a broader grain-market rally.
+    - **Reverse Factors:** Black Sea news has been back-and-forth; wheat fell back on Thursday, showing sentiment can reverse quickly.
+    - **Classification:** Short-term influencer - UP
+
+2.  **Corn**
+    - **Price Movement:** Rose on Friday. Corn contracts were up 5 to 11 1/4 cents, with September rallying 20 cents on the week and December up 21 1/4 cents. National average cash corn was up 9 3/4 cents at $4.28.
+    - **Key Drivers:** Follow-through from wheat-led strength, recovering Thursday losses, and spillover support from the broader grain rally.
+    - **Reverse Factors:** Corn had fallen back from its Wednesday rally on Thursday, suggesting momentum could fade if the wheat rally stalls.
+    - **Classification:** Short-term influencer - UP
+
+3.  **Soybeans**
+    - **Price Movement:** Rose on Friday. Soybeans posted gains of 5 1/2 to 11 3/4 cents across most contracts. September was up 18 3/4 cents on the week, and November was up 16 1/4 cents. National average cash beans were up 5 1/4 cents at $11.45 1/2.
+    - **Key Drivers:** No explicit soybean-specific driver was detailed in the provided articles; prices moved higher alongside positive grain-market sentiment.
+    - **Reverse Factors:** Thursday’s trade was mixed, and a lack of a clear soybean-specific catalyst leaves room for profit-taking.
+    - **Classification:** Unclear
+
+#### **Livestock**
+1.  **Lean Hogs**
+    - **Price Movement:** Fell on Friday. Lean hog futures slipped, with contracts down 7 to 62 cents. October was down 47 cents on the week. USDA’s national base hog price was reported at $93.03 Friday morning, up $4.25 from the prior day, and later at $93.30 Friday afternoon.
+    - **Key Drivers:** No explicit bearish driver was cited in the articles; futures faded despite a higher cash hog price.
+    - **Reverse Factors:** The higher cash hog price could provide support if futures regain their footing.
+    - **Classification:** Unclear
+
+2.  **Live Cattle**
+    - **Price Movement:** Fell on Friday. Live cattle futures were pressured but bounced off lows to close with contracts 85 cents to $2.60 lower. August was $8.07 lower on the week. No new deliveries were issued against August.
+    - **Key Drivers:** Weaker cash cattle and the announced Tyson plant closures, tied to a historic cattle shortage.
+    - **Reverse Factors:** Cash trade picked up with some $228-230 sales in the North, and the article notes market fundamentals for beef are getting tighter.
+    - **Classification:** Short-term influencer - DOWN
+
+#### **Metals**
+- No metals-related price movements were included in the provided articles.
+
+#### **Softs**
+1.  **Cotton**
+    - **Price Movement:** Rose on Friday. Front-month cotton futures were up 116 to 130 points at the close, with contracts up 96 to 133 points across most months intraday. December was 40 points higher on the week.
+    - **Key Drivers:** Higher crude oil, a weaker US dollar, and strong export sales figures (a total of 778,939 reported).
+    - **Reverse Factors:** Cotton posted modest losses on Thursday, suggesting near-term sentiment remains sensitive to crude oil and dollar moves.
+    - **Classification:** Short-term influencer - UP
+
+2.  **Sugar**
+    - **Price Movement:** Fell on Friday. October NY world sugar #11 closed down -0.22 (-1.31%); October London ICE white sugar #5 closed down -6.70 (-1.29%).
+    - **Key Drivers:** Apparent long liquidation pressure, with prices pulling back from Wednesday’s 1.25-year highs.
+    - **Reverse Factors:** If liquidation pressure fades, prices could find support near recent highs.
+    - **Classification:** Short-term influencer - DOWN
+
+3.  **Cocoa**
+    - **Price Movement:** Rose on Friday. September ICE NY cocoa closed up 86 points (+1.52%); September ICE London cocoa #7 closed up 4 points (+0.10%).
+    - **Key Drivers:** Support from the -0.3% decline in the US dollar index.
+    - **Reverse Factors:** If the dollar reverses higher, cocoa’s support from currency movements could fade.
+    - **Classification:** Short-term influencer - UP
+
+4.  **Arabica Coffee**
+    - **Price Movement:** Rose on Friday. September arabica coffee closed up +5.00 (+1.50%); midday showed it up +3.75 (+1.13%).
+    - **Key Drivers:** Support from the slow pace of Brazil’s coffee harvest, with Safras data cited.
+    - **Reverse Factors:** Robusta coffee fell on the same day, and a faster harvest pace would reduce supply-side support.
+    - **Classification:** Short-term influencer - UP
+
+5.  **Robusta Coffee**
+    - **Price Movement:** Fell on Friday. September ICE robusta coffee closed down -45 (-1.23%); midday showed it down -63 (-1.72%).
+    - **Key Drivers:** No specific bearish driver was cited; robusta declined despite the broader coffee-support narrative from Brazil’s slow harvest.
+    - **Reverse Factors:** It could recover if Brazil harvest concerns expand to robusta markets.
+    - **Classification:** Unclear
+
+#### **Currencies & Stocks**
+1.  **US Dollar Index**
+    - **Price Movement:** Fell on Friday. The dollar index was down -0.27%, with an intraday decline of -0.41%. Odds of a September Fed rate hike fell to 32% (or 29% in one report) from 35% on Thursday.
+    - **Key Drivers:** Weak US retail sales and consumer sentiment reports reduced expectations for a September Fed rate hike.
+    - **Reverse Factors:** A Fed dissenter said “we need to act now” on interest rates and cautioned against ruling out a September hike, which could revive dollar support.
+    - **Classification:** Short-term influencer - DOWN
+
+2.  **Phillips 66 Stock**
+    - **Price Movement:** No specific daily price movement was included in the provided article. The stock was noted as having outperformed the broader market over the past year.
+    - **Key Drivers:** Analysts are moderately optimistic about the stock’s prospects.
+    - **Reverse Factors:** The article’s question of whether Wall Street is bullish or bearish suggests mixed opinions that could shift with energy markets.
+    - **Classification:** Unclear
+
+---
+
+### **Summary & Key Themes**
+- Grain markets broadly rallied, led by wheat on renewed Black Sea tensions after Russia rejected Ukraine’s proposal.
+- Energy markets were supported by geopolitical risk in the Strait of Hormuz and warm US weather forecasts for natural gas.
+- Livestock markets were broadly weaker, with live cattle pressured by Tyson plant closures and hogs fading despite higher cash prices.
+- Softs were mixed: cotton, cocoa, and arabica coffee gained, while sugar pulled back from highs and robusta coffee fell.
+- The US dollar weakened after soft retail sales and consumer sentiment data, lowering September Fed rate-hike odds.
+
+### **Risks Highlighted**
+1. Escalation or resolution of Black Sea tensions could sharply move wheat and other grain markets.
+2. Continued Iranian disruption of vessel traffic in the Strait of Hormuz poses upside risk to crude and gasoline prices.
+3. Tyson plant closures related to the historic cattle shortage could continue to pressure live cattle markets.
+4. A September Fed rate hike remains possible despite cooler inflation data, according to a Fed dissenter.
+5. Sugar prices may face further long liquidation after hitting 1.25-year highs earlier in the week.
+
+### **Watch Next**
+1. Further Black Sea news involving Russia and Ukraine.
+2. Any updates on Strait of Hormuz vessel traffic and Iran’s actions.
+3. Fed communications and upcoming US economic data for rate-hike signals.
+4. Tyson plant closure developments and cash cattle trade.
+5. Brazil’s coffee harvest pace and weekly US export sales data.
+
+---
+
+### **Price Movement Classification Table**
+| Product          | Classification          | Reason                      |
+|------------------|-------------------------|-----------------------------|
+| Crude Oil & Gasoline | Short-term influencer - UP | Hormuz shipping disruption  |
+| Natural Gas      | Short-term influencer - UP | Warm weather forecasts      |
+| Wheat            | Short-term influencer - UP | Black Sea/Russia tensions   |
+| Corn             | Short-term influencer - UP | Wheat-led spillover rally   |
+| Soybeans         | Unclear                  | No explicit driver          |
+| Lean Hogs        | Unclear                  | No explicit driver          |
+| Live Cattle      | Short-term influencer - DOWN | Tyson closure/cash weakness |
+| Cotton           | Short-term influencer - UP | Weak dollar, crude, exports |
+| Sugar            | Short-term influencer - DOWN | Long liquidation after highs |
+| Cocoa            | Short-term influencer - UP | Weak dollar support         |
+| Arabica Coffee   | Short-term influencer - UP | Slow Brazil harvest         |
+| Robusta Coffee   | Unclear                  | No explicit driver          |
+| US Dollar Index  | Short-term influencer - DOWN | Weak US data                |
+| Phillips 66 Stock | Unclear                 | No price movement           |
