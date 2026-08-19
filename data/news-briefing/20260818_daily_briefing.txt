@@ -1,0 +1,154 @@
+News Briefing for: 2026-08-18
+Generated at: 2026-08-19 05:29:02
+LLM Used: DeepSeek (deepseek-reasoner)
+Source JSON: 20260818_barchart_all-commodities_news.json
+Cost info: Prompt tokens: 4789, Completion tokens: 18092, Total tokens: 22881
+Model Processing Time: 159.48 seconds
+
+---
+
+### Daily Financial Briefing: 20260818
+
+#### **Energy**
+1. **Crude Oil (WTI)**  
+   - **Price Movement:** September WTI crude oil (CLU26) closed up +0.44 (+0.52%) on Tuesday, after earlier being up as much as +0.80 (+0.95%) and reaching a 3-week high.  
+   - **Key Drivers:** Reduced Middle Eastern oil supplies and the continued closure of the Strait of Hormuz supported prices. Crude extended Monday’s sharp rally and also boosted inflation expectations.  
+   - **Reverse Factors:** The rally is reliant on geopolitical supply disruption; any de-escalation or reopening of the Strait could quickly reverse gains.  
+   - **Classification:** Short-term influencer - UP
+
+2. **Gasoline (RBOB)**  
+   - **Price Movement:** September RBOB gasoline (RBU26) closed up +0.0316 (+0.97%) on Tuesday.  
+   - **Key Drivers:** Gasoline extended Monday’s sharp rally, supported by reduced Middle Eastern oil supplies and the closed Strait of Hormuz.  
+   - **Reverse Factors:** Geopolitical headlines remain the key risk; an easing of tensions could pressure prices.  
+   - **Classification:** Short-term influencer - UP
+
+3. **Natural Gas**  
+   - **Price Movement:** September Nymex natural gas (NGU26) closed up +0.086 (+3.20%) on Tuesday.  
+   - **Key Drivers:** Forecasts of above-average temperatures in the US South boosted natural gas demand expectations.  
+   - **Reverse Factors:** Weather forecasts can change, and hot-weather demand is seasonal/temporary.  
+   - **Classification:** Short-term influencer - UP
+
+#### **Grains**
+1. **Corn**  
+   - **Price Movement:** Corn futures closed mixed on Tuesday, ranging from 1 ¾ cents lower to 1 cent higher. The CmdtyView national average Cash Corn price was down 1 ¾ cents at $4.35.  
+   - **Key Drivers:** Earlier support came from lower USDA crop ratings and lower ProFarmer Crop Tour yields, though prices faded into the close.  
+   - **Reverse Factors:** Fading early gains and lower cash prices suggest limited follow-through buying; upcoming tour results could shift sentiment.  
+   - **Classification:** Short-term influencer - UP
+
+2. **Soybeans**  
+   - **Price Movement:** Soybeans closed fractionally to 6 cents higher after falling off intraday highs; September was down ¼ cent. The CmdtyView national average Cash Bean price was up 1 cent at $11.76.  
+   - **Key Drivers:** Lower ProFarmer Crop Tour pod counts supported prices, extending Monday’s strong gains.  
+   - **Reverse Factors:** Prices slipped off their highs, and the front-month September contract closed slightly lower, suggesting some resistance/profit-taking.  
+   - **Classification:** Short-term influencer - UP
+
+3. **Wheat**  
+   - **Price Movement:** The wheat complex was mixed on Tuesday. Chicago SRW front months were down 1 to 10 ¼ cents, while spring wheat held up and winter wheats were weaker.  
+   - **Key Drivers:** Ongoing war in Ukraine has been supporting wheat prices; July 2026 CBOT SRW prices reached their highest level this year and since May 2024. Tuesday’s trade showed spring wheat strength versus winter wheat weakness, with Chicago the weaker exchange.  
+   - **Reverse Factors:** Any de-escalation in the Ukraine conflict could remove the war premium supporting wheat prices.  
+   - **Classification:** Unclear
+
+#### **Livestock**
+1. **Lean Hogs**  
+   - **Price Movement:** Lean hog futures fell on Tuesday, with contracts down $1 to $1.77 at the close. USDA’s national base hog price was reported at $93.52 on Tuesday afternoon, up 90 cents from the prior day.  
+   - **Key Drivers:** No explicit driver was given for the futures decline. Cash hog prices were higher, while the CME Lean Hog Index was down.  
+   - **Reverse Factors:** Firm cash prices could provide support to futures if the selloff is viewed as overdone.  
+   - **Classification:** Unclear
+
+2. **Live Cattle**  
+   - **Price Movement:** Live cattle futures closed Tuesday mostly higher, with contracts up 15 to 90 cents. Feeder cattle futures were also up 32 cents at midday. Cash trade has been quiet this week.  
+   - **Key Drivers:** The supply picture remains structurally tight, with fewer placements and a smaller calf crop. Cash trade followed last week’s $225-228 sales, with a few $359 dressed sales creeping in.  
+   - **Reverse Factors:** Larger near-term feedlot inventories are still pressuring prices, and quiet cash trade limits conviction.  
+   - **Classification:** Long-term influencer - UP
+
+#### **Metals**
+No metals-specific market data was included in the provided news articles.
+
+#### **Softs**
+1. **Cotton**  
+   - **Price Movement:** Cotton futures closed mixed/steady on Tuesday, from 35 points lower to 25 points higher. Earlier, most contracts were down 35 to 40 points, while thinly traded October was up 88 points.  
+   - **Key Drivers:** Earlier gains followed a USDA condition cut. Crude oil was higher, and the US dollar index was slightly higher. One analysis suggested cotton prices are headed higher, with December futures presenting a buying opportunity on more price strength.  
+   - **Reverse Factors:** Cotton faded from early gains, suggesting a lack of follow-through buying; a firmer dollar may weigh on demand.  
+   - **Classification:** Short-term influencer - UP
+
+2. **Sugar**  
+   - **Price Movement:** October NY world sugar #11 closed up +0.60 (+3.56%) on Tuesday; October London ICE white sugar #5 closed up +16.50 (+3.15%).  
+   - **Key Drivers:** Sugar extended its sharp monthly rally on global supply concerns.  
+   - **Reverse Factors:** No explicit reversal factor was cited, but the sharp multi-session rally raises the risk of profit-taking.  
+   - **Classification:** Long-term influencer - UP
+
+3. **Cocoa**  
+   - **Price Movement:** September ICE NY cocoa closed down -139 (-2.30%) on Tuesday; September ICE London cocoa #7 closed down -82 (-1.91%).  
+   - **Key Drivers:** Cocoa prices settled lower on reports of exceptional growing conditions in West Africa.  
+   - **Reverse Factors:** Weather/condition reports could change; any deterioration in West African growing conditions would likely reverse the decline.  
+   - **Classification:** Short-term influencer - DOWN
+
+4. **Coffee**  
+   - **Price Movement:** September arabica coffee closed up +18.30 (+5.30%) on Tuesday; September ICE robusta coffee closed up +85 (+2.32%).  
+   - **Key Drivers:** Coffee prices added to Monday’s sharp gains on tighter coffee supplies and supply fears.  
+   - **Reverse Factors:** No explicit reversal factor was cited; sharp gains could invite profit-taking.  
+   - **Classification:** Long-term influencer - UP
+
+#### **Currencies & Stocks**
+1. **US Dollar Index (DXY)**  
+   - **Price Movement:** The dollar index (DXY00) rose +0.10% on Tuesday, after earlier being up +0.04%.  
+   - **Key Drivers:** Weakness in stocks increased demand for dollar liquidity. Tuesday’s rally in WTI crude oil to a 3-week high boosted inflation expectations, and rising bond yields also supported the dollar.  
+   - **Reverse Factors:** If stock market weakness stabilizes and risk appetite returns, dollar liquidity demand could fade.  
+   - **Classification:** Short-term influencer - UP
+
+2. **Stocks (General Equity Market)**  
+   - **Price Movement:** Stocks were weak/slid on Tuesday, though no specific index figures were provided.  
+   - **Key Drivers:** No explicit driver was given for the stock decline. The stock weakness was noted as a factor increasing dollar liquidity demand.  
+   - **Reverse Factors:** Not specified in the articles.  
+   - **Classification:** Unclear
+
+3. **CMS Energy (Stock)**  
+   - **Price Movement:** No specific Tuesday price change was provided. The article notes the stock has underperformed the broader market over the past year.  
+   - **Key Drivers:** Wall Street analysts are moderately optimistic about the stock’s prospects.  
+   - **Reverse Factors:** Persistent underperformance relative to the broader market could continue; no daily trading details were provided.  
+   - **Classification:** Unclear
+
+---
+
+### **Summary & Key Themes**
+- Energy markets were led higher by geopolitical supply concerns: crude and gasoline climbed as the Strait of Hormuz remained closed, while natural gas jumped on hot US temperature forecasts.  
+- Ag markets were mixed: corn and cotton faded from early support to close mixed/steady, soybeans held gains on lower crop-tour pod counts, and wheat saw spring wheat strength but winter wheat weakness.  
+- Soft commodities were split: sugar and coffee rallied on supply concerns, while cocoa fell on favorable West African growing conditions.  
+- Livestock had a mixed/positive tone: live cattle closed mostly higher on a tight supply narrative despite near-term feedlot pressure, while hog futures fell even as cash prices firmed.  
+- In macro, stocks slid and boosted dollar liquidity demand, pushing the dollar index higher. The broader commodity complex continued to see solid fund buying, though a few markets showed turnaround activity.
+
+### **Risks Highlighted**
+1. Geopolitical supply support for crude/gasoline could unwind quickly if the Strait of Hormuz reopens or Middle East tensions ease.  
+2. Weather-driven moves in natural gas and cocoa are vulnerable to forecast changes.  
+3. Fading early gains in corn, soybeans, and cotton suggests the market may struggle to sustain rallies; profit-taking risk remains.  
+4. The Ukraine war premium in wheat could reverse if the conflict de-escalates.  
+5. Larger near-term feedlot inventories could pressure cattle despite the longer-term tight supply picture.  
+6. The crack spread (CRAK) is flagged as short-term overbought, raising pullback risk in the energy complex.
+
+### **Watch Next**
+1. ProFarmer Crop Tour yield and pod count results for corn and soybeans.  
+2. USDA Crop Progress/condition data, especially any follow-up on the cotton condition cut.  
+3. Middle East developments, particularly the status of the Strait of Hormuz, for crude and gasoline direction.  
+4. Cash cattle trade progress after a quiet start and last week’s $225-228 sales and $359 dressed sales.  
+5. USDA national base hog price and CME Lean Hog Index for direction in lean hogs.  
+6. US heat forecasts for natural gas demand.
+
+---
+
+### **Price Movement Classification Table**
+| Product          | Classification          | Reason |
+|------------------|-------------------------|--------|
+| Crude Oil (WTI)  | Short-term influencer - UP | Middle East supply disruptions |
+| Gasoline (RBOB)  | Short-term influencer - UP | Reduced Middle East supplies |
+| Natural Gas      | Short-term influencer - UP | Hot weather demand forecasts |
+| Corn             | Short-term influencer - UP | Crop ratings/tour yields |
+| Soybeans         | Short-term influencer - UP | Lower tour pod counts |
+| Wheat            | Unclear                 | Mixed trade/Ukraine backdrop |
+| Lean Hogs        | Unclear                 | No explicit driver |
+| Live Cattle      | Long-term influencer - UP | Structurally tight supply |
+| Cotton           | Short-term influencer - UP | USDA condition cut |
+| Sugar            | Long-term influencer - UP | Global supply concerns |
+| Cocoa            | Short-term influencer - DOWN | Favorable West African weather |
+| Coffee           | Long-term influencer - UP | Tighter coffee supplies |
+| US Dollar Index  | Short-term influencer - UP | Dollar liquidity demand |
+| Stocks (General) | Unclear                 | No driver given |
+| CMS Energy       | Unclear                 | No daily price/driver |
